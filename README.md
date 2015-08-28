@@ -1,6 +1,6 @@
 # reading-list
 
-My reading list since January 1996. Commits include comments on what I read beginning in June 2015. This list is a simple text file. Here is what you need to know to interpret the list:
+[My reading list since January 1996](https://github.com/jamietr1/reading-list/blob/master/reading.txt). Commits include comments on what I read beginning in June 2015. This list is a simple text file. Here is what you need to know to interpret the list:
 
 * There is one book per line.
 * Each line is in the format TITLE by AUTHOR (COMPLETION DATE)
