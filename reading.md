@@ -1,229 +1,229 @@
-1. _From Earth to Heaven_ by Isaac Asimov (1/13/1996)</br>
-1. _Science, Numbers and I_ by Isaac Asimov (2/10/1996)</br>
-1. _Adding a Dimension_ by Isaac Asimov (2/24/1996)</br>
-1. _Of Time and Space and Other Things_ by Isaac Asimov (3/3/1996)</br>
-1. _Murder at the ABA_ by Isaac Asimov (3/10/1996)</br>
-1. _The Stars in Their Courses_ by Isaac Asimov (3/18/1996)</br>
-1. _A Tour of the Calculus_ by David Berlinski (3/31/1996)</br>
-1. **_I. Asimov_** by Isaac Asimov (4/6/1996)</br>
-1. _Double Star_ by Robert A. Heinlein (4/7/1996)</br>
-1. _The Best Mysteries of Isaac Asimov_ by Isaac Asimov (4/13/1996)</br>
-1. _Nemesis_ by Isaac Asimov (4/22/1996)</br>
-1. _The Tragedy of the Moon_ by Isaac Asimov (5/2/1996)</br>
-1. _The Planet that Wasn’t_ by Isaac Asimov (5/5/1996)</br>
-1. _The Sun Shines Bright_ by Isaac Asimov (5/7/1996)</br>
-1. _In Memory Yet Green_ by Isaac Asimov (5/13/1996)</br>
-1. _In Joy Still Felt_ by Isaac Asimov (5/20/1996)</br>
-1. _Foundation_ by Isaac Asimov (6/2/1996)</br>
-1. _Foundation_ and Empire by Isaac Asimov (6/5/1996)</br>
-1. _Second Foundation_ by Isaac Asimov (6/8/1996)</br>
-1. _Foundation’s Edge_ by Isaac Asimov (6/12/1996)</br>
-1. _Foundation and Earth_ by Isaac Asimov (6/17/1996)</br>
-1. _Prelude to Foundation_ by Isaac Asimov (6/25/1996)</br>
-1. **_Forward the Foundation_** by Isaac Asimov (6/28/1996)</br>
-1. _Asimov Laughs Again by_ Isaac Asimov (8/15/1996)</br>
-1. _Blameless in Abaddon_ by James Morrow (8/23/1996)</br>
-1. _Our Angry Earth_ by Isaac Asimov and Frederik Pohl (9/2/1996)</br>
-1. _Change!_ by Isaac Asimov (9/13/1996)</br>
-1. _Idoru_ by William Gibson (9/22/1996)</br>
-1. _Humpty Dumpty: An Oval_ by Damon Knight (9/30/1996)</br>
+1. _From Earth to Heaven_ by Isaac Asimov; 256pp (1/13/1996)</br>
+1. _Science, Numbers and I_ by Isaac Asimov; 240pp (2/10/1996)</br>
+1. _Adding a Dimension_ by Isaac Asimov; 205pp (2/24/1996)</br>
+1. _Of Time and Space and Other Things_ by Isaac Asimov; 224pp (3/3/1996)</br>
+1. _Murder at the ABA_ by Isaac Asimov; 260pp (3/10/1996)</br>
+1. _The Stars in Their Courses_ by Isaac Asimov; 218pp (3/18/1996)</br>
+1. _A Tour of the Calculus_ by David Berlinski; 331pp (3/31/1996)</br>
+1. **_I. Asimov_** by Isaac Asimov; 578pp (4/6/1996)</br>
+1. _Double Star_ by Robert A. Heinlein; 243pp (4/7/1996)</br>
+1. _The Best Mysteries of Isaac Asimov_ by Isaac Asimov; 345pp (4/13/1996)</br>
+1. _Nemesis_ by Isaac Asimov; 386pp (4/22/1996)</br>
+1. _The Tragedy of the Moon_ by Isaac Asimov; 224pp (5/2/1996)</br>
+1. _The Planet that Wasn’t_ by Isaac Asimov; 237pp (5/5/1996)</br>
+1. _The Sun Shines Bright_ by Isaac Asimov; 250pp (5/7/1996)</br>
+1. _In Memory Yet Green_ by Isaac Asimov; 744pp (5/13/1996)</br>
+1. _In Joy Still Felt_ by Isaac Asimov; 840pp (5/20/1996)</br>
+1. _Foundation_ by Isaac Asimov; 244pp (6/2/1996)</br>
+1. _Foundation and Empire_ by Isaac Asimov; 256pp (6/5/1996)</br>
+1. _Second Foundation_ by Isaac Asimov; 256pp (6/8/1996)</br>
+1. _Foundation’s Edge_ by Isaac Asimov; 450pp (6/12/1996)</br>
+1. _Foundation and Earth_ by Isaac Asimov; 528pp (6/17/1996)</br>
+1. _Prelude to Foundation_ by Isaac Asimov; 464pp (6/25/1996)</br>
+1. **_Forward the Foundation_** by Isaac Asimov; 464pp (6/28/1996)</br>
+1. _Asimov Laughs Again by_ Isaac Asimov; 368pp (8/15/1996)</br>
+1. _Blameless in Abaddon_ by James Morrow; 416pp (8/23/1996)</br>
+1. _Our Angry Earth_ by Isaac Asimov and Frederik Pohl; 323pp (9/2/1996)</br>
+1. _Change!_ by Isaac Asimov; 201pp (9/13/1996)</br>
+1. _Idoru_ by William Gibson; 308pp (9/22/1996)</br>
+1. _Humpty Dumpty: An Oval_ by Damon Knight; 288pp (9/30/1996)</br>
 1. **_Something Wicked This Way Comes_** by Ray Bradbury (10/5/1996)</br>
-1. _Red Mars_ by Kim Stanley Robinson (10/28/1996)</br>
-1. _Counting the Eons_ by Isaac Asimov (10/31/1996)</br>
-1. _Chorale_ by Barry N. Malzberg (11/3/1996)</br>
-1. _Way Station_ by Clifford D. Simak (11/9/1996)</br>
-1. _The Space Merchants_ by Frederik Pohl and C. M. Kornbluth (11/11/1996)</br>
-1. _Herovit’s World_ by Barry N. Malzberg (11/13/1996)</br>
-1. _Fahrenheit 451_ by Ray Bradbury (11/17/1996)</br>
-1. _Sundiver_ by David Brin (11/20/1996)</br>
-1. _The Martian Chronicles_ by Ray Bradbury (11/30/1996)</br>
-1. _City of Truth_ by James Morrow (12/1/1996)</br>
-1. _The Demon-Haunted World_ by Carl Sagan (12/31/1996)</br>
-1. _The Dragons of Eden_ by Carl Sagan (1/7/1997)</br>
-1. _Broca’s Brain_ by Carl Sagan (1/20/1997)</br>
-1. _Pale Blue Dot_ by Carl Sagan (1/23/1997)</br>
-1. _Foundation^_ by Isaac Asimov (1/25/1997)</br>
-1. _Foundation and Empire^_ by Isaac Asimov (1/30/1997)</br>
-1. _Second Foundation^_ by Isaac Asimov (2/10/1997)</br>
-1. _Foundation’s Edge^_ by Isaac Asimov (3/2/1997)</br>
-1. _Foundation and Earth^_ by Isaac Asimov (3/18/1997)</br>
-1. _Prelude to Foundation^_ by Isaac Asimov (3/25/1997)</br>
-1. _Forward the Foundation^_ by Isaac Asimov (3/29/1997)</br>
-1. _I. Asimov^_ by Isaac Asimov (4/6/1997)</br>
-1. _In Memory Yet Green^_ by Isaac Asimov (4/16/1997)</br>
-1. _In Joy Still Felt^_ by Isaac Asimov (5/3/1997)</br>
-1. _How to Enjoy Writing_ by Janet Asimov (5/17/1997)</br>
-1. _Contact*_ by Carl Sagan (5/27/1997)</br>
-1. _View from a Height_ by Isaac Asimov (7/6/1997)</br>
-1. _The Solar System and Back_ by Isaac Asimov (7/12/1997)</br>
-1. _Billions and Billions_ by Carl Sagan (8/17/1997)</br>
-1. _Foundation’s Fear_ by Gregory Benford (9/18/1997)</br>
-1. _Age of Wonders_ by David G. Hartwell (9/23/1997)</br>
-1. _The Stars My Destination_ by Alfred Bester (9/24/1997)</br>
-1. _Rogue Moon_ by Algis Budrys (9/26/1997)</br>
-1. _The Demolished Man_ by Alfred Bester (9/29/1997)</br>
-1. **_Dying Inside_** by Robert Silverberg (9/30/1997)</br>
-1. _Time out of Joint_ by Phillip K. Dick (10/4/1997)</br>
-1. _The Past Through Tomorrow_ by Robert A. Heinlein (10/14/1997)</br>
-1. **_Beyond Apollo_** by Barry N. Malzberg (10/18/1997)</br>
-1. _The Illustrated Man_ by Ray Bradbury (10/23/1997)</br>
-1. _Galaxies_ by Barry N. Malzberg (10/19/1997)</br>
-1. **_The Forever War_** by Joe Haldeman (11/3/1997)</br>
-1. _Lecherous Limericks_ by Isaac Asimov (11/25/1997)</br>
-1. _Today and Tomorrow and…_ by Isaac Asimov (12/6/1997)</br>
-1. _The Tyrannosaurus Prescription_ by Isaac Asimov (12/13/1997)</br>
-1. _X Stands for Unknown_ by Isaac Asimov (12/18/1997)</br>
-1. _The Subatomic Monster_ by Isaac Asimov (12/24/1997)</br>
-1. _Timequake_ by Kurt Vonnegut (12/16/1997)</br>
-1. _Forever Peace_ by Joe Haldeman (12/29/1997)</br>
-1. _Quasar, Quasar, Burning Bright_ by Isaac Asimov (1/7/1998)</br>
-1. _The Road to Infinity_ by Isaac Asimov (1/15/1997)</br>
-1. _Foundation^_ by Isaac Asimov (2/1/1998)</br>
-1. _Foundation and Empire^_ by Isaac Asimov (2/14/1998)</br>
-1. _Second Foundation^_ by Isaac Asimov (2/23/1998)</br>
-1. _Foundation’s Edge^_ by Isaac Asimov (3/8/1998)</br>
-1. _Foundation and Earth^_ by Isaac Asimov (3/22/1998)</br>
-1. _Prelude to Foundation^_ by Isaac Asimov (3/26/1998)</br>
-1. _Forward the Foundation^_ by Isaac Asimov (3/30/1998)</br>
-1. _I. Asimov^_ by Isaac Asimov (4/5/1998)</br>
-1. _In Memory^ Yet Green_ by Isaac Asimov (4/11/1998)</br>
-1. _In Joy Still Felt^_ by Isaac Asimov (4/18/1998)</br>
-1. _Foundation and Chaos_ by Greg Bear (4/20/1998)</br>
-1. _The Roving Mind_ by Isaac Asimov (5/2/1998)</br>
-1. _A Man on the Moon_ by Andrew Chaikin (5/12/1998)</br>
-1. _Deke!_ by Donald Slayton (6/10/1998)</br>
-1. _Carrying the Fire_ by Michael Collins (7/4/1998)</br>
-1. _Yours, Isaac Asimov: A Lifetime of Letters edited_ by Stanley Asimov (8/24/1998)</br>
-1. _The Silent_ by Jack Dann (9/1/1998)</br>
-1. _Voyage_ by Stephen Baxter (9/14/1998)</br>
-1. _Earth is Room Enough_ by Isaac Asimov (9/19/1998)</br>
-1. _Nine Tomorrows_ by Isaac Asimov (9/20/1998)</br>
-1. _Nightfall and Other Stories_ by Isaac Asimov (10/3/1998)</br>
-1. _Our of Everywhere_ by Isaac Asimov (10/9/1998)</br>
-1. _The New Intelligent Man’s Guide to Science_ by Isaac Asimov (11/1/1998)</br>
-1. _I, Robot: The Illustrated Screenplay_ by Harlan Ellison and Isaac Asimov (12/25/1998)</br>
-1. _The Engines of the Night_ by Barry N. Malzberg (12/27/1998)</br>
-1. _Virtual Unrealities: The Short Fiction of Alfred Bester_ by Alfred Bester (12/30/1998)</br>
-1. _Psychoshop_ by Alfred Bester and Roger Zelazny (1/1/1999)</br>
-1. _Guernica Night_ by Barry N. Malzberg (1/3/1999)</br>
-1. _The World Inside_ by Robert Silverberg (1/4/1999)</br>
-1. _The Dead Father_ by Donald Barthelme (1/5/1999)</br>
-1. _The Falling Astronauts_ by Barry N. Malzberg (1/9/1999)</br>
-1. _The End of Eternity_ by Isaac Asimov (1/11/1999)</br>
-1. _The Sodom and Gomorrah Business_ by Barry N. Malzberg (1/9/1999)</br>
-1. _Tau Zero_ by Poul Anderson (1/18/1999)</br>
-1. _2001: A Space Odyssey_ by Arthur C. Clarke (1/23/1999)</br>
-1. _Slan_ by A. E. Van Vogt (1/25/1999)</br>
-1. _Deathbird Stories_ by Harlan Ellison (1/30/1999)</br>
-1. _The Lovers_ by Philip Jose Farmer (2/3/1999)</br>
-1. _Fantastic Voyage_ by Isaac Asimov (2/6/1999)</br>
-1. _Podkayne of Mars_ by Robert A. Heinlein (2/9/1999)</br>
-1. _City_ by Clifford D. Simak (2/16/1999)</br>
-1. _Starship Troopers_ by Robert A. Heinlein (2/19/1999)</br>
-1. _The Einstein Intersection_ by Samuel R. Delany (2/20/1999)</br>
-1. _More than Human_ by Theodore Sturgeon (2/28/1999)</br>
-1. _The Destruction of the Temple_ by Barry N. Malzberg (3/2/1999)</br>
-1. _Overlay_ by Barry N. Malzberg (3/5/1999)</br>
-1. _I. Asimov^_ by Isaac Asimov (4/3/1999)</br>
-1. _In Memory Yet Green^_ by Isaac Asimov (4/14/1999)</br>
-1. _In Joy Still Felt^_ by Isaac Asimov (4/25/1999)</br>
-1. _Foundation’s Triumph^_ by David Brin (4/30/1999)</br>
-1. _Fact and Fancy_ by Isaac Asimov (5/4/1999)</br>
-1. _Of Matters Great and Small_ by Isaac Asimov (7/1/1999)</br>
-1. _A Spell For Chameleon_ by Piers Anthony (9/19/1999)</br>
-1. _The Source of Magic_ by Piers Anthony (9/25/1999)</br>
-1. _Castle Roogna_ by Piers Anthony (10/3/1999)</br>
-1. _Centaur Aisle_ by Piers Anthony (10/8/1999)</br>
-1. _Ogre, Ogre_ by Piers Anthony (10/31/1999)</br>
-1. _Nightmare_ by Piers Anthony (11/6/1999)</br>
-1. _Dragon on a Pedestal_ by Piers Anthony (11/7/1999)</br>
-1. _Crewel Lye: A Caustic Yarn_ by Piers Anthony (11/9/1999)</br>
-1. _Golem in the Gears_ by Piers Anthony (11/10/1999)</br>
-1. _Vale of the Vole_ by Piers Anthony (11/15/1999)</br>
-1. _The Eternal Footman_ by James Morrow (12/5/1999)</br>
-1. _A Scanner Darkly_ by Philip K. Dick (12/11/1999)</br>
-1. _Sincerely, Andy Rooney_ by Andy Rooney (12/12/1999)</br>
+1. _Red Mars_ by Kim Stanley Robinson; 572pp (10/28/1996)</br>
+1. _Counting the Eons_ by Isaac Asimov; 224pp (10/31/1996)</br>
+1. _Chorale_ by Barry N. Malzberg; 182pp (11/3/1996)</br>
+1. _Way Station_ by Clifford D. Simak; 210pp (11/9/1996)</br>
+1. _The Space Merchants_ by Frederik Pohl and C. M. Kornbluth; 186pp (11/11/1996)</br>
+1. _Herovit’s World_ by Barry N. Malzberg; 160pp (11/13/1996)</br>
+1. _Fahrenheit 451_ by Ray Bradbury; 190pp (11/17/1996)</br>
+1. _Sundiver_ by David Brin; 340pp (11/20/1996)</br>
+1. _The Martian Chronicles_ by Ray Bradbury; 182pp (11/30/1996)</br>
+1. _City of Truth_ by James Morrow; 160pp (12/1/1996)</br>
+1. _The Demon-Haunted World_ by Carl Sagan; 457pp (12/31/1996)</br>
+1. _The Dragons of Eden_ by Carl Sagan; 271pp (1/7/1997)</br>
+1. _Broca’s Brain_ by Carl Sagan; 398pp (1/20/1997)</br>
+1. _Pale Blue Dot_ by Carl Sagan; 384pp (1/23/1997)</br>
+1. _Foundation^_ by Isaac Asimov; 244pp (1/25/1997)</br>
+1. _Foundation and Empire^_ by Isaac Asimov; 256pp (1/30/1997)</br>
+1. _Second Foundation^_ by Isaac Asimov; 256pp (2/10/1997)</br>
+1. _Foundation’s Edge^_ by Isaac Asimov; 450pp (3/2/1997)</br>
+1. _Foundation and Earth^_ by Isaac Asimov; 528pp (3/18/1997)</br>
+1. _Prelude to Foundation^_ by Isaac Asimov; 464pp (3/25/1997)</br>
+1. _Forward the Foundation^_ by Isaac Asimov; 464pp (3/29/1997)</br>
+1. _I. Asimov^_ by Isaac Asimov; 578pp (4/6/1997)</br>
+1. _In Memory Yet Green^_ by Isaac Asimov; 744pp (4/16/1997)</br>
+1. _In Joy Still Felt^_ by Isaac Asimov; 840pp (5/3/1997)</br>
+1. _How to Enjoy Writing_ by Janet Asimov; 163pp (5/17/1997)</br>
+1. _Contact*_ by Carl Sagan; 580pp (5/27/1997)</br>
+1. _View from a Height_ by Isaac Asimov; 224pp (7/6/1997)</br>
+1. _The Solar System and Back_ by Isaac Asimov; 256pp (7/12/1997)</br>
+1. _Billions and Billions_ by Carl Sagan; 296pp (8/17/1997)</br>
+1. _Foundation’s Fear_ by Gregory Benford; 608pp (9/18/1997)</br>
+1. _Age of Wonders_ by David G. Hartwell; 320pp (9/23/1997)</br>
+1. _The Stars My Destination_ by Alfred Bester; 258pp (9/24/1997)</br>
+1. _Rogue Moon_ by Algis Budrys; 188pp (9/26/1997)</br>
+1. _The Demolished Man_ by Alfred Bester; 250pp (9/29/1997)</br>
+1. **_Dying Inside_** by Robert Silverberg; 256pp (9/30/1997)</br>
+1. _Time out of Joint_ by Phillip K. Dick; 255pp (10/4/1997)</br>
+1. _The Past Through Tomorrow_ by Robert A. Heinlein; 830pp (10/14/1997)</br>
+1. **_Beyond Apollo_** by Barry N. Malzberg; 153pp (10/18/1997)</br>
+1. _The Illustrated Man_ by Ray Bradbury; 186pp (10/23/1997)</br>
+1. _Galaxies_ by Barry N. Malzberg; 208pp (10/19/1997)</br>
+1. **_The Forever War_** by Joe Haldeman; 278pp (11/3/1997)</br>
+1. _Lecherous Limericks_ by Isaac Asimov; 96pp (11/25/1997)</br>
+1. _Today and Tomorrow and…_ by Isaac Asimov; 319pp (12/6/1997)</br>
+1. _The Tyrannosaurus Prescription_ by Isaac Asimov; 323pp (12/13/1997)</br>
+1. _X Stands for Unknown_ by Isaac Asimov; 224pp (12/18/1997)</br>
+1. _The Subatomic Monster_ by Isaac Asimov; 213pp (12/24/1997)</br>
+1. _Timequake_ by Kurt Vonnegut; 276pp (12/16/1997)</br>
+1. _Forever Peace_ by Joe Haldeman; 351pp (12/29/1997)</br>
+1. _Quasar, Quasar, Burning Bright_ by Isaac Asimov; 221pp (1/7/1998)</br>
+1. _The Road to Infinity_ by Isaac Asimov; 256pp (1/15/1997)</br>
+1. _Foundation^_ by Isaac Asimov; 244pp (2/1/1998)</br>
+1. _Foundation and Empire^_ by Isaac Asimov; 256pp (2/14/1998)</br>
+1. _Second Foundation^_ by Isaac Asimov; 256pp (2/23/1998)</br>
+1. _Foundation’s Edge^_ by Isaac Asimov; 450pp (3/8/1998)</br>
+1. _Foundation and Earth^_ by Isaac Asimov; 528pp (3/22/1998)</br>
+1. _Prelude to Foundation^_ by Isaac Asimov; 464pp (3/26/1998)</br>
+1. _Forward the Foundation^_ by Isaac Asimov; 464pp (3/30/1998)</br>
+1. _I. Asimov^_ by Isaac Asimov; 578pp (4/5/1998)</br>
+1. _In Memory^ Yet Green_ by Isaac Asimov; 744pp (4/11/1998)</br>
+1. _In Joy Still Felt^_ by Isaac Asimov; 840pp (4/18/1998)</br>
+1. _Foundation and Chaos_ by Greg Bear; 448pp (4/20/1998)</br>
+1. _The Roving Mind_ by Isaac Asimov; 349pp (5/2/1998)</br>
+1. _A Man on the Moon_ by Andrew Chaikin; 688pp (5/12/1998)</br>
+1. _Deke!_ by Donald Slayton; 352pp (6/10/1998)</br>
+1. _Carrying the Fire_ by Michael Collins; 478pp (7/4/1998)</br>
+1. _Yours, Isaac Asimov: A Lifetime of Letters_ edited by Stanley Asimov; 352pp (8/24/1998)</br>
+1. _The Silent_ by Jack Dann; 304pp (9/1/1998)</br>
+1. _Voyage_ by Stephen Baxter; 784pp (9/14/1998)</br>
+1. _Earth is Room Enough_ by Isaac Asimov; 208pp (9/19/1998)</br>
+1. _Nine Tomorrows_ by Isaac Asimov; 224pp (9/20/1998)</br>
+1. _Nightfall and Other Stories_ by Isaac Asimov; 350pp (10/3/1998)</br>
+1. _Our of Everywhere_ by Isaac Asimov; 238pp (10/9/1998)</br>
+1. _The New Intelligent Man’s Guide to Science_ by Isaac Asimov; 864pp (11/1/1998)</br>
+1. _I, Robot: The Illustrated Screenplay_ by Harlan Ellison and Isaac Asimov; 271pp (12/25/1998)</br>
+1. _The Engines of the Night_ by Barry N. Malzberg; 198pp (12/27/1998)</br>
+1. _Virtual Unrealities: The Short Fiction of Alfred Bester_ by Alfred Bester; 384pp (12/30/1998)</br>
+1. _Psychoshop_ by Alfred Bester and Roger Zelazny; 207pp (1/1/1999)</br>
+1. _Guernica Night_ by Barry N. Malzberg; 127pp (1/3/1999)</br>
+1. _The World Inside_ by Robert Silverberg; 233pp (1/4/1999)</br>
+1. _The Dead Father_ by Donald Barthelme; 177pp (1/5/1999)</br>
+1. _The Falling Astronauts_ by Barry N. Malzberg; 191pp (1/9/1999)</br>
+1. _The End of Eternity_ by Isaac Asimov; 192pp (1/11/1999)</br>
+1. _The Sodom and Gomorrah Business_ by Barry N. Malzberg; 126pp (1/9/1999)</br>
+1. _Tau Zero_ by Poul Anderson; 190pp (1/18/1999)</br>
+1. _2001: A Space Odyssey_ by Arthur C. Clarke; 297pp (1/23/1999)</br>
+1. _Slan_ by A. E. Van Vogt; 272pp (1/25/1999)</br>
+1. _Deathbird Stories_ by Harlan Ellison; 288pp (1/30/1999)</br>
+1. _The Lovers_ by Philip Jose Farmer; 200pp (2/3/1999)</br>
+1. _Fantastic Voyage_ by Isaac Asimov; 208pp (2/6/1999)</br>
+1. _Podkayne of Mars_ by Robert A. Heinlein; 224pp (2/9/1999)</br>
+1. _City_ by Clifford D. Simak; 251pp (2/16/1999)</br>
+1. _Starship Troopers_ by Robert A. Heinlein; 335pp (2/19/1999)</br>
+1. _The Einstein Intersection_ by Samuel R. Delany; 136pp (2/20/1999)</br>
+1. _More than Human_ by Theodore Sturgeon; 186pp (2/28/1999)</br>
+1. _The Destruction of the Temple_ by Barry N. Malzberg; 159pp (3/2/1999)</br>
+1. _Overlay_ by Barry N. Malzberg; 189pp (3/5/1999)</br>
+1. _I. Asimov^_ by Isaac Asimov; 578pp (4/3/1999)</br>
+1. _In Memory Yet Green^_ by Isaac Asimov; 744pp (4/14/1999)</br>
+1. _In Joy Still Felt^_ by Isaac Asimov; 840pp (4/25/1999)</br>
+1. _Foundation’s Triumph^_ by David Brin; 392pp (4/30/1999)</br>
+1. _Fact and Fancy_ by Isaac Asimov; 208pp (5/4/1999)</br>
+1. _Of Matters Great and Small_ by Isaac Asimov; 320pp (7/1/1999)</br>
+1. _A Spell For Chameleon_ by Piers Anthony; 344pp (9/19/1999)</br>
+1. _The Source of Magic_ by Piers Anthony; 255pp (9/25/1999)</br>
+1. _Castle Roogna_ by Piers Anthony; 336pp (10/3/1999)</br>
+1. _Centaur Aisle_ by Piers Anthony; 304pp (10/8/1999)</br>
+1. _Ogre, Ogre_ by Piers Anthony; 307pp (10/31/1999)</br>
+1. _Night Mare_ by Piers Anthony; 320pp (11/6/1999)</br>
+1. _Dragon on a Pedestal_ by Piers Anthony; 306pp (11/7/1999)</br>
+1. _Crewel Lye: A Caustic Yarn_ by Piers Anthony; 320pp (11/9/1999)</br>
+1. _Golem in the Gears_ by Piers Anthony; 326pp (11/10/1999)</br>
+1. _Vale of the Vole_ by Piers Anthony; 304pp (11/15/1999)</br>
+1. _The Eternal Footman_ by James Morrow; 359pp (12/5/1999)</br>
+1. _A Scanner Darkly_ by Philip K. Dick; 219pp (12/11/1999)</br>
+1. _Sincerely, Andy Rooney_ by Andy Rooney; 352pp (12/12/1999)</br>
 1. _Revelations_ by Barry N. Malzberg (12/16/1999)</br>
-1. _Forever Free_ by Joe Haldeman (12/18/1999)</br>
-1. _The Spread_ by Barry N. Malzberg (12/19/1999)</br>
-1. _The Life of Greece_ by Will Durant (1/16/2000)</br>
-1. _The Forever Machine_ by Mark Clifton and Frank Riley (1/23/2000)</br>
-1. _The Skylark of Space_ by E. E. “Doc” Smith (1/30/2000)</br>
-1. _Marvels of Science_ by Isaac Asimov (2/17/2000)</br>
-1. _Is Anyone There?_ by Isaac Asimov (3/18/2000)</br>
-1. _2010: Odyssey Two_ by Arthur C. Clarke (3/19/2000)</br>
-1. _Carl Sagan: A Life_ by William Poundstone (3/25/2000)</br>
-1. _2061: Odyssey Three_ by Arthur C. Clarke (3/26/2000)</br>
-1. _3001: Final Odyssey_ by Arthur C. Clarke (3/28/2000)</br>
-1. _I. Asimov^_ by Isaac Asimov (4/7/2000)</br>
-1. _In Memory Yet Green^_ by Isaac Asimov (4/15/2000)</br>
-1. _In Joy Still Felt^_ by Isaac Asimov (5/2/2000)</br>
-1. _The Inimitable Jeeves_ by P. G. Wodehouse (5/3/2000)</br>
-1. _The Annotated Alice_ by Lewis Carroll and Martin Gardner (5/6/2000)</br>
-1. _The Murder of Roger Ackroyd_ by Agatha Christie (5/23/2000)</br>
-1. _Murder on the Orient Express_ by Agatha Christie (5/24/2000)</br>
-1. _Debt of Honor_ by Tom Clancy (6/2/2000)</br>
-1. _God Bless You, Dr. Kevorkian_ by Kurt Vonnegut (7/10/2000)</br>
-1. _Executive Orders_ by Tom Clancy (7/31/2000)</br>
-1. _The Hunt for Red October_ by Tom Clancy (8/6/2000)</br>
-1. _Patriot Games_ by Tom Clancy (8/10/2000)</br>
-1. _The Cardinal of the Kremlin_ by Tom Clancy (8/13/2000)</br>
-1. _Clear and Present Danger_ by Tom Clancy (8/27/2000)</br>
-1. _The Sum of All Fears_ by Tom Clancy (9/3/2000)</br>
-1. _The Day of the Burning_ by Barry N. Malzberg (9/25/2000)</br>
-1. _Stranger in a Strange Land_ by Robert A. Heinlein (10/3/2000)</br>
-1. _Camp Concentration_ by Thomas M. Disch (10/5/2000)</br>
-1. _To Your Scattered Bodies Go_ by Philip Jose Farmer (10/8/2000)</br>
-1. _Failure Is Not An Option_ by Gene Kranz (10/15/2000)</br>
-1. _The Human Body_ by Isaac Asimov (11/15/2000)</br>
-1. _Foundation^_ by Isaac Asimov (12/3/2000)</br>
-1. _Foundation and Empire^_ by Isaac Asimov (12/7/2000)</br>
-1. _Did Adam and Eve Have Navels?_ by Martin Gardner (12/28/2000)</br>
-1. _From Wandering Jew to William F. Buckley_ by Martin Gardner (1/4/2001)</br>
-1. _My War_ by Andy Rooney (1/21/2001)</br>
-1. _Our From Ganymede_ by Barry N. Malzberg (2/23/2001)</br>
-1. _The Man Who Loved the Midnight Lady_ by Barry N. Malzberg (3/2/2001)</br>
-1. _Childhood’s End_ by Arthur C. Clarke (3/4/2001)</br>
-1. _Eon_ by Greg Bear (3/11/2001)</br>
-1. _Timescape_ by Gregory Benford (3/13/2001)</br>
-1. _Darwin’s Radio_ by Greg Bear (3/18/2001)</br>
-1. _The Coming_ by Joe Haldeman (3/25/2001)</br>
-1. _The Fountains of Paradise_ by Arthur C. Clarke (3/25/2001)</br>
-1. _I. Asimov^_ by Isaac Asimov (3/31/2001)</br>
-1. _In Memory Yet Green^_ by Isaac Asimov (4/8/2001)</br>
-1. _In Joy Still Felt^_ by Isaac Asimov (4/21/2001)</br>
-1. _The Land of Canaan_ by Isaac Asimov (4/28/2001)</br>
-1. _The Three Musketeers_ by Alexandre Dumas (5/6/2001)</br>
-1. _Longitude_ by Dava Sobel (5/7/2001)</br>
-1. _D-Day, June 6, 1944: The Climactic Battle of World War II_ by Stephen Ambrose (5/21/2001)</br>
-1. **_John Adams_** by David McCullough (7/2/2001)</br>
-1. _Truman_ by David McCullough (7/15/2001)</br>
-1. _Harry Potter and the Sorcerer’s Stone_ by J. K. Rowling (7/15/2001)</br>
-1. _Does America Need a Foreign Policy_ by Henry Kissenger (7/22/2001)</br>
-1. _Maestro: Greenspan’s Fed and the American Boom_ by Bob Woodward (7/26/2001)</br>
-1. _Moon Lander: How We Developed the Lunar Module_ by Thomas J. Kelly (8/1/2001)</br>
-1. _Nothing Like It in the World: The Men Who Built the Transcontinental Railroad, 1863-1869_ by Stephen Ambrose (8/19/2001)</br>
-1. _Eisenhower: Soldier and President_ by Stephen Ambrose (9/4/2001)</br>
-1. _The Fed: The Inside Story of How the World’s Most Powerful Financial Institution Drives the Markets_ by Martin Mayer (9/8/2001)</br>
-1. _Salem’s Lot_ by Stephen King (9/16/2001)</br>
-1. _The Supreme Court_ by William H. Rehnquist (9/23/2001)</br>
-1. _Jack: Straight from the Gut_ by Jack Welch and John Byrne (9/29/2001)</br>
-1. **_Shoeless Joe_** by W. P. Kinsella (10/8/2001)</br>
-1. _The Iowa Baseball Confederacy_ by W. P. Kinsella (10/28/2001)</br>
-1. _From the Dust Returned_ by Ray Bradbury (10/30/2001)</br>
-1. _Babel-17_ by Samuel R. Delany (11/4/2001)</br>
-1. _The Godfather_ by Mario Puzo (11/12/2001)</br>
-1. _In the Enclosure_ by Barry N. Malzberg (11/14/2001)</br>
-1. _Founding Brothers: The Revolutionary Generation_ by Joseph J. Ellis (11/24/2001)</br>
-1. _The Rise of Theodore Roosevelt_ by Edmund Morris (12/7/2001)</br>
-1. _View from a Height^_ by Isaac Asimov (1/8/2002)</br>
-1. _Adding a Dimension^_ by Isaac Asimov (1/13/2002)</br>
-1. _Terraforming Earth_ by Jack Williamson (1/20/2002)</br>
-1. _Passage_ by Connie Willis (2/2/2002)</br>
-1. _American Gods_ by Neil Gaiman (2/9/2002)</br>
-1. _Calculating God_ by Robert J. Sawyer (2/9/2002)</br>
-1. _Theodore Rex_ by Edmund Morris (2/18/2002)</br>
-1. _Just for Fun: The Story of an Accidental Revolutionary_ by Linus Torvalds (2/23/2002)</br>
+1. _Forever Free_ by Joe Haldeman; 277pp (12/18/1999)</br>
+1. _The Spread_ by Barry N. Malzberg; 157pp (12/19/1999)</br>
+1. _The Life of Greece_ by Will Durant; 754pp (1/16/2000)</br>
+1. _The Forever Machine_ by Mark Clifton and Frank Riley; 158pp (1/23/2000)</br>
+1. _The Skylark of Space_ by E. E. “Doc” Smith; 212pp (1/30/2000)</br>
+1. _Marvels of Science_ by Isaac Asimov; 196pp (2/17/2000)</br>
+1. _Is Anyone There?_ by Isaac Asimov; 320pp (3/18/2000)</br>
+1. _2010: Odyssey Two_ by Arthur C. Clarke; 320pp (3/19/2000)</br>
+1. _Carl Sagan: A Life_ by William Poundstone; 496pp (3/25/2000)</br>
+1. _2061: Odyssey Three_ by Arthur C. Clarke; 302pp (3/26/2000)</br>
+1. _3001: Final Odyssey_ by Arthur C. Clarke; 272pp (3/28/2000)</br>
+1. _I. Asimov^_ by Isaac Asimov; 578pp (4/7/2000)</br>
+1. _In Memory Yet Green^_ by Isaac Asimov; 744pp (4/15/2000)</br>
+1. _In Joy Still Felt^_ by Isaac Asimov; 840pp (5/2/2000)</br>
+1. _The Inimitable Jeeves_ by P. G. Wodehouse; 240pp (5/3/2000)</br>
+1. _The Annotated Alice_ by Lewis Carroll and Martin Gardner; 312pp (5/6/2000)</br>
+1. _The Murder of Roger Ackroyd_ by Agatha Christie; 288pp (5/23/2000)</br>
+1. _Murder on the Orient Express_ by Agatha Christie; 274pp (5/24/2000)</br>
+1. _Debt of Honor_ by Tom Clancy; 990pp (6/2/2000)</br>
+1. _God Bless You, Dr. Kevorkian_ by Kurt Vonnegut; 80pp (7/10/2000)</br>
+1. _Executive Orders_ by Tom Clancy; 1273pp (7/31/2000)</br>
+1. _The Hunt for Red October_ by Tom Clancy; 432pp (8/6/2000)</br>
+1. _Patriot Games_ by Tom Clancy; 503pp (8/10/2000)</br>
+1. _The Cardinal of the Kremlin_ by Tom Clancy; 547pp (8/13/2000)</br>
+1. _Clear and Present Danger_ by Tom Clancy; 688pp (8/27/2000)</br>
+1. _The Sum of All Fears_ by Tom Clancy; 928pp (9/3/2000)</br>
+1. _The Day of the Burning_ by Barry N. Malzberg; 166pp (9/25/2000)</br>
+1. _Stranger in a Strange Land_ by Robert A. Heinlein; 528pp (10/3/2000)</br>
+1. _Camp Concentration_ by Thomas M. Disch; 192pp (10/5/2000)</br>
+1. _To Your Scattered Bodies Go_ by Philip Jose Farmer; 220pp (10/8/2000)</br>
+1. _Failure Is Not An Option_ by Gene Kranz; 416pp (10/15/2000)</br>
+1. _The Human Body_ by Isaac Asimov; 352pp (11/15/2000)</br>
+1. _Foundation^_ by Isaac Asimov; 244pp (12/3/2000)</br>
+1. _Foundation and Empire^_ by Isaac Asimov; 256pp (12/7/2000)</br>
+1. _Did Adam and Eve Have Navels?_ by Martin Gardner; 252pp (12/28/2000)</br>
+1. _From Wandering Jew to William F. Buckley_ by Martin Gardner; 350pp (1/4/2001)</br>
+1. _My War_ by Andy Rooney; 333pp (1/21/2001)</br>
+1. _Out From Ganymede_ by Barry N. Malzberg; 150pp (2/23/2001)</br>
+1. _The Man Who Loved the Midnight Lady_ by Barry N. Malzberg; 201pp (3/2/2001)</br>
+1. _Childhood’s End_ by Arthur C. Clarke; 224pp (3/4/2001)</br>
+1. _Eon_ by Greg Bear; 512pp (3/11/2001)</br>
+1. _Timescape_ by Gregory Benford; 499pp (3/13/2001)</br>
+1. _Darwin’s Radio_ by Greg Bear; 448pp (3/18/2001)</br>
+1. _The Coming_ by Joe Haldeman; 278pp (3/25/2001)</br>
+1. _The Fountains of Paradise_ by Arthur C. Clarke; 352pp (3/25/2001)</br>
+1. _I. Asimov^_ by Isaac Asimov; 578pp (3/31/2001)</br>
+1. _In Memory Yet Green^_ by Isaac Asimov; 744pp (4/8/2001)</br>
+1. _In Joy Still Felt^_ by Isaac Asimov; 840pp (4/21/2001)</br>
+1. _The Land of Canaan_ by Isaac Asimov; 306pp (4/28/2001)</br>
+1. _The Three Musketeers_ by Alexandre Dumas; 786pp (5/6/2001)</br>
+1. _Longitude_ by Dava Sobel; 192pp (5/7/2001)</br>
+1. _D-Day, June 6, 1944: The Climactic Battle of World War II_ by Stephen Ambrose; 656pp (5/21/2001)</br>
+1. **_John Adams_** by David McCullough; 751pp (7/2/2001)</br>
+1. _Truman_ by David McCullough; 1120pp (7/15/2001)</br>
+1. _Harry Potter and the Sorcerer’s Stone_ by J. K. Rowling; 320pp (7/15/2001)</br>
+1. _Does America Need a Foreign Policy_ by Henry Kissenger; 352pp (7/22/2001)</br>
+1. _Maestro: Greenspan’s Fed and the American Boom_ by Bob Woodward; 288pp (7/26/2001)</br>
+1. _Moon Lander: How We Developed the Lunar Module_ by Thomas J. Kelly; 288pp (8/1/2001)</br>
+1. _Nothing Like It in the World: The Men Who Built the Transcontinental Railroad, 1863-1869_ by Stephen Ambrose; 432pp (8/19/2001)</br>
+1. _Eisenhower: Soldier and President_ by Stephen Ambrose; 640pp (9/4/2001)</br>
+1. _The Fed: The Inside Story of How the World’s Most Powerful Financial Institution Drives the Markets_ by Martin Mayer; 350pp (9/8/2001)</br>
+1. _Salem’s Lot_ by Stephen King; 483pp (9/16/2001)</br>
+1. _The Supreme Court_ by William H. Rehnquist; 302pp (9/23/2001)</br>
+1. _Jack: Straight from the Gut_ by Jack Welch and John Byrne; 496pp (9/29/2001)</br>
+1. **_Shoeless Joe_** by W. P. Kinsella; 272pp (10/8/2001)</br>
+1. _The Iowa Baseball Confederacy_ by W. P. Kinsella; 310pp (10/28/2001)</br>
+1. _From the Dust Returned_ by Ray Bradbury; 206pp (10/30/2001)</br>
+1. _Babel-17_ by Samuel R. Delany; 192pp (11/4/2001)</br>
+1. _The Godfather_ by Mario Puzo; 448pp (11/12/2001)</br>
+1. _In the Enclosure_ by Barry N. Malzberg; 190pp (11/14/2001)</br>
+1. _Founding Brothers: The Revolutionary Generation_ by Joseph J. Ellis; 290pp (11/24/2001)</br>
+1. _The Rise of Theodore Roosevelt_ by Edmund Morris; 780pp (12/7/2001)</br>
+1. _View from a Height^_ by Isaac Asimov; 224pp (1/8/2002)</br>
+1. _Adding a Dimension^_ by Isaac Asimov; 205pp (1/13/2002)</br>
+1. _Terraforming Earth_ by Jack Williamson; 348pp (1/20/2002)</br>
+1. _Passage_ by Connie Willis; 780pp (2/2/2002)</br>
+1. _American Gods_ by Neil Gaiman; 635pp (2/9/2002)</br>
+1. _Calculating God_ by Robert J. Sawyer; 338pp (2/9/2002)</br>
+1. _Theodore Rex_ by Edmund Morris; 772pp (2/18/2002)</br>
+1. _Just for Fun: The Story of an Accidental Revolutionary_ by Linus Torvalds; 288pp (2/23/2002)</br>
 1. _Keeping Faith: Memoirs of a President_ by Jimmy Carter (3/5/2002)</br>
 1. _The First American: The Life and Times of Benjamin Franklin_ by H. W. Brands (3/29/2002)</br>
 1. _I. Asimov^_ by Isaac Asimov (4/3/2002)</br>
