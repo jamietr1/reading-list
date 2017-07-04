@@ -224,87 +224,87 @@
 1. _Calculating God_ by Robert J. Sawyer; 338pp (2/9/2002)</br>
 1. _Theodore Rex_ by Edmund Morris; 772pp (2/18/2002)</br>
 1. _Just for Fun: The Story of an Accidental Revolutionary_ by Linus Torvalds; 288pp (2/23/2002)</br>
-1. _Keeping Faith: Memoirs of a President_ by Jimmy Carter (3/5/2002)</br>
-1. _The First American: The Life and Times of Benjamin Franklin_ by H. W. Brands (3/29/2002)</br>
-1. _I. Asimov^_ by Isaac Asimov (4/3/2002)</br>
-1. _In Memory Yet Green^_ by Isaac Asimov (4/12/2002)</br>
-1. _In Joy Still Felt^_ by Isaac Asimov (4/22/2002)</br>
-1. _Rendezvous with Rama_ by Arthur C. Clarke (6/7/2002)</br>
-1. _Built to Last_ by James C. Collins (7/3/2002)</br>
-1. _Good to Great_ by James C. Collins (7/7/2002)</br>
-1. _Flight_ by Chris Craft (9/4/2002)</br>
-1. _John Glenn: A Memoir_ by John Glenn (9/7/2002)</br>
-1. _Common Nonsense_ by Andy Rooney (11/2/2002)</br>
-1. _To America: Personal Reflections of a Historian_ by Stephen Ambrose (11/5/2002)</br>
-1. _Guardian_ by Joe Haldeman (11/7/2002)</br>
-1. _A History of the American People_ by Paul Johnson (12/22/2002)</br>
-1. _Bush at War_ by Bob Woodward (12/30/2002)</br>
-1. _The Thrill of the Grass_ by W. P. Kinsella (1/2/2003)</br>
-1. _Shopgirl_ by Steve Martin (1/3/2003)</br>
-1. **_Travels with Charley: In Search of America_** by John Steinbeck (1/9/2003)</br>
-1. _Magic Time_ by W. P. Kinsella (1/11/2003)</br>
-1. _Forever: A Novel_ by Pete Hamill (1/19/2003)</br>
-1. _Let’s All Kill Constance_ by Ray Bradbury (1/21/2003)</br>
-1. _The Grapes of Wrath_ by John Steinbeck (1/26/2003)</br>
-1. _America and Americans_ by John Steinbeck (2/5/2003)</br>
-1. _The Little Prince_ by Antoine de Saint-Exupery (3/9/2003)</br>
-1. _Band of Brothers_ by Stephen Ambrose (3/27/2003)</br>
-1. _I. Asimov^_ by Isaac Asimov (4/20/2003)</br>
-1. _Pattern Recognition_ by William Gibson (5/27/2003)</br>
-1. _The Da Vinci Code_ by Dan Brown (6/26/2003)</br>
-1. _The Life You Imagine_ by Derek Jeter and Jack Curry (7/20/2003)</br>
-1. _Moneyball: The Art of Winning an Unfair Game_ by Michael Lewis (7/26/2003)</br>
-1. _UML Distilled_ by Martin Fowler (7/31/2003)</br>
-1. _Baseball: A History of America’s Game_ by Benjamin G. Rader (8/1/2003)</br>
-1. _Roads: Driving America’s Great Highways_ by Larry McMurtry (8/3/2003)</br>
-1. _The Lovely Bones_ by Alice Sebold (8/5/2003)</br>
-1. _The Natural_ by Bernard Malamud (8/7/2003)</br>
-1. _Blue Latitudes: Boldly Going Where Captain Hook Has Gone Before_ by Tony Horwitz (8/20/2003)</br>
-1. _Body for Life_ by Michael D’Orso (8/23/2003)</br>
-1. _Nixon: The Education of a Politician 1919-1962_ by Stephen Ambrose (9/3/2003)</br>
-1. _Foundation^_ by Isaac Asimov (10/19/2003)</br>
-1. _Foundation and Empire^_ by Isaac Asimov (10/22/2003)</br>
-1. _Fact and Fancy_ by Isaac Asimov (11/26/2003)</br>
-1. _The Making of the Atomic Bomb_ by Richard Rhodes (12/11/2003)</br>
-1. _The Pleasure of My Company_ by Steve Martin (1/23/2004)</br>
-1. **_The Time Traveler’s Wife_** by Audrey Niffenegger (1/26/2004)</br>
-1. _1968_ by Joe Haldeman (1/31/2004)</br>
-1. _Thomas Jefferson: A Life_ by Willard Sterne Randall (2/8/2004)</br>
-1. _Moving Mars_ by Greg Bear (2/26/2004)</br>
-1. _Dandelion Wine_ by Ray Bradbury (3/3/2004)</br>
-1. _Falling Free_ by Lois McMaster Bujold (3/6/2004)</br>
-1. _A Clockwork Orange_ by Anthony Burgess (3/8/2004)</br>
-1. _Ender’s Game_ by Orson Scott Card (3/9/2004)</br>
-1. _Speaker for the Dead_ by Orson Scott Card (3/13/2004)</br>
-1. _I Have No Mouth and I Must Scream_ by Harlan Ellison (3/14/2004)</br>
-1. _Gentleman Junkie and Other Stories of the Hung-Up Generation_ by Harlan Ellison (3/19/2004)</br>
-1. _Slippage_ by Harlan Ellison (3/24/2004)</br>
-1. _I. Asimov^_ by Isaac Asimov (3/31/2004)</br>
-1. _In Memory Yet Green^_ by Isaac Asimov (4/16/2004)</br>
-1. _Trump: How to Get Rich_ by Donald Trump (7/6/2004)</br>
-1. _Getting Things Done: The Art of Stress-Free Productivity_ by David Allen (7/9/2004)</br>
-1. _A Heartbreaking Work of Staggering Genius_ by Dave Eggers (7/31/2004)</br>
-1. _The Five People You Meet in Heaven_ by Mitch Albom (7/31/2004)</br>
-1. _Camouflage_ by Joe Haldeman (8/19/2004)</br>
-1. _Lost Horizon_ by James Hilton (8/22/2004)</br>
-1. _A Farewell to Arms_ by Ernest Hemingway (8/26/2004)</br>
-1. _The Coma_ by Alex Garland (8/27/2004)</br>
-1. _The Shadow of the Wind_ by Carlos Ruiz Zafon (9/5/2004)</br>
-1. _East of Eden_ by John Steinbeck (9/14/2004)</br>
-1. _Needful Things_ by Stephen King (9/25/2004)</br>
-1. _The Curious Incident of the Dog in the Night-Time_ by Mark Haddon (9/27/2004)</br>
-1. _Genius: The Life and Science of Richard Feynman_ by James Gleick (10/6/2004)</br>
-1. _Isaac Newton_ by James Gleick (10/11/2004)</br>
-1. _A Short History of Nearly Everything_ by Bill Bryson (10/24/2004)</br>
-1. _The Secret Service: The Hidden History of an Enigmatic Agency_ by Philip H. Melanson (10/26/2004)</br>
-1. _Gateway_ by Frederik Pohl (11/29/2004)</br>
-1. _Beyond the Blue Event Horizon_ by Frederik Pohl (12/4/2004)</br>
-1. _Dune_ by Frank Herbert (12/19/2004)</br>
-1. _Screen_ by Barry N. Malzberg (12/21/2004)</br>
-1. _The Engines of the Night^_ by Barry N. Malzberg (12/23/2004)</br>
-1. _On a Planet Alien_ by Barry N. Malzberg (12/27/2004)</br>
-1. _The Last Transaction_ by Barry N. Malzberg (12/29/2004)</br>
-1. _The Door Into Summer_ by Robert A. Heinlein (12/31/2004)</br>
+1. _Keeping Faith: Memoirs of a President_ by Jimmy Carter; 640pp (3/5/2002)</br>
+1. _The First American: The Life and Times of Benjamin Franklin_ by H. W. Brands; 765pp (3/29/2002)</br>
+1. _I. Asimov^_ by Isaac Asimov; 578pp (4/3/2002)</br>
+1. _In Memory Yet Green^_ by Isaac Asimov; 744pp (4/12/2002)</br>
+1. _In Joy Still Felt^_ by Isaac Asimov; 840pp (4/22/2002)</br>
+1. _Rendezvous with Rama_ by Arthur C. Clarke; 243pp (6/7/2002)</br>
+1. _Built to Last_ by James C. Collins; 368pp (7/3/2002)</br>
+1. _Good to Great_ by James C. Collins; 320pp (7/7/2002)</br>
+1. _Flight: My Life In Mission Control_ by Chris Kraft; 370pp (9/4/2002)</br>
+1. _John Glenn: A Memoir_ by John Glenn; 422pp (9/7/2002)</br>
+1. _Common Nonsense_ by Andy Rooney; 366pp (11/2/2002)</br>
+1. _To America: Personal Reflections of a Historian_ by Stephen Ambrose; 288pp (11/5/2002)</br>
+1. _Guardian_ by Joe Haldeman; 304pp (11/7/2002)</br>
+1. _A History of the American People_ by Paul Johnson; 1104pp (12/22/2002)</br>
+1. _Bush at War_ by Bob Woodward; 382pp (12/30/2002)</br>
+1. _The Thrill of the Grass_ by W. P. Kinsella; 208pp (1/2/2003)</br>
+1. _Shopgirl_ by Steve Martin; 130pp (1/3/2003)</br>
+1. **_Travels with Charley: In Search of America_** by John Steinbeck; 214pp (1/9/2003)</br>
+1. _Magic Time_ by W. P. Kinsella; 240pp (1/11/2003)</br>
+1. _Forever: A Novel_ by Pete Hamill; 613pp (1/19/2003)</br>
+1. _Let’s All Kill Constance_ by Ray Bradbury; 256pp (1/21/2003)</br>
+1. _The Grapes of Wrath_ by John Steinbeck; 479pp (1/26/2003)</br>
+1. _America and Americans_ by John Steinbeck; 448pp (2/5/2003)</br>
+1. _The Little Prince_ by Antoine de Saint-Exupery; 83pp (3/9/2003)</br>
+1. _Band of Brothers_ by Stephen Ambrose; 432pp (3/27/2003)</br>
+1. _I. Asimov^_ by Isaac Asimov; 578pp (4/20/2003)</br>
+1. _Pattern Recognition_ by William Gibson; 367pp (5/27/2003)</br>
+1. _The Da Vinci Code_ by Dan Brown; 481pp (6/26/2003)</br>
+1. _The Life You Imagine_ by Derek Jeter and Jack Curry; 320pp (7/20/2003)</br>
+1. _Moneyball: The Art of Winning an Unfair Game_ by Michael Lewis; 317pp (7/26/2003)</br>
+1. _UML Distilled_ by Martin Fowler; 208pp (7/31/2003)</br>
+1. _Baseball: A History of America’s Game_ by Benjamin G. Rader; 312pp (8/1/2003)</br>
+1. _Roads: Driving America’s Great Highways_ by Larry McMurtry; 208pp (8/3/2003)</br>
+1. _The Lovely Bones_ by Alice Sebold; 328pp (8/5/2003)</br>
+1. _The Natural_ by Bernard Malamud; 231pp (8/7/2003)</br>
+1. _Blue Latitudes: Boldly Going Where Captain Hook Has Gone Before_ by Tony Horwitz; 480pp (8/20/2003)</br>
+1. _Body for Life_ by Michael D’Orso; 201pp (8/23/2003)</br>
+1. _Nixon: The Education of a Politician 1919-1962_ by Stephen Ambrose; 848pp (9/3/2003)</br>
+1. _Foundation^_ by Isaac Asimov; 244pp (10/19/2003)</br>
+1. _Foundation and Empire^_ by Isaac Asimov; 256pp (10/22/2003)</br>
+1. _Fact and Fancy_ by Isaac Asimov; 208pp (11/26/2003)</br>
+1. _The Making of the Atomic Bomb_ by Richard Rhodes; 886pp (12/11/2003)</br>
+1. _The Pleasure of My Company_ by Steve Martin; 176pp (1/23/2004)</br>
+1. **_The Time Traveler’s Wife_** by Audrey Niffenegger; 528pp (1/26/2004)</br>
+1. _1968_ by Joe Haldeman; 352pp (1/31/2004)</br>
+1. _Thomas Jefferson: A Life_ by Willard Sterne Randall; 736pp (2/8/2004)</br>
+1. _Moving Mars_ by Greg Bear; 448pp (2/26/2004)</br>
+1. _Dandelion Wine_ by Ray Bradbury; 239pp (3/3/2004)</br>
+1. _Falling Free_ by Lois McMaster Bujold; 288pp (3/6/2004)</br>
+1. _A Clockwork Orange_ by Anthony Burgess; 192pp (3/8/2004)</br>
+1. _Ender’s Game_ by Orson Scott Card; 324pp (3/9/2004)</br>
+1. _Speaker for the Dead_ by Orson Scott Card; 382pp (3/13/2004)</br>
+1. _I Have No Mouth and I Must Scream_ by Harlan Ellison; 134pp (3/14/2004)</br>
+1. _Gentleman Junkie and Other Stories of the Hung-Up Generation_ by Harlan Ellison; 255pp (3/19/2004)</br>
+1. _Slippage_ by Harlan Ellison; 400pp (3/24/2004)</br>
+1. _I. Asimov^_ by Isaac Asimov; 578pp (3/31/2004)</br>
+1. _In Memory Yet Green^_ by Isaac Asimov; 744pp (4/16/2004)</br>
+1. _Trump: How to Get Rich_ by Donald Trump; 320pp (7/6/2004)</br>
+1. _Getting Things Done: The Art of Stress-Free Productivity_ by David Allen; 267pp (7/9/2004)</br>
+1. _A Heartbreaking Work of Staggering Genius_ by Dave Eggers; 485pp (7/31/2004)</br>
+1. _The Five People You Meet in Heaven_ by Mitch Albom; 196pp (7/31/2004)</br>
+1. _Camouflage_ by Joe Haldeman; 289pp (8/19/2004)</br>
+1. _Lost Horizon_ by James Hilton; 241pp (8/22/2004)</br>
+1. _A Farewell to Arms_ by Ernest Hemingway; 293pp (8/26/2004)</br>
+1. _The Coma_ by Alex Garland; 192pp (8/27/2004)</br>
+1. _The Shadow of the Wind_ by Carlos Ruiz Zafon; 487pp (9/5/2004)</br>
+1. _East of Eden_ by John Steinbeck; 601pp (9/14/2004)</br>
+1. _Needful Things_ by Stephen King; 790pp (9/25/2004)</br>
+1. _The Curious Incident of the Dog in the Night-Time_ by Mark Haddon; 226pp (9/27/2004)</br>
+1. _Genius: The Life and Science of Richard Feynman_ by James Gleick; 531pp (10/6/2004)</br>
+1. _Isaac Newton_ by James Gleick; 288pp (10/11/2004)</br>
+1. _A Short History of Nearly Everything_ by Bill Bryson; 544pp (10/24/2004)</br>
+1. _The Secret Service: The Hidden History of an Enigmatic Agency_ by Philip H. Melanson; 352pp (10/26/2004)</br>
+1. _Gateway_ by Frederik Pohl; 278pp (11/29/2004)</br>
+1. _Beyond the Blue Event Horizon_ by Frederik Pohl; 336pp (12/4/2004)</br>
+1. _Dune_ by Frank Herbert; 604pp (12/19/2004)</br>
+1. _Screen_ by Barry N. Malzberg; 188pp (12/21/2004)</br>
+1. _The Engines of the Night^_ by Barry N. Malzberg; 198pp (12/23/2004)</br>
+1. _On a Planet Alien_ by Barry N. Malzberg; 144pp (12/27/2004)</br>
+1. _The Last Transaction_ by Barry N. Malzberg; 163pp (12/29/2004)</br>
+1. _The Door Into Summer_ by Robert A. Heinlein; 304pp (12/31/2004)</br>
 1. _Friday_ by Robert A. Heinlein (1/10/2005)</br>
 1. _One More for the Road_ by Ray Bradbury (1/13/2005)</br>
 1. _My Manhattan_ by Pete Hamill (1/18/2005)</br>
