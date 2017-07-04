@@ -305,98 +305,98 @@
 1. _On a Planet Alien_ by Barry N. Malzberg; 144pp (12/27/2004)</br>
 1. _The Last Transaction_ by Barry N. Malzberg; 163pp (12/29/2004)</br>
 1. _The Door Into Summer_ by Robert A. Heinlein; 304pp (12/31/2004)</br>
-1. _Friday_ by Robert A. Heinlein (1/10/2005)</br>
-1. _One More for the Road_ by Ray Bradbury (1/13/2005)</br>
-1. _My Manhattan_ by Pete Hamill (1/18/2005)</br>
-1. _The Catcher in the Rye_ by J. D. Salinger (1/20/2005)</br>
-1. _Bing Crosby: A Pocketful of Dreams_ by Gary Giddins (2/3/2005)</br>
-1. _Hominids_ by Robert J. Sawyer (3/31/2005)</br>
-1. _I. Asimov^_ by Isaac Asimov (4/10/2005)</br>
-1. _In Memory Yet Green^_ by Isaac Asimov (4/19/2005)</br>
-1. _In Joy Still Felt^_ by Isaac Asimov (5/4/2005)</br>
-1. _View from a Height^_ by Isaac Asimov (5/9/2005)</br>
-1. _Buy Jupiter and Other Stories_ by Isaac Asimov (5/16/2005)</br>
-1. _Light This Candle: The Life and Times of Alan Shepard_ by Neal Thompson (5/30/2005)</br>
-1. _Rocketman: Astronaut Pete Conrad’s Incredible Ride to the Moon and Beyond_ by Nancy Conrad (6/11/2005)</br>
-1. _Shogun_ by James Clavell (7/26/2005)</br>
-1. _Old Twentieth_ by Joe Haldeman (8/9/2005)</br>
-1. _Bradbury Speaks: Too Soon From the Cave, Too Far from the Stars_ by Ray Bradbury (8/12/2005)</br>
-1. _The Cats Pajamas_ by Ray Bradbury (8/17/2005)</br>
-1. _The Ray Bradbury Chronicles: The Life of Ray Bradbury_ by Sam Weller (8/21/2005)</br>
-1. _Lunar Park_ by Bret Easton Ellis (8/24/2005)</br>
-1. _The Informers_ by Bret Easton Ellis (8/25/2005)</br>
-1. _Less Than Zero_ by Bret Easton Ellis (8/27/2005)</br>
-1. _The Road to Science Fiction #3: From Heinlein to Here edited_ by James Gunn (9/15/2005)</br>
-1. _Years of Minutes_ by Andy Rooney (10/7/2005)</br>
-1. _Never Have Your Dog Stuffed_ by Alan Alda (11/8/2005)</br>
-1. **_First Man: The Life of Neil Armstrong_** by James R. Hansen (11/16/2005)</br>
-1. _Surely, You’re Joking Mr. Feynman_ by Richard P. Feynman (11/19/2005)</br>
-1. _Perfectly Reasonable Deviations from the Beaten Track: The Letters of Richard P. Feynman edited_ by Michelle Feynman (11/21/2005)</br>
-1. _Foundation^_ by Isaac Asimov (12/11/2005)</br>
-1. _Foundation and Empire^_ by Isaac Asimov (12/12/2005)</br>
-1. _Second Foundation^_ by Isaac Asimov (12/14/2005)</br>
-1. _Foundation’s Edge^_ by Isaac Asimov (12/20/2005)</br>
-1. _Foundation and Earth^_ by Isaac Asimov (12/24/2005)</br>
-1. _Prelude to Foundation^_ by Isaac Asimov (12/28/2005)</br>
-1. _Forward the Foundation^_ by Isaac Asimov (12/30/2005)</br>
-1. _Foundation’s Fear^_ by Gregory Benford (1/11/2006)</br>
-1. _Foundation and Chaos^_ by Greg Bear (1/17/2006)</br>
-1. _Foundation’s Triumph^_ by David Brin (1/23/2006)</br>
-1. _The Moon is a Harsh Mistress_ by Robert A. Heinlein (1/28/2006)</br>
-1. _The Many Worlds of Barry Malzberg_ by Barry N. Malzberg (1/29/2006)</br>
-1. _The Passage of the Light: The Recursive Science Fiction of Barry N. Malzberg_ by Barry N. Malzberg (2/15/2006)</br>
-1. _It’s Superman: A Novel_ by Tom De Haven (2/23/2006)</br>
-1. _Gotham: A History of New York City to 1898_ by Edwin G. Burrows (3/30/2006)</br>
-1. _I. Asimov^_ by Isaac Asimov (4/10/2006)</br>
-1. _In Memory Yet Green^_ by Isaac Asimov (4/24/2006)</br>
-1. _In Joy Still Felt^_ by Isaac Asimov (5/12/2006)</br>
-1. _Living It Up (Or, They Still Love Me in Altoona)_ by George Burns (5/13/2006)</br>
-1. _The Third Time Around_ by George Burns (5/15/2006)</br>
-1. _3 Nights in August_ by Buzz Bissinger (5/31/2006)</br>
-1. _Flashforward_ by Robert J. Sawyer (8/4/2006)</br>
-1. _Mindscan_ by Robert J. Sawyer (8/8/2006)</br>
-1. _A Canticle for Leibowitz_ by Walter M. Miller (9/4/2006)</br>
-1. _Flowers for Algernon_ by Daniel Keyes (9/6/2006)</br>
-1. _Brainiac: Adventures in the Curious, Competitive, Compulsive World of Trivia Buffs_ by Ken Jennings (9/16/2006)</br>
-1. _The Demon-Haunted World^_ by Carl Sagan (9/25/2006)</br>
-1. _Out of My Mind_ by Andy Rooney (10/10/2006)</br>
-1. _Humans_ by Robert J. Sawyer (11/30/2006)</br>
-1. _Chindi_ by Jack McDevitt (1/3/2007)</br>
-1. _The Engines of God_ by Jack McDevitt (1/18/2007)</br>
-1. _The Winds of Change and Other Stories_ by Isaac Asimov (2/3/2007)</br>
-1. **_Death by Black Hole and Other Cosmic Quandaries_** by Neil DeGrasse Tyson (2/8/2007)</br>
-1. _I. Asimov^_ by Isaac Asimov (4/3/2007)</br>
-1. _In Memory Yet Green^_ by Isaac Asimov (4/10/2007)</br>
-1. _In Joy Still Felt^_ by Isaac Asimov (5/5/2007)</br>
-1. _Breakfast in the Ruins: Science Fiction in the Last Millennium_ by Barry N. Malzberg (5/9/2007)</br>
-1. _The Mysterious Affair at Styles_ by Agatha Christie (5/19/2007)</br>
-1. **_Up From Dragons_** by John R. Skyoles and Dorian Sagan (8/8/2007)</br>
-1. _Spook Country_ by William Gibson (8/21/2007)</br>
-1. _Getting Things Done: The Art of Stress-Free Productivity_ by David Allen (8/17/2007)</br>
-1. **_The Accidental Time Machine_** by Joe Haldeman (8/22/2007)</br>
-1. _Creating Short Fiction_ by Damon Knight (8/25/2007)</br>
-1. _Rickles’ Book_ by Don Rickles (8/25/2007)</br>
-1. _The Best Time Travel Stories of All Time edited_ by Barry N. Malzberg (8/30/2007)</br>
-1. _Our Oriental Heritage_ by Will Durant (2/3/2008)</br>
-1. _Odyssey_ by Jack McDevitt (3/3/2008)</br>
-1. _The Terminal Experiment_ by Robert J. Sawyer (3/4/2008)</br>
-1. _The Left Hand of Darkness_ by Ursula K. Le Guin (3/12/2008)</br>
-1. _War Year_ by Joe Haldeman (3/17/2008)</br>
-1. _Up the Line_ by Robert Silverberg (3/22/2008)</br>
-1. _Factoring Humanity_ by Robert J. Sawyer (3/24/2008)</br>
-1. _I. Asimov^_ by Isaac Asimov (4/7/2008)</br>
-1. _In Memory Yet Green^_ by Isaac Asimov (4/20/2008)</br>
-1. _The Last Lecture_ by Randy Pausch (5/5/2008)</br>
-1. _Bright Shiny Morning_ by James Frey (6/20/2008)</br>
-1. _The Language Instinct: How the Mind Creates Language_ by Steven Pinker (7/7/2008)</br>
-1. _Old Man’s War_ by John Scalzi (8/31/2008)</br>
-1. _Rainbow’s End_ by Vernor Vinge (9/11/2008)</br>
-1. _The Ghost Brigades_ by John Scalzi (9/16/2008)</br>
-1. **_Einstein: His Life and Universe_** by Walter Isaacson (11/11/2008)</br>
-1. _Marsbound_ by Joe Haldeman (11/27/2008)</br>
-1. _Only Begotten Daughter_ by James Morrow (11/29/2008)</br>
-1. _Frameshift_ by Robert J. Sawyer (12/2/2008)</br>
-1. _Cauldron_ by Jack McDevitt (12/7/2008)</br>
+1. _Friday_ by Robert A. Heinlein; 384pp (1/10/2005)</br>
+1. _One More for the Road_ by Ray Bradbury 368pp (1/13/2005)</br>
+1. _Downtown: My Manhattan_ by Pete Hamill; 320pp (1/18/2005)</br>
+1. _The Catcher in the Rye_ by J. D. Salinger; 277pp (1/20/2005)</br>
+1. _Bing Crosby: A Pocketful of Dreams_ by Gary Giddins; 768pp (2/3/2005)</br>
+1. _Hominids_ by Robert J. Sawyer; 444pp (3/31/2005)</br>
+1. _I. Asimov^_ by Isaac Asimov; 578pp (4/10/2005)</br>
+1. _In Memory Yet Green^_ by Isaac Asimov; 744pp (4/19/2005)</br>
+1. _In Joy Still Felt^_ by Isaac Asimov; 840pp (5/4/2005)</br>
+1. _View from a Height^_ by Isaac Asimov; 224pp (5/9/2005)</br>
+1. _Buy Jupiter and Other Stories_ by Isaac Asimov; 206pp (5/16/2005)</br>
+1. _Light This Candle: The Life and Times of Alan Shepard_ by Neal Thompson; 464pp (5/30/2005)</br>
+1. _Rocketman: Astronaut Pete Conrad’s Incredible Ride to the Moon and Beyond_ by Nancy Conrad; 320pp (6/11/2005)</br>
+1. _Shogun_ by James Clavell; 1152pp (7/26/2005)</br>
+1. _Old Twentieth_ by Joe Haldeman; 285pp (8/9/2005)</br>
+1. _Bradbury Speaks: Too Soon From the Cave, Too Far from the Stars_ by Ray Bradbury; 256pp (8/12/2005)</br>
+1. _The Cats Pajamas_ by Ray Bradbury; 256pp (8/17/2005)</br>
+1. _The Ray Bradbury Chronicles: The Life of Ray Bradbury_ by Sam Weller; 384pp (8/21/2005)</br>
+1. _Lunar Park_ by Bret Easton Ellis; 404pp (8/24/2005)</br>
+1. _The Informers_ by Bret Easton Ellis; 240pp (8/25/2005)</br>
+1. _Less Than Zero_ by Bret Easton Ellis; 208pp (8/27/2005)</br>
+1. _The Road to Science Fiction #3: From Heinlein to Here edited_ by James Gunn; 656pp (9/15/2005)</br>
+1. _Years of Minutes_ by Andy Rooney; 523pp (10/7/2005)</br>
+1. _Never Have Your Dog Stuffed_ by Alan Alda; 235pp (11/8/2005)</br>
+1. **_First Man: The Life of Neil Armstrong_** by James R. Hansen; 769pp (11/16/2005)</br>
+1. _Surely, You’re Joking Mr. Feynman_ by Richard P. Feynman; 391pp (11/19/2005)</br>
+1. _Perfectly Reasonable Deviations from the Beaten Track: The Letters of Richard P. Feynman_ edited by Michelle Feynman; 486pp (11/21/2005)</br>
+1. _Foundation^_ by Isaac Asimov; 244pp (12/11/2005)</br>
+1. _Foundation and Empire^_ by Isaac Asimov; 256pp (12/12/2005)</br>
+1. _Second Foundation^_ by Isaac Asimov; 256pp (12/14/2005)</br>
+1. _Foundation’s Edge^_ by Isaac Asimov; 450pp (12/20/2005)</br>
+1. _Foundation and Earth^_ by Isaac Asimov; 528pp (12/24/2005)</br>
+1. _Prelude to Foundation^_ by Isaac Asimov; 464pp (12/28/2005)</br>
+1. _Forward the Foundation^_ by Isaac Asimov; 464pp (12/30/2005)</br>
+1. _Foundation’s Fear^_ by Gregory Benford; 608pp (1/11/2006)</br>
+1. _Foundation and Chaos^_ by Greg Bear; 448pp (1/17/2006)</br>
+1. _Foundation’s Triumph^_ by David Brin; 392pp (1/23/2006)</br>
+1. _The Moon is a Harsh Mistress_ by Robert A. Heinlein; 288pp (1/28/2006)</br>
+1. _The Many Worlds of Barry Malzberg_ by Barry N. Malzberg; 159pp (1/29/2006)</br>
+1. _The Passage of the Light: The Recursive Science Fiction of Barry N. Malzberg_ by Barry N. Malzberg; 281pp (2/15/2006)</br>
+1. _It’s Superman: A Novel_ by Tom De Haven; 417pp (2/23/2006)</br>
+1. _Gotham: A History of New York City to 1898_ by Edwin G. Burrows; 1424pp (3/30/2006)</br>
+1. _I. Asimov^_ by Isaac Asimov; 578pp (4/10/2006)</br>
+1. _In Memory Yet Green^_ by Isaac Asimov; 744pp (4/24/2006)</br>
+1. _In Joy Still Felt^_ by Isaac Asimov; 840pp (5/12/2006)</br>
+1. _Living It Up (Or, They Still Love Me in Altoona)_ by George Burns; 247pp (5/13/2006)</br>
+1. _The Third Time Around_ by George Burns; 219pp (5/15/2006)</br>
+1. _3 Nights in August_ by Buzz Bissinger; 287pp (5/31/2006)</br>
+1. _Flashforward_ by Robert J. Sawyer; 320pp (8/4/2006)</br>
+1. _Mindscan_ by Robert J. Sawyer; 303pp (8/8/2006)</br>
+1. _A Canticle for Leibowitz_ by Walter M. Miller; 335pp (9/4/2006)</br>
+1. _Flowers for Algernon_ by Daniel Keyes; 331pp (9/6/2006)</br>
+1. _Brainiac: Adventures in the Curious, Competitive, Compulsive World of Trivia Buffs_ by Ken Jennings; 269pp (9/16/2006)</br>
+1. _The Demon-Haunted World^_ by Carl Sagan; 457pp (9/25/2006)</br>
+1. _Out of My Mind_ by Andy Rooney; 353pp (10/10/2006)</br>
+1. _Humans_ by Robert J. Sawyer; 334pp (11/30/2006)</br>
+1. _Chindi_ by Jack McDevitt; 511pp (1/3/2007)</br>
+1. _The Engines of God_ by Jack McDevitt; 419pp (1/18/2007)</br>
+1. _The Winds of Change and Other Stories_ by Isaac Asimov; 277pp (2/3/2007)</br>
+1. **_Death by Black Hole and Other Cosmic Quandaries_** by Neil DeGrasse Tyson; 384pp (2/8/2007)</br>
+1. _I. Asimov^_ by Isaac Asimov; 578pp (4/3/2007)</br>
+1. _In Memory Yet Green^_ by Isaac Asimov; 744pp (4/10/2007)</br>
+1. _In Joy Still Felt^_ by Isaac Asimov; 840pp (5/5/2007)</br>
+1. _Breakfast in the Ruins: Science Fiction in the Last Millennium_ by Barry N. Malzberg; 389pp (5/9/2007)</br>
+1. _The Mysterious Affair at Styles_ by Agatha Christie; 294pp (5/19/2007)</br>
+1. **_Up From Dragons_** by John R. Skyoles and Dorian Sagan; 448pp (8/8/2007)</br>
+1. _Spook Country_ by William Gibson; 371pp (8/21/2007)</br>
+1. _Getting Things Done: The Art of Stress-Free Productivity_ by David Allen; 267pp (8/17/2007)</br>
+1. **_The Accidental Time Machine_** by Joe Haldeman; 278pp (8/22/2007)</br>
+1. _Creating Short Fiction_ by Damon Knight; 224pp (8/25/2007)</br>
+1. _Rickles’ Book_ by Don Rickles; 256pp (8/25/2007)</br>
+1. _The Best Time Travel Stories of All Time_ edited by Barry N. Malzberg; 448pp (8/30/2007)</br>
+1. _Our Oriental Heritage_ by Will Durant; 1049pp (2/3/2008)</br>
+1. _Odyssey_ by Jack McDevitt; 416pp (3/3/2008)</br>
+1. _The Terminal Experiment_ by Robert J. Sawyer; 333pp (3/4/2008)</br>
+1. _The Left Hand of Darkness_ by Ursula K. Le Guin; 304pp (3/12/2008)</br>
+1. _War Year_ by Joe Haldeman; 128pp (3/17/2008)</br>
+1. _Up the Line_ by Robert Silverberg; 240pp (3/22/2008)</br>
+1. _Factoring Humanity_ by Robert J. Sawyer; 352pp (3/24/2008)</br>
+1. _I. Asimov^_ by Isaac Asimov; 578pp (4/7/2008)</br>
+1. _In Memory Yet Green^_ by Isaac Asimov; 744pp (4/20/2008)</br>
+1. _The Last Lecture_ by Randy Pausch; 206pp (5/5/2008)</br>
+1. _Bright Shiny Morning_ by James Frey; 501pp (6/20/2008)</br>
+1. _The Language Instinct: How the Mind Creates Language_ by Steven Pinker; 448pp (7/7/2008)</br>
+1. _Old Man’s War_ by John Scalzi; 351pp (8/31/2008)</br>
+1. _Rainbows End_ by Vernor Vinge; 381pp (9/11/2008)</br>
+1. _The Ghost Brigades_ by John Scalzi; 347pp (9/16/2008)</br>
+1. **_Einstein: His Life and Universe_** by Walter Isaacson; 551pp (11/11/2008)</br>
+1. _Marsbound_ by Joe Haldeman; 304pp (11/27/2008)</br>
+1. _Only Begotten Daughter_ by James Morrow; 312pp (11/29/2008)</br>
+1. _Frameshift_ by Robert J. Sawyer; 352pp (12/2/2008)</br>
+1. _Cauldron_ by Jack McDevitt; 373pp (12/7/2008)</br>
 1. _The Hard S. F. Renaissance edited_ by David G. Hartwell (1/6/2009)</br>
 1. _Beyond Band of Brothers: The War Memoirs of Major Dick Winters_ by Richard Winters (2/3/2009)</br>
 1. _I Remember the Future_ by Michael Burstein (2/10/2009)</br>
