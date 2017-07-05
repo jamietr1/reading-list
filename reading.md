@@ -435,55 +435,55 @@
 1. _The Devil’s Eye+_ by Jack McDevitt; 368pp (12/5/2010)</br>
 1. _Echo+_ by Jack McDevitt; 371pp (12/12/2010)</br>
 1. _All Clear+_ by Connie Willis; 793pp (12/29/2010)</br>
-1. Astounding Science Fiction. July 1939 (1/22/2011)</br>
-1. Astounding Science Fiction, August 1939 (1/30/2011)</br>
-1. Astounding Science Fiction, September 1939 (2/6/2011)</br>
-1. Astounding Science Fiction, October 1939 (2/13/2011)</br>
-1. Astounding Science Fiction, November 1939 (2/20/2011)</br>
-1. Astounding Science Fiction, December 1939 (2/27/2011)</br>
-1. Astounding Science Fiction, January 1940 (3/6/2011)</br>
-1. Astounding Science Fiction, February 1940 (3/13/2011)</br>
-1. Astounding Science Fiction, March 1940 (3/20/2011)</br>
-1. Astounding Science Fiction, April 1940 (3/27/2011)</br>
-1. Astounding Science Fiction, May 1940 (4/3/2011)</br>
-1. Astounding Science Fiction, June 1940 (4/11/2011)</br>
-1. Astounding Science Fiction, July 1940 (4/24/2011)</br>
-1. Astounding Science Fiction, August 1940 (5/2/2011)</br>
-1. Astounding Science Fiction, September 1940 (5/15/2011)</br>
+1. Astounding Science Fiction. July 1939 edited by John W. Campbell; 160pp (1/22/2011)</br>
+1. Astounding Science Fiction, August 1939 edited by John W. Campbell; 160pp (1/30/2011)</br>
+1. Astounding Science Fiction, September 1939 edited by John W. Campbell; 160pp (2/6/2011)</br>
+1. Astounding Science Fiction, October 1939 edited by John W. Campbell; 160pp (2/13/2011)</br>
+1. Astounding Science Fiction, November 1939 edited by John W. Campbell; 160pp (2/20/2011)</br>
+1. Astounding Science Fiction, December 1939 edited by John W. Campbell; 160pp (2/27/2011)</br>
+1. Astounding Science Fiction, January 1940 edited by John W. Campbell; 160pp (3/6/2011)</br>
+1. Astounding Science Fiction, February 1940 edited by John W. Campbell; 160pp (3/13/2011)</br>
+1. Astounding Science Fiction, March 1940 edited by John W. Campbell; 160pp (3/20/2011)</br>
+1. Astounding Science Fiction, April 1940 edited by John W. Campbell; 160pp (3/27/2011)</br>
+1. Astounding Science Fiction, May 1940 edited by John W. Campbell; 160pp (4/3/2011)</br>
+1. Astounding Science Fiction, June 1940 edited by John W. Campbell; 160pp (4/11/2011)</br>
+1. Astounding Science Fiction, July 1940 edited by John W. Campbell; 160pp (4/24/2011)</br>
+1. Astounding Science Fiction, August 1940 edited by John W. Campbell; 160pp (5/2/2011)</br>
+1. Astounding Science Fiction, September 1940 edited by John W. Campbell; 160pp (5/15/2011)</br>
 1. **_Game of Thrones+_** by George R. R. Martin; 835pp (5/16/2011)</br>
-1. Astounding Science Fiction, October 1940 (5/30/2011)</br>
+1. Astounding Science Fiction, October 1940 edited by John W. Campbell; 160pp (5/30/2011)</br>
 1. _You’re Not Foolin’ Anyone When You Take Your Laptop To a Coffee Shop: Scalzi on Writing+_ by John Scalzi; 319pp (6/6/2011)</br>
 1. _Blockade Billy+_ by Stephen King; 112pp (6/9/2011)</br>
-1. Astounding Science Fiction, November 1940 (6/12/2011)</br>
+1. Astounding Science Fiction, November 1940 edited by John W. Campbell; 160pp (6/12/2011)</br>
 1. _A Clash of Kings+_ by George R. R. Martin; 761pp (6/16/2011)</br>
-1. Astounding Science Fiction, December 1940 (6/26/2011)</br>
-1. Astounding Science Fiction, January 1941 (7/10/2011)</br>
-1. Astounding Science Fiction, February 1941 (7/24/2011)</br>
-1. Astounding Science Fiction, March 1941 (8/7/2011)</br>
+1. Astounding Science Fiction, December 1940 edited by John W. Campbell; 160pp (6/26/2011)</br>
+1. Astounding Science Fiction, January 1941 edited by John W. Campbell; 160pp (7/10/2011)</br>
+1. Astounding Science Fiction, February 1941 edited by John W. Campbell; 160pp (7/24/2011)</br>
+1. Astounding Science Fiction, March 1941 edited by John W. Campbell; 160pp (8/7/2011)</br>
 1. _A Storm of Swords+_ by George R. R. Martin; 1177pp (8/17/2011)</br>
-1. Astounding Science Fiction, April 1941 (8/21/2011)</br>
-1. Astounding Science Fiction, May 1941 (9/4/2011)</br>
+1. Astounding Science Fiction, April 1941 edited by John W. Campbell; 160pp (8/21/2011)</br>
+1. Astounding Science Fiction, May 1941 edited by John W. Campbell; 160pp (9/4/2011)</br>
 1. _Contact^_ by Carl Sagan; 580pp (9/22/2011)</br>
-1. Astounding Science Fiction, June 1941 (10/2/2011)</br>
-1. Astounding Science Fiction, July 1941 (10/16/2011)</br>
-1. Astounding Science Fiction, August 1941 (10/30/2011)</br>
+1. Astounding Science Fiction, June 1941 edited by John W. Campbell; 160pp (10/2/2011)</br>
+1. Astounding Science Fiction, July 1941 edited by John W. Campbell; 160pp (10/16/2011)</br>
+1. Astounding Science Fiction, August 1941 edited by John W. Campbell; 160pp (10/30/2011)</br>
 1. **_Firebird+_** by Jack McDevitt; 375pp (11/9/2011)</br>
-1. Astounding Science Fiction, September 1941 (11/13/2011)</br>
+1. Astounding Science Fiction, September 1941 edited by John W. Campbell; 160pp (11/13/2011)</br>
 1. **_11/22/63+_** by Stephen King; 849pp (11/18/2011)</br>
 1. _The Green Mile+_ by Stephen King; 592pp (11/23/2011)</br>
-1. Astounding Science Fiction, October 1941 (11/27/2011)</br>
-1. Astounding Science Fiction, November 1941 (12/25/2011)</br>
-1. Astounding Science Fiction, December 1941 (1/8/2012)</br>
-1. Astounding Science Fiction, January 1942 (1/22//2012)</br>
+1. Astounding Science Fiction, October 1941 edited by John W. Campbell; 160pp (11/27/2011)</br>
+1. Astounding Science Fiction, November 1941 edited by John W. Campbell; 160pp (12/25/2011)</br>
+1. Astounding Science Fiction, December 1941 edited by John W. Campbell; 160pp (1/8/2012)</br>
+1. Astounding Science Fiction, January 1942 edited by John W. Campbell; 160pp (1/22//2012)</br>
 1. _A Feast for Crows+_ by George R. R. Martin; 1061pp (1/30/2012)</br>
-1. Astounding Science Fiction, February 1942 (2/5/2012)</br>
-1. Astounding Science Fiction, March 1942 (2/19/2012)</br>
-1. Astounding Science Fiction, April 1942 (3/4/2012)</br>
-1. Astounding Science Fiction, May 1942 (3/18/2012)</br>
-1. Astounding Science Fiction, June 1942 (4/1/2012)</br>
+1. Astounding Science Fiction, February 1942 edited by John W. Campbell; 160pp (2/5/2012)</br>
+1. Astounding Science Fiction, March 1942 edited by John W. Campbell; 160pp (2/19/2012)</br>
+1. Astounding Science Fiction, April 1942 edited by John W. Campbell; 160pp (3/4/2012)</br>
+1. Astounding Science Fiction, May 1942 edited by John W. Campbell; 160pp (3/18/2012)</br>
+1. Astounding Science Fiction, June 1942 edited by John W. Campbell; 160pp (4/1/2012)</br>
 1. _In Memory Yet Green^_ by Isaac Asimov; 744pp (4/24/2012)</br>
-1. Astounding Science Fiction, July 1942 (4/29/2012)</br>
-1. Astounding Science Fiction, August 1942 (5/13/2012)</br>
+1. Astounding Science Fiction, July 1942 edited by John W. Campbell; 160pp (4/29/2012)</br>
+1. Astounding Science Fiction, August 1942 edited by John W. Campbell; 160pp (5/13/2012)</br>
 1. _Million Writer Awards+_ edited by Jason Sanford; 221pp (5/15/2012)</br>
 1. _2312+_ by Kim Stanley Robinson; 561pp (5/31/2012)</br>
 1. _Night Raider (Lone Wolf #1)+_ by Barry N. Malzberg (as by Mike Barry); 192pp (6/8/2012)</br>
@@ -495,8 +495,8 @@
 1. _Born Standing Up+_ by Steve Martin; 207pp (8/1/2012)</br>
 1. _Downward to the Earth+_ by Robert Silverberg; 176pp (8/28/2012)</br>
 1. _Year’s Best Science Fiction: Twenty-Ninth Annual Edition+_ edited by Gardner Dozois; 704pp (8/28/2012)</br>
-1. Astounding Science Fiction, September 1942 (9/17/2012)</br>
-1. Astounding Science Fiction, October 1942 (10/1/2012)</br>
+1. Astounding Science Fiction, September 1942 edited by John W. Campbell; 160pp (9/17/2012)</br>
+1. Astounding Science Fiction, October 1942 edited by John W. Campbell; 160pp (10/1/2012)</br>
 1. _The Cassandra Project_ by Jack McDevitt and Mike Resnick; 387pp (10/11/2012)</br>
 1. _Apollo’s Outcasts+_ by Allen Steele; 311pp (10/31/2012)</br>
 1. _Bowl of Heaven+_ by Gregory Benford and Larry Niven; 416pp (1/13/2013)</br>
@@ -628,55 +628,55 @@
 1. _Harry Potter and the Socerer's Stone@^_ by J. K. Rowling; 320pp (12/24/2015)</br>
 1. _My Lucky Life In and Out of Show Business@_ by Dick Van Dyke; 287pp (12/28/2015)</br>
 1. **_Keep Moving, and Other Tips and Truths About Aging@_** by Dick Van Dyke; 264pp (12/31/2015)</br>
-1. **_I Remember Me@_** by Carl Reiner (1/1/2016)</br>
-1. _I Just Remembered@_ by Carl Reiner (1/1/2016)</br>
-1. **_This Time Together@_** by Carol Burnett (1/2/2016)</br>
-1. **_Even This I Get to Experience@_** by Norman Lear (1/10/2016)</br>
-1. _My Happy Days in Hollywood@_ by Garry Marshall (1/17/2016)</br>
-1. _What's So Funny?@_ by Tim Conway (2/3/2016)</br>
-1. **_The Making of the Atomic Bomb@^_** by Richard Rhodes (3/3/2016)</br>
-1. **_No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II@_** by Doris Kearns Goodwin (3/14/2016)</br>
-1. **_Abraham Lincoln: The Prairie Years and the War Years@_** by Carl Sandburg (4/8/2016)</br>
-1. _Jefferson and His Time, Vol 1: The Virginian@_ by Dumas Malone (4/15/2016)</br>
-1. _Jefferson and His Time, Vol 2: Jefferson and the Rights of Man@_ by Dumas Malone (5/5/2016)</br>
-1. **_11/22/63@^_** by Stephen King (5/28/2016)</br>
-1. **_Dreamcatcher@^_** by Stephen King (6/5/2016)</br>
-1. _Hackers: Heroes of the Computer Revolution@_ by Stephen Levy (7/13/2016)</br>
-1. **_Cannibal Queen+_** by Steven Coonts (7/17/2016)</br>
-1. _Steve Jobs@_ by Walter Isaacson (8/10/2016)</br>
-1. **_The View from the Cheap Seats@_** by Neil Gaiman (8/18/2016)</br>
-1. **_As You Wish@_** by Cary Elwes (8/20/2016)</br>
-1. _Leonard: My Fifty-Year Relationship with a Remarkable Man@_ by William Shatner (8/25/2016)</br>
-1. _Up Till Now@_ by William Shatner (9/20/2016)</br>
-1. **_The Name of the Wind@^_** by Patrick Rothfuss (10/3/2016)</br>
-1. Astounding Science Fiction, November 1942 (10/18/2016)</br>
-1. **_The Wise Man's Fear@^_** by Patrick Rothfuss (10/26/2016)</br>
-1. **_The Pigeon Tunnel: Stories From My Life@_** by John Le Carré (11/17/2016)</br>
-1. _Die Trying: Jack Reacher, Book 2@_ by Lee Child (11/20/2016)</br>
-1. **_Andy Rooney: 60 Years of Wit and Wisdom@_** by Andy Rooney (12/1/2016)</br>
-1. _Not That You Asked...+_ by Andy Rooney (12/8/2016)</br>
-1. _The Magnolia Story@_ by Joanna Gaines and Chip Gaines (12/16/2016)</br>
-1. **_Eisenhower in War and Peace@_** by Jean Edward Smith (12/23/2016)</br>
-1. **_Born to Run@_** by Bruce Springsteen (12/29/2016)</br>
-1. _The Princess Diarist@_ by Carrie Fisher (1/2/2017)</br>
-1. **_Born to Run@^_** by Bruce Springsteen (1/13/2017)</br>
-1. _Explore/Create: My Life in Pursuit of New Frontiers, Hidden Worlds, and the Creative Spark@_ by Richard Garriott (1/15/2017)</br>
-1. **_Atlantic: Great Sea Battles, Heroic Discoveries, Titanic Storms, and a Vast Ocean of a Million Stories@_** by Simon Winchester (1/28/2017)</br>
-1. _Pacific: Silicon Chips and Surfboards, Coral Reefs and Atom Bombs, Brutal Dictators, Fading Empires, and the Coming Collision of the World's Superpowers@_ by Simon Winchester (2/7/2017)</br>
-1. **_The Men Who United the States: America's Explorers, Inventors, Eccentrics, and Mavericks, and the Creation of One Nation Indivisible@_** by Simon Winchester (2/15/2017)</br>
-1. _Outposts: Journeys to the Surviving Relics of the British Empire@_ by Simon Winchester (2/24/2017)</br>
-1. _Krakatoa: The Day the World Exploded: August 27, 1883@_ by Simon Winchester (3/21/2017)</br>
-1. _Years of Minutes^_ by Andy Rooney (3/21/2017)</br>
-1. **_Assignment in Hell: The War Against Nazi Germany with Correspondents Walter Cronkite, Andy Rooney, A.J. Liebling, Homer Bigart, and Hal Boyle@_** by Timothy M. Gay (4/14/2017)</br>
-1. _Reflections: Columns from the L.A. Times_ by Al Martinez (4/17/2017)</br>
-1. **_The Cubs Way: The Zen of Building the Best Team In Baseball and Breaking the Curse@_** by Tom Verducci (4/21/2017)</br>
-1. _Watching Baseball Smarter_ by Zack Hample (4/21/2017)</br>
-1. **_The Game: Inside the Secret World of Major League Baseball's Power Brokers@_** by Jon Pessah (4/28/2017)</br>
-1. **_The Baseball Codes: Beanballs, Sign Stealing, & Beach-Clearing Brawls: The Unwritten Rules of American's Pastime@_** by Jason Turbow (5/2/2017)</br>
-1. **_Triumph and Tragedy in Mudville: A Lifelong Passion in Baseball_** by Stephen Jay Gould (5/10/2017)</br>
-1. **_Shoeless Joe^_** by W. P. Kinsella (5/11/2017)</br>
-1. _The Yankee Years@_ by Joe Torre and Tom Verducci (5/16/2017)</br>
-1. **_Red: The Life & Times of a Great American Writer_** by Ira Berkow (5/22/2017)</br>
-1. _Rebel Code: Linux and the Open Source Revolution+_ by Glyn Moody (6/8/2017)</br>
-1. **_Casey Stengel@_** by Marty Appel (6/9/2017)</br>
-1. _The Firm@_ by John Grisham (6/23/2017)</br>
+1. **_I Remember Me@_** by Carl Reiner; 303pp (1/1/2016)</br>
+1. _I Just Remembered@_ by Carl Reiner; 334pp (1/1/2016)</br>
+1. **_This Time Together@_** by Carol Burnett; 226pp (1/2/2016)</br>
+1. **_Even This I Get to Experience@_** by Norman Lear; 464pp (1/10/2016)</br>
+1. _My Happy Days in Hollywood@_ by Garry Marshall; 288pp (1/17/2016)</br>
+1. _What's So Funny?@_ by Tim Conway; 272pp (2/3/2016)</br>
+1. **_The Making of the Atomic Bomb@^_** by Richard Rhodes; 886pp (3/3/2016)</br>
+1. **_No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II@_** by Doris Kearns Goodwin; 759pp (3/14/2016)</br>
+1. **_Abraham Lincoln: The Prairie Years and the War Years@_** by Carl Sandburg; 762pp (4/8/2016)</br>
+1. _Jefferson and His Time, Vol 1: The Virginian@_ by Dumas Malone; 484pp (4/15/2016)</br>
+1. _Jefferson and His Time, Vol 2: Jefferson and the Rights of Man@_ by Dumas Malone; 523pp (5/5/2016)</br>
+1. **_11/22/63@^_** by Stephen King; 849pp (5/28/2016)</br>
+1. **_Dreamcatcher@^_** by Stephen King; 688pp (6/5/2016)</br>
+1. _Hackers: Heroes of the Computer Revolution@_ by Steven Levy; 464pp (7/13/2016)</br>
+1. **_Cannibal Queen+_** by Steven Coonts; 352pp (7/17/2016)</br>
+1. _Steve Jobs@_ by Walter Isaacson; 656pp (8/10/2016)</br>
+1. **_The View from the Cheap Seats@_** by Neil Gaiman; 522pp (8/18/2016)</br>
+1. **_As You Wish@_** by Cary Elwes; 259pp (8/20/2016)</br>
+1. _Leonard: My Fifty-Year Relationship with a Remarkable Man@_ by William Shatner; 278pp (8/25/2016)</br>
+1. _Up Till Now@_ by William Shatner; 358pp (9/20/2016)</br>
+1. **_The Name of the Wind@^_** by Patrick Rothfuss; 662pp (10/3/2016)</br>
+1. Astounding Science Fiction, November 1942 edited by John W. Campbell; 160pp (10/18/2016)</br>
+1. **_The Wise Man's Fear@^_** by Patrick Rothfuss; 994pp (10/26/2016)</br>
+1. **_The Pigeon Tunnel: Stories From My Life@_** by John Le Carré; 310pp (11/17/2016)</br>
+1. _Die Trying: Jack Reacher, Book 2@_ by Lee Child; 552pp (11/20/2016)</br>
+1. **_Andy Rooney: 60 Years of Wit and Wisdom@_** by Andy Rooney; 320pp (12/1/2016)</br>
+1. _Not That You Asked...+_ by Andy Rooney; 292pp (12/8/2016)</br>
+1. _The Magnolia Story@_ by Joanna Gaines and Chip Gaines; 208pp (12/16/2016)</br>
+1. **_Eisenhower in War and Peace@_** by Jean Edward Smith; 976pp (12/23/2016)</br>
+1. **_Born to Run@_** by Bruce Springsteen; 528pp (12/29/2016)</br>
+1. _The Princess Diarist@_ by Carrie Fisher; 257pp (1/2/2017)</br>
+1. **_Born to Run@^_** by Bruce Springsteen; 528pp (1/13/2017)</br>
+1. _Explore/Create: My Life in Pursuit of New Frontiers, Hidden Worlds, and the Creative Spark@_ by Richard Garriott; 272pp (1/15/2017)</br>
+1. **_Atlantic: Great Sea Battles, Heroic Discoveries, Titanic Storms, and a Vast Ocean of a Million Stories@_** by Simon Winchester; 495pp (1/28/2017)</br>
+1. _Pacific: Silicon Chips and Surfboards, Coral Reefs and Atom Bombs, Brutal Dictators, Fading Empires, and the Coming Collision of the World's Superpowers@_ by Simon Winchester; 512pp (2/7/2017)</br>
+1. **_The Men Who United the States: America's Explorers, Inventors, Eccentrics, and Mavericks, and the Creation of One Nation Indivisible@_** by Simon Winchester; 496pp (2/15/2017)</br>
+1. _Outposts: Journeys to the Surviving Relics of the British Empire@_ by Simon Winchester; 400pp (2/24/2017)</br>
+1. _Krakatoa: The Day the World Exploded: August 27, 1883@_ by Simon Winchester; 416pp (3/21/2017)</br>
+1. _Years of Minutes^_ by Andy Rooney; 523pp (3/21/2017)</br>
+1. **_Assignment to Hell: The War Against Nazi Germany with Correspondents Walter Cronkite, Andy Rooney, A.J. Liebling, Homer Bigart, and Hal Boyle@_** by Timothy M. Gay; 528pp (4/14/2017)</br>
+1. _Reflections: Columns from the L.A. Times_ by Al Martinez; 238pp (4/17/2017)</br>
+1. **_The Cubs Way: The Zen of Building the Best Team In Baseball and Breaking the Curse@_** by Tom Verducci; 375pp (4/21/2017)</br>
+1. _Watching Baseball Smarter_ by Zack Hample; 195pp (4/21/2017)</br>
+1. **_The Game: Inside the Secret World of Major League Baseball's Power Brokers@_** by Jon Pessah; 656pp (4/28/2017)</br>
+1. **_The Baseball Codes: Beanballs, Sign Stealing, & Beach-Clearing Brawls: The Unwritten Rules of American's Pastime@_** by Jason Turbow; 394pp (5/2/2017)</br>
+1. **_Triumph and Tragedy in Mudville: A Lifelong Passion in Baseball_** by Stephen Jay Gould; 360pp (5/10/2017)</br>
+1. **_Shoeless Joe^_** by W. P. Kinsella; 272pp (5/11/2017)</br>
+1. _The Yankee Years@_ by Joe Torre and Tom Verducci; 502pp (5/16/2017)</br>
+1. **_Red: The Life & Times of a Great American Writer_** by Ira Berkow; 302pp (5/22/2017)</br>
+1. _Rebel Code: Linux and the Open Source Revolution+_ by Glyn Moody; 344pp (6/8/2017)</br>
+1. **_Casey Stengel@_** by Marty Appel; 432pp (6/9/2017)</br>
+1. _The Firm@_ by John Grisham; 501pp (6/23/2017)</br>
