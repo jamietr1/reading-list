@@ -21,13 +21,13 @@
 1. _Foundation and Earth_ by Isaac Asimov; 528pp (6/17/1996)</br>
 1. _Prelude to Foundation_ by Isaac Asimov; 464pp (6/25/1996)</br>
 1. **_Forward the Foundation_** by Isaac Asimov; 464pp (6/28/1996)</br>
-1. _Asimov Laughs Again by_ Isaac Asimov; 368pp (8/15/1996)</br>
+1. _Asimov Laughs Again_ by Isaac Asimov; 368pp (8/15/1996)</br>
 1. _Blameless in Abaddon_ by James Morrow; 416pp (8/23/1996)</br>
 1. _Our Angry Earth_ by Isaac Asimov and Frederik Pohl; 323pp (9/2/1996)</br>
 1. _Change!_ by Isaac Asimov; 201pp (9/13/1996)</br>
 1. _Idoru_ by William Gibson; 308pp (9/22/1996)</br>
 1. _Humpty Dumpty: An Oval_ by Damon Knight; 288pp (9/30/1996)</br>
-1. **_Something Wicked This Way Comes_** by Ray Bradbury (10/5/1996)</br>
+1. **_Something Wicked This Way Comes_** by Ray Bradbury; 293pp (10/5/1996)</br>
 1. _Red Mars_ by Kim Stanley Robinson; 572pp (10/28/1996)</br>
 1. _Counting the Eons_ by Isaac Asimov; 224pp (10/31/1996)</br>
 1. _Chorale_ by Barry N. Malzberg; 182pp (11/3/1996)</br>
@@ -77,7 +77,7 @@
 1. _Timequake_ by Kurt Vonnegut; 276pp (12/16/1997)</br>
 1. _Forever Peace_ by Joe Haldeman; 351pp (12/29/1997)</br>
 1. _Quasar, Quasar, Burning Bright_ by Isaac Asimov; 221pp (1/7/1998)</br>
-1. _The Road to Infinity_ by Isaac Asimov; 256pp (1/15/1997)</br>
+1. _The Road to Infinity_ by Isaac Asimov; 256pp (1/15/1998)</br>
 1. _Foundation^_ by Isaac Asimov; 244pp (2/1/1998)</br>
 1. _Foundation and Empire^_ by Isaac Asimov; 256pp (2/14/1998)</br>
 1. _Second Foundation^_ by Isaac Asimov; 256pp (2/23/1998)</br>
@@ -143,7 +143,7 @@
 1. _The Eternal Footman_ by James Morrow; 359pp (12/5/1999)</br>
 1. _A Scanner Darkly_ by Philip K. Dick; 219pp (12/11/1999)</br>
 1. _Sincerely, Andy Rooney_ by Andy Rooney; 352pp (12/12/1999)</br>
-1. _Revelations_ by Barry N. Malzberg (12/16/1999)</br>
+1. _Revelations_ by Barry N. Malzberg; 124pp (12/16/1999)</br>
 1. _Forever Free_ by Joe Haldeman; 277pp (12/18/1999)</br>
 1. _The Spread_ by Barry N. Malzberg; 157pp (12/19/1999)</br>
 1. _The Life of Greece_ by Will Durant; 754pp (1/16/2000)</br>
@@ -306,7 +306,7 @@
 1. _The Last Transaction_ by Barry N. Malzberg; 163pp (12/29/2004)</br>
 1. _The Door Into Summer_ by Robert A. Heinlein; 304pp (12/31/2004)</br>
 1. _Friday_ by Robert A. Heinlein; 384pp (1/10/2005)</br>
-1. _One More for the Road_ by Ray Bradbury 368pp (1/13/2005)</br>
+1. _One More for the Road_ by Ray Bradbury; 368pp (1/13/2005)</br>
 1. _Downtown: My Manhattan_ by Pete Hamill; 320pp (1/18/2005)</br>
 1. _The Catcher in the Rye_ by J. D. Salinger; 277pp (1/20/2005)</br>
 1. _Bing Crosby: A Pocketful of Dreams_ by Gary Giddins; 768pp (2/3/2005)</br>
