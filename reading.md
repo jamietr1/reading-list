@@ -474,7 +474,7 @@
 1. Astounding Science Fiction, October 1941 edited by John W. Campbell; 160pp (11/27/2011)</br>
 1. Astounding Science Fiction, November 1941 edited by John W. Campbell; 160pp (12/25/2011)</br>
 1. Astounding Science Fiction, December 1941 edited by John W. Campbell; 160pp (1/8/2012)</br>
-1. Astounding Science Fiction, January 1942 edited by John W. Campbell; 160pp (1/22//2012)</br>
+1. Astounding Science Fiction, January 1942 edited by John W. Campbell; 160pp (1/22/2012)</br>
 1. _A Feast for Crows+_ by George R. R. Martin; 1061pp (1/30/2012)</br>
 1. Astounding Science Fiction, February 1942 edited by John W. Campbell; 160pp (2/5/2012)</br>
 1. Astounding Science Fiction, March 1942 edited by John W. Campbell; 160pp (2/19/2012)</br>
