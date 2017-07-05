@@ -502,19 +502,19 @@
 1. _Bowl of Heaven+_ by Gregory Benford and Larry Niven; 416pp (1/13/2013)</br>
 1. _Impulse+_ by Steven Gould; 368pp (2/1/2013)</br>
 1. **_11/22/63^+_** by Stephen King; 849pp (2/19/2013)</br>
-1. _Misery@_ by Stephen King; 370pp (2/23/2013)</br>
-1. _Gerald’s Game@_ by Stephen King; 332pp (3/3/2013)</br>
-1. **_Hearts in Atlantis@_** by Stephen King; 640pp (3/8/2013)</br>
+1. _Misery@_ by Stephen King; 370pp/12:11 (2/23/2013)</br>
+1. _Gerald’s Game@_ by Stephen King; 332pp/13:34 (3/3/2013)</br>
+1. **_Hearts in Atlantis@_** by Stephen King; 640pp/20:09 (3/8/2013)</br>
 1. _Red Planet Blues_ by Robert J. Sawyer; 368pp (3/9/2013)</br>
-1. _On Writing@^_ by Stephen King; 320pp (3/14/2013)</br>
-1. _Needful Things@^_ by Stephen King; 790pp (3/20/2013)</br>
-1. _Walden@_ by Henry David Thoreau; 352pp (3/21/2013)</br>
-1. _‘Salem’s Lot@^_ by Stephen King; 483pp (3/25/2013)</br>
+1. _On Writing@^_ by Stephen King; 320pp/8:05 (3/14/2013)</br>
+1. _Needful Things@^_ by Stephen King; 790pp/25:11 (3/20/2013)</br>
+1. _Walden@_ by Henry David Thoreau; 352pp/10:08 (3/21/2013)</br>
+1. _‘Salem’s Lot@^_ by Stephen King; 483pp/17:35 (3/25/2013)</br>
 1. _Goodnight, iPad_ by Ann Droid; 32pp (3/28/2013)</br>
-1. _From A Buick 8@_ by Stephen King; 356pp (3/29/2013)</br>
-1. _The Tommyknockers@_ by Stephen King; 747pp (4/6/2013)</br>
-1. _Dreamcatcher@_ by Stephen King; 620pp (4/13/2013)</br>
-1. _It@^_ by Stephen King; 1116p (5/2/2013)</br>
+1. _From A Buick 8@_ by Stephen King; 356pp/13:21 (3/29/2013)</br>
+1. _The Tommyknockers@_ by Stephen King; 747pp/27:46 (4/6/2013)</br>
+1. _Dreamcatcher@_ by Stephen King; 620pp/22:50 (4/13/2013)</br>
+1. _It@^_ by Stephen King; 1116p/44:57 (5/2/2013)</br>
 1. _The Human Division@_ by John Scalzi; 431pp (5/6/2013)</br>
 1. _The Man from Mars_ by Fred Nadis; 304pp (5/7/2013)</br>
 1. _11/22/63@^_ by Stephen King; 849pp (5/16/2013)</br>
