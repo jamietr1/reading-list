@@ -397,44 +397,44 @@
 1. _Only Begotten Daughter_ by James Morrow; 312pp (11/29/2008)</br>
 1. _Frameshift_ by Robert J. Sawyer; 352pp (12/2/2008)</br>
 1. _Cauldron_ by Jack McDevitt; 373pp (12/7/2008)</br>
-1. _The Hard S. F. Renaissance edited_ by David G. Hartwell (1/6/2009)</br>
-1. _Beyond Band of Brothers: The War Memoirs of Major Dick Winters_ by Richard Winters (2/3/2009)</br>
-1. _I Remember the Future_ by Michael Burstein (2/10/2009)</br>
-1. _Adrift: Seventy-Six Days Lost at Sea_ by Steven Callahan (2/17/2009)</br>
-1. _The Way the Future Was_ by Frederik Pohl (2/24/2009)</br>
-1. _Steal Across the Sky_ by Nancy Kress (3/3/2009)</br>
-1. _We’ll Always Have Paris_ by Ray Bradbury (3/19/2009)</br>
-1. _I. Asimov^_ by Isaac Asimov (4/6/2009)</br>
-1. _Polaris+_ by Jack McDevitt (6/23/2009)</br>
-1. _Mindbridge_ by Joe Haldeman (7/26/2009)</br>
-1. _On Writing+_ by Stephen King (9/16/2009)</br>
-1. _The Lost Symbol+_ by Dan Brown (9/17/2009)</br>
-1. _Carrie+_ by Stephen King (9/21/2009)</br>
-1. _The Shining+_ by Stephen King (9/28/2009)</br>
-1. _It+_ by Stephen King (10/28/2009)</br>
-1. _Night Shift+_ by Stephen King (11/3/2009)</br>
-1. _Time Traveler’s Never Die+_ by Jack McDevitt (11/9/2009)</br>
-1. _Under the Dome_ by Stephen King (11/30/2009)</br>
-1. _Different Seasons+_ by Stephen King (12/9/2009)</br>
-1. _C.M. Kornbluth_ by Mark Rich (2/3/2010)</br>
-1. _Galileo’s Dream+_ by Kim Stanley Robinson (2/15/2010)</br>
-1. _Blackout+_ by Connie Willis (3/12/2010)</br>
-1. **_Other Spaces, Other Times_** by Robert Silverberg (3/14/2010)</br>
-1. _I. Asimov^_ by Isaac Asimov (4/18/2010)</br>
-1. _In Memory Yet Green^_ by Isaac Asimov (4/24/2010)</br>
-1. _Seeker+_ by Jack McDevitt (5/2/2010)</br>
-1. _In Joy Still Felt^_ by Isaac Asimov (5/4/2010)</br>
-1. _The Stand+_ by Stephen King (6/2/2010)</br>
-1. _The Dead Zone+_ by Stephen King (6/11/2010)</br>
-1. _Firestarter+_ by Stephen King (6/25/2010)</br>
-1. _Pet Sematary_ by Stephen King (6/29/2010)</br>
-1. _Booklife_ by Jeff VanderMeer (7/13/2010)</br>
-1. _Underlay_ by Barry N. Malzberg (7/16/2010)</br>
-1. _Caesar and Christ_ by Will Durant (8/17/2010)</br>
-1. **_Doomsday Book_** by Connie Willis (9/16/2010)</br>
-1. _The Devil’s Eye+_ by Jack McDevitt (12/5/2010)</br>
-1. _Echo+_ by Jack McDevitt (12/12/2010)</br>
-1. _All Clear+_ by Connie Willis (12/29/2010)</br>
+1. _The Hard S. F. Renaissance_ edited by David G. Hartwell; 960pp (1/6/2009)</br>
+1. _Beyond Band of Brothers: The War Memoirs of Major Dick Winters_ by Richard Winters; 304pp (2/3/2009)</br>
+1. _I Remember the Future_ by Michael Burstein; 412pp (2/10/2009)</br>
+1. _Adrift: Seventy-Six Days Lost at Sea_ by Steven Callahan; 344pp (2/17/2009)</br>
+1. _The Way the Future Was_ by Frederik Pohl; 312pp (2/24/2009)</br>
+1. _Steal Across the Sky_ by Nancy Kress; 320pp (3/3/2009)</br>
+1. _We’ll Always Have Paris_ by Ray Bradbury; 210pp (3/19/2009)</br>
+1. _I. Asimov^_ by Isaac Asimov; 578pp (4/6/2009)</br>
+1. _Polaris+_ by Jack McDevitt; 384pp (6/23/2009)</br>
+1. _Mindbridge_ by Joe Haldeman; 186pp (7/26/2009)</br>
+1. _On Writing: A Memoir of the Craft+_ by Stephen King; 320pp (9/16/2009)</br>
+1. _The Lost Symbol+_ by Dan Brown; 509pp (9/17/2009)</br>
+1. _Carrie+_ by Stephen King; 253pp (9/21/2009)</br>
+1. _The Shining+_ by Stephen King; 447pp (9/28/2009)</br>
+1. _It+_ by Stephen King; 1116pp (10/28/2009)</br>
+1. _Night Shift+_ by Stephen King; 409pp (11/3/2009)</br>
+1. _Time Traveler’s Never Die+_ by Jack McDevitt; 371pp (11/9/2009)</br>
+1. _Under the Dome_ by Stephen King; 1074pp (11/30/2009)</br>
+1. _Different Seasons+_ by Stephen King; 560pp (12/9/2009)</br>
+1. _C.M. Kornbluth_ by Mark Rich; 439pp (2/3/2010)</br>
+1. _Galileo’s Dream+_ by Kim Stanley Robinson; 578pp (2/15/2010)</br>
+1. _Blackout+_ by Connie Willis; 610pp (3/12/2010)</br>
+1. **_Other Spaces, Other Times_** by Robert Silverberg; 200pp (3/14/2010)</br>
+1. _I. Asimov^_ by Isaac Asimov; 578pp (4/18/2010)</br>
+1. _In Memory Yet Green^_ by Isaac Asimov; 744pp (4/24/2010)</br>
+1. _Seeker+_ by Jack McDevitt; 373pp (5/2/2010)</br>
+1. _In Joy Still Felt^_ by Isaac Asimov; 840pp (5/4/2010)</br>
+1. _The Stand+_ by Stephen King; 1153pp (6/2/2010)</br>
+1. _The Dead Zone+_ by Stephen King; 402pp (6/11/2010)</br>
+1. _Firestarter+_ by Stephen King; 416pp (6/25/2010)</br>
+1. _Pet Sematary_ by Stephen King; 580pp (6/29/2010)</br>
+1. _Booklife_ by Jeff VanderMeer; 329pp (7/13/2010)</br>
+1. _Underlay_ by Barry N. Malzberg; 180pp (7/16/2010)</br>
+1. _Caesar and Christ_ by Will Durant; 752pp (8/17/2010)</br>
+1. **_Doomsday Book_** by Connie Willis; 578pp (9/16/2010)</br>
+1. _The Devil’s Eye+_ by Jack McDevitt; 368pp (12/5/2010)</br>
+1. _Echo+_ by Jack McDevitt; 371pp (12/12/2010)</br>
+1. _All Clear+_ by Connie Willis; 793pp (12/29/2010)</br>
 1. Astounding Science Fiction. July 1939 (1/22/2011)</br>
 1. Astounding Science Fiction, August 1939 (1/30/2011)</br>
 1. Astounding Science Fiction, September 1939 (2/6/2011)</br>
@@ -450,184 +450,184 @@
 1. Astounding Science Fiction, July 1940 (4/24/2011)</br>
 1. Astounding Science Fiction, August 1940 (5/2/2011)</br>
 1. Astounding Science Fiction, September 1940 (5/15/2011)</br>
-1. **_Game of Thrones+_** by George R. R. Martin (5/16/2011)</br>
+1. **_Game of Thrones+_** by George R. R. Martin; 835pp (5/16/2011)</br>
 1. Astounding Science Fiction, October 1940 (5/30/2011)</br>
-1. _You’re Not Foolin’ Anyone When You Take Your Laptop To a Coffee Shop: Scalzi on Writing+_ by John Scalzi (6/6/2011)</br>
-1. _Blockade Billy+_ by Stephen King (6/9/2011)</br>
+1. _You’re Not Foolin’ Anyone When You Take Your Laptop To a Coffee Shop: Scalzi on Writing+_ by John Scalzi; 319pp (6/6/2011)</br>
+1. _Blockade Billy+_ by Stephen King; 112pp (6/9/2011)</br>
 1. Astounding Science Fiction, November 1940 (6/12/2011)</br>
-1. _A Clash of Kings+_ by George R. R. Martin (6/16/2011)</br>
+1. _A Clash of Kings+_ by George R. R. Martin; 761pp (6/16/2011)</br>
 1. Astounding Science Fiction, December 1940 (6/26/2011)</br>
 1. Astounding Science Fiction, January 1941 (7/10/2011)</br>
 1. Astounding Science Fiction, February 1941 (7/24/2011)</br>
 1. Astounding Science Fiction, March 1941 (8/7/2011)</br>
-1. _A Storm of Swords+_ by George R. R. Martin (8/17/2011)</br>
+1. _A Storm of Swords+_ by George R. R. Martin; 1177pp (8/17/2011)</br>
 1. Astounding Science Fiction, April 1941 (8/21/2011)</br>
 1. Astounding Science Fiction, May 1941 (9/4/2011)</br>
-1. _Contact^_ by Carl Sagan (9/22/2011)</br>
+1. _Contact^_ by Carl Sagan; 580pp (9/22/2011)</br>
 1. Astounding Science Fiction, June 1941 (10/2/2011)</br>
 1. Astounding Science Fiction, July 1941 (10/16/2011)</br>
 1. Astounding Science Fiction, August 1941 (10/30/2011)</br>
-1. **_Firebird+_** by Jack McDevitt (11/9/2011)</br>
+1. **_Firebird+_** by Jack McDevitt; 375pp (11/9/2011)</br>
 1. Astounding Science Fiction, September 1941 (11/13/2011)</br>
-1. **_11/22/63+_** by Stephen King (11/18/2011)</br>
-1. _The Green Mile+_ by Stephen King (11/23/2011)</br>
+1. **_11/22/63+_** by Stephen King; 849pp (11/18/2011)</br>
+1. _The Green Mile+_ by Stephen King; 592pp (11/23/2011)</br>
 1. Astounding Science Fiction, October 1941 (11/27/2011)</br>
 1. Astounding Science Fiction, November 1941 (12/25/2011)</br>
 1. Astounding Science Fiction, December 1941 (1/8/2012)</br>
 1. Astounding Science Fiction, January 1942 (1/22//2012)</br>
-1. _A Feast for Crows+_ by George R. R. Martin (1/30/2012)</br>
+1. _A Feast for Crows+_ by George R. R. Martin; 1061pp (1/30/2012)</br>
 1. Astounding Science Fiction, February 1942 (2/5/2012)</br>
 1. Astounding Science Fiction, March 1942 (2/19/2012)</br>
 1. Astounding Science Fiction, April 1942 (3/4/2012)</br>
 1. Astounding Science Fiction, May 1942 (3/18/2012)</br>
 1. Astounding Science Fiction, June 1942 (4/1/2012)</br>
-1. _In Memory Yet Green^_ by Isaac Asimov (4/24/2012)</br>
+1. _In Memory Yet Green^_ by Isaac Asimov; 744pp (4/24/2012)</br>
 1. Astounding Science Fiction, July 1942 (4/29/2012)</br>
 1. Astounding Science Fiction, August 1942 (5/13/2012)</br>
-1. _Million Writer Awards+, edited_ by Jason Sanford (5/15/2012)</br>
-1. _2312+_ by Kim Stanley Robinson (5/31/2012)</br>
-1. _Night Raider (Lone Wolf #1)+ by Barry N. Malzberg (as_ by Mike Barry) (6/8/2012)</br>
-1. _Taft 2012: A Novel+_ by Jason Heller (6/26/2012)</br>
-1. _Redshirts: A Novel with 3 Codas+_ by John Scalzi (6/27/2012)</br>
-1. _Full Dark, No Stars+_ by Stephen King (7/5/2012)</br>
-1. _Bag of Bones+_ by Stephen King (7/10/2012)</br>
-1. **_It+^_** by Stephen King (7/30/2012)</br>
-1. _Born Standing Up+_ by Steve Martin (8/1/2012)</br>
-1. _Downward to the Earth+_ by Robert Silverberg (8/28/2012)</br>
-1. _Year’s Best Science Fiction: Twenty-Ninth Annual Edition+ edited_ by Gardner Dozois (8/28/2012)</br>
+1. _Million Writer Awards+_ edited by Jason Sanford; 221pp (5/15/2012)</br>
+1. _2312+_ by Kim Stanley Robinson; 561pp (5/31/2012)</br>
+1. _Night Raider (Lone Wolf #1)+_ by Barry N. Malzberg (as by Mike Barry); 192pp (6/8/2012)</br>
+1. _Taft 2012: A Novel+_ by Jason Heller; 256pp (6/26/2012)</br>
+1. _Redshirts: A Novel with 3 Codas+_ by John Scalzi; 320pp (6/27/2012)</br>
+1. _Full Dark, No Stars+_ by Stephen King; 368pp (7/5/2012)</br>
+1. _Bag of Bones+_ by Stephen King; 736pp (7/10/2012)</br>
+1. **_It+^_** by Stephen King; 1116pp (7/30/2012)</br>
+1. _Born Standing Up+_ by Steve Martin; 207pp (8/1/2012)</br>
+1. _Downward to the Earth+_ by Robert Silverberg; 176pp (8/28/2012)</br>
+1. _Year’s Best Science Fiction: Twenty-Ninth Annual Edition+_ edited by Gardner Dozois; 704pp (8/28/2012)</br>
 1. Astounding Science Fiction, September 1942 (9/17/2012)</br>
 1. Astounding Science Fiction, October 1942 (10/1/2012)</br>
-1. _The Cassandra Project_ by Jack McDevitt and Mike Resnick (10/11/2012)</br>
-1. _Apollo’s Outcasts+_ by Allen Steele (10/31/2012)</br>
-1. _Bowl of Heaven+_ by Gregory Benford and Larry Niven (1/13/2013)</br>
-1. _Impulse+_ by Steven Gould (2/1/2013)</br>
-1. **_11/22/63^+_** by Stephen King (2/19/2013)</br>
-1. _Misery@_ by Stephen King (2/23/2013)</br>
-1. _Gerald’s Game@_ by Stephen King (3/3/2013)</br>
-1. **_Hearts in Atlantis@_** by Stephen King (3/8/2013)</br>
-1. _Red Planet Blues_ by Robert J. Sawyer (3/9/2013)</br>
-1. _On Writing@^_ by Stephen King (3/14/2013)</br>
-1. _Needful Things@^_ by Stephen King (3/20/2013)</br>
-1. _Walden@_ by Henry David Thoreau (3/21/2013)</br>
-1. _‘Salem’s Lot@^_ by Stephen King (3/25/2013)</br>
-1. _Goodnight, iPad_ by Ann Droid (3/28/2013)</br>
-1. _From A Buick 8@_ by Stephen King (3/29/2013)</br>
-1. _The Tommyknockers@_ by Stephen King (4/6/2013)</br>
-1. _Dreamcatcher@_ by Stephen King (4/13/2013)</br>
-1. _It@^_ by Stephen King (5/2/2013)</br>
-1. _The Human Division@_ by John Scalzi (5/6/2013)</br>
-1. _The Man from Mars_ by Fred Nadis (5/7/2013)</br>
-1. _11/22/63@^_ by Stephen King (5/16/2013)</br>
-1. _The Shining@^_ by Stephen King (5/21/2013)</br>
-1. _Danse Macabre@_ by Stephen King (5/27/2013)</br>
-1. _Carrie@^_ by Stephen King (5/29/2013)</br>
-1. _Dracula@_ by Bram Stoker (6/2/2013)</br>
-1. _On Writing@^_ by Stephen King (6/4/2013)</br>
-1. **_Joyland@_** by Stephen King (6/5/2013)</br>
-1. _The Dark Tower, Book 1: The Gunslinger@_ by Stephen King (6/7/2013)</br>
-1. _The Dark Tower, Book 2: The Drawing of Three@_ by Stephen King (6/12/2013)</br>
-1. _The Dark Tower, Book 3: The Wastelands@_ by Stephen King (6/18/2013)</br>
-1. **_The Ocean at the End of the Lane@_** by Neil Gaiman (6/20/2013)</br>
-1. **_The Shining Girls@_** by Lauren Beukes (6/24/2013)</br>
-1. _Hard Listening+_ by Stephen King, Scott Turow, Amy Tan, et. al. (6/24/2013)</br>
-1. _Dolores Claiborne@_ by Stephen King (6/27/2013)</br>
-1. **_The Dark Tower, Book 4: Wizard and Glass@_** by Stephen King (7/10/2013)</br>
-1. _The Dark Tower, Book 5: Wolves of the Calla@_ by Stephen King (7/26/2013)</br>
-1. _The Dark Tower, Book 6: Song of Susannah@_ by Stephen King (7/30/2013)</br>
-1. _The Dark Tower, Book 7: The Dark Tower@_ by Stephen King (8/7/2013)</br>
-1. _The Iowa Baseball Confederacy@^_ by W. P. Kinsella (8/24/2013)</br>
-1. _Salinger@_ by David Shields and Shane Salerno (9/14/2013)</br>
-1. _Way Station@^_ by Clifford D. Simak (9/19/2013)</br>
-1. _The Girl Who Loved Tom Gordon@_ by Stephen King (9/24/2013)</br>
-1. _Doctor Sleep@_ by Stephen King (9/29/2013)</br>
-1. _The Hunt for Red October@^_ by Tom Clancy (10/9/2013)</br>
-1. _Patriot Games@^_ by Tom Clancy (10/17/2013)</br>
-1. _The Cardinal of the Kremlin@^_ by Tom Clancy (10/25/2013)</br>
-1. **_On Writing@^_** by Stephen King (10/31/2013)</br>
-1. **_The Wind Through the Keyhole@_** by Stephen King (11/5/2013)</br>
-1. _Starhawk@_ by Jack McDevitt (11/9/2013)</br>
-1. _Old Mars+ edited_ by Gardner Dozois and George R. R. Martin (11/10/2013)</br>
-1. _The Langoliers@_ by Stephen King (11/15/2013)</br>
-1. _The Library Policeman@_ by Stephen King (11/21/2013)</br>
-1. _The Sun Dog@_ by Stephen King (11/27/2013)</br>
-1. _Nightmares & Dreamscapes, Volume 1@_ by Stephen King (12/4/2013)</br>
-1. _Everything’s Eventual: 5 Dark Tales@_ by Stephen King (12/26/2013)</br>
-1. _The Man in the Black Suit: 4 Dark Tales@_ by Stephen King (12/27/2013)</br>
-1. _Christine@_ by Stephen King (1/8/2014)</br>
-1. _Work Done for Hire@_ by Joe Haldeman (1/16/2014)</br>
-1. **_The Shawshank Redemption@_** by Stephen King (1/17/2014)</br>
-1. **_The Body@_** by Stephen King (1/24/2014)</br>
-1. **_The Things They Carried@_** by Tim O'Brien (2/2/2014)</br>
-1. **_John Adams^@_** by David McCullough (2/20/2014)</br>
-1. **_George Washington: A Life@_** by Ron Chernow (3/13/2014)</br>
-1. _The Joy of Keeping Score+_ by Paul Dickson (4/2/2014)</br>
-1. **_It@^_** by Stephen King (4/3/2014)</br>
-1. **_A Nice Little Place at the North Side@_** by George F. Will (4/5/2014)</br>
-1. _The War of Art_ by Steven Pressfield (4/12/2014)</br>
-1. **_From A Buick 8^@_** by Stephen King (4/18/2014)</br>
-1. **_Stories I Only Tell My Friends@_** by Rob Lowe (4/19/2014)</br>
-1. _Love Life@_ by Rob Lowe (4/21/2014)</br>
-1. **_11/22/63@^_** by Stephen King (6/1/2014)</br>
-1. _Mile 81@_ by Stephen King (6/2/2014)</br>
-1. _Mr. Mercedes@_ by Stephen King (6/6/2014)</br>
-1. _Joyland@^_ by Stephen King (6/9/2014)</br>
-1. _The Old Man and the Sea@_ by Ernest Hemingway (6/9/2014)</br>
-1. _2k to 10k: Writing Faster, Writing Better, and Write More of What You Love+_ by Rachel Aaron (6/13/2014)</br>
-1. **_A Prayer for Owen Meany@_** by John Irving (6/19/2014)</br>
-1. **_Blue Highways@_** by William Least Heat Moon (6/27/2014)</br>
-1. **_The Shawshank Redemption@^_** by Stephen King (6/29/2014)</br>
-1. **_The Martian@_** by Andy Weir (7/5/2014)</br>
-1. _Kiss and Make Up@_ by Gene Simmons (7/11/2014)</br>
-1. **_The Last Lion: Winston Spencer Churchill, Volume 1: Visions of Glory 1874-1932@_** by William Manchester (8/16/2014)</br>
-1. **_The Last Lion: Winston Spencer Churchill, Volume 2: Alone 1932-1940@_** by William Manchester (9/1/2014)</br>
-1. **_The Last Lion: Winston Spencer Churchill, Volume 3: Defender of the Realm 1940-1965@_** by William Manchester and Paul Reid (9/17/2014)</br>
-1. **_Great Baseball Writing: Sports Illustrated 1954-2004@_** by Rob Fleder, editor (10/5/2014)</br>
-1. _Ball Four@_ by Jim Bouton (10/17/2014)</br>
-1. **_The Innovators: How a Group of Inventors, Hackers, Geniuses, and Geeks Created the Digital Revolution@_** by Walter Isaacson (10/25/2014)</br>
-1. _The Fellowship of the Ring@_ by J.R.R. Tolkien (11/1/2014)</br>
-1. _American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer@_ by Kai Bird and Martin J. Sherwin (11/10/2014)</br>
-1. _Revival@_ by Stephen King (11/20/2014)</br>
-1. _Hope: Entertainer of the Century@_ by Richard Zoglin (11/30/2014)</br>
-1. **_Fallen Leaves: Last Words on Life, Love, War, and God@_** by Will Durant (12/12/2014)</br>
-1. **_Caesar and Christ@^_** by Will Durant (12/27/2014)</br>
-1. _Fortunately, the Milk@_ by Neil Gaiman (2/10/2015)</br>
-1. _Carrie^@_ by Stephen King (2/22/2015)</br>
-1. _Salem's Lot@^_ by Stephen King (3/1/2015)</br>
-1. _The Shining@^_ by Stephen King (3/4/2015)</br>
-1. _Rage_ by Stephen King (3/5/2015)</br>
-1. _Night Shift+^_ by Stephen King (3/7/2015)</br>
-1. **_The Longest Road@_** by Philip Caputo (3/12/2015)</br>
-1. _Into the Wild@_ by Jon Krakauer (3/14/2015)</br>
-1. **_Where Nobody Knows Your Name: Life in the Minor Leagues of Baseball@_** by John Feinstein (3/19/2015)</br>
-1. _The Stand: 1978 edition_ by Stephen King (3/22/2015)</br>
-1. **_Coming Home@_** by Jack McDevitt (4/17/2015)</br>
-1. **_11/22/63@^_** by Stephen King (5/20/2015)</br>
-1. _The Fifth Heart@_ by Dan Simmons (6/1/2015)</br>
-1. _Finders Keepers@_ by Stephen King (6/6/2015)</br>
-1. **_The Rise of Theodore Roosevelt@^_** by Edmund Morris (6/14/2015)</br>
-1. **_Theodore Rex@^_** by Edmund Morris (6/25/2015)</br>
-1. **_Colonel Roosevelt@_** by Edmund Morris (7/10/2015)</br>
-1. _Common Sense@_ by Thomas Paine (7/10/2015)</br>
-1. _Tales of a Fourth Grade Nothing_ by Judy Blume (7/30/2015)</br>
-1. **_The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism@_** by Doris Kearns Goodwin (8/3/2015)</br>
-1. _Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Question for Transcendent Software@_ by Scott Rosenberg (8/27/2015)</br>
-1. _Superfudge_ by Judy Blume (9/9/2015)</br>
-1. **_The Name of the Wind@+_** by Patrick Rothfuss (9/10/2015)</br>
-1. **_The Wise Man's Fear@+_** by Patrick Rothfuss (9/20/2015)</br>
-1. _Killing Floor: Jack Reacher, Book 1@+_ by Lee Child (9/22/2015)</br>
-1. _The World Is My Home@+_ by James A. Michener (9/26/2015)</br>
-1. _David and the Phoenix+_ by Edward Ormondroyd (10/19/2015)</br>
-1. **_A Man on the Moon@^_** by Andrew Chaikin (10/28/2015)</br>
-1. **_On Writing@^_** by Stephen King (11/5/2015)</br>
-1. **_The Dark Tower, Book 1: The Gunslinger^_** by Stephen King (11/8/2015)</br>
-1. _The Dark Tower, Book 2: The Drawing of the Three^_ by Stephen King (11/13/2015)</br>
-1. _Danse Macabre@^_ by Stephen King (11/23/2015)</br>
-1. **_This Old Man@_** by Roger Angell (11/25/2015)</br>
-1. _The Dark Tower, Book 3: The Waste Lands^_ by Stephen King (11/29/2015)</br>
-1. _Sweet and Sour@_ by Andy Rooney (12/11/2015)</br>
-1. _Harry Potter and the Socerer's Stone@^_ by J. K. Rowling (12/24/2015)</br>
-1. _My Lucky Life In and Out of Show Business@_ by Dick Van Dyke (12/28/2015)</br>
-1. **_Keep Moving, and Other Tips and Truths About Aging@_** by Dick Van Dyke (12/31/2015)</br>
+1. _The Cassandra Project_ by Jack McDevitt and Mike Resnick; 387pp (10/11/2012)</br>
+1. _Apollo’s Outcasts+_ by Allen Steele; 311pp (10/31/2012)</br>
+1. _Bowl of Heaven+_ by Gregory Benford and Larry Niven; 416pp (1/13/2013)</br>
+1. _Impulse+_ by Steven Gould; 368pp (2/1/2013)</br>
+1. **_11/22/63^+_** by Stephen King; 849pp (2/19/2013)</br>
+1. _Misery@_ by Stephen King; 370pp (2/23/2013)</br>
+1. _Gerald’s Game@_ by Stephen King; 332pp (3/3/2013)</br>
+1. **_Hearts in Atlantis@_** by Stephen King; 640pp (3/8/2013)</br>
+1. _Red Planet Blues_ by Robert J. Sawyer; 368pp (3/9/2013)</br>
+1. _On Writing@^_ by Stephen King; 320pp (3/14/2013)</br>
+1. _Needful Things@^_ by Stephen King; 790pp (3/20/2013)</br>
+1. _Walden@_ by Henry David Thoreau; 352pp (3/21/2013)</br>
+1. _‘Salem’s Lot@^_ by Stephen King; 483pp (3/25/2013)</br>
+1. _Goodnight, iPad_ by Ann Droid; 32pp (3/28/2013)</br>
+1. _From A Buick 8@_ by Stephen King; 356pp (3/29/2013)</br>
+1. _The Tommyknockers@_ by Stephen King; 747pp (4/6/2013)</br>
+1. _Dreamcatcher@_ by Stephen King; 620pp (4/13/2013)</br>
+1. _It@^_ by Stephen King; 1116p (5/2/2013)</br>
+1. _The Human Division@_ by John Scalzi; 431pp (5/6/2013)</br>
+1. _The Man from Mars_ by Fred Nadis; 304pp (5/7/2013)</br>
+1. _11/22/63@^_ by Stephen King; 849pp (5/16/2013)</br>
+1. _The Shining@^_ by Stephen King; 447pp (5/21/2013)</br>
+1. _Danse Macabre@_ by Stephen King; 400pp (5/27/2013)</br>
+1. _Carrie@^_ by Stephen King; 253pp (5/29/2013)</br>
+1. _Dracula@_ by Bram Stoker; 488pp (6/2/2013)</br>
+1. _On Writing@^_ by Stephen King; 320pp (6/4/2013)</br>
+1. **_Joyland@_** by Stephen King; 283pp (6/5/2013)</br>
+1. _The Dark Tower, Book 1: The Gunslinger@_ by Stephen King; 231pp (6/7/2013)</br>
+1. _The Dark Tower, Book 2: The Drawing of Three@_ by Stephen King; 463pp (6/12/2013)</br>
+1. _The Dark Tower, Book 3: The Wastelands@_ by Stephen King; 422pp (6/18/2013)</br>
+1. **_The Ocean at the End of the Lane@_** by Neil Gaiman; 181pp (6/20/2013)</br>
+1. **_The Shining Girls@_** by Lauren Beukes; 375pp (6/24/2013)</br>
+1. _Hard Listening+_ by Stephen King, Scott Turow, Amy Tan, et. al.; 219pp (6/24/2013)</br>
+1. _Dolores Claiborne@_ by Stephen King; 384pp (6/27/2013)</br>
+1. **_The Dark Tower, Book 4: Wizard and Glass@_** by Stephen King; 845pp (7/10/2013)</br>
+1. _The Dark Tower, Book 5: Wolves of the Calla@_ by Stephen King; 931pp (7/26/2013)</br>
+1. _The Dark Tower, Book 6: Song of Susannah@_ by Stephen King; 544pp (7/30/2013)</br>
+1. _The Dark Tower, Book 7: The Dark Tower@_ by Stephen King; 1050pp (8/7/2013)</br>
+1. _The Iowa Baseball Confederacy@^_ by W. P. Kinsella; 310pp (8/24/2013)</br>
+1. _Salinger@_ by David Shields and Shane Salerno; 700pp (9/14/2013)</br>
+1. _Way Station@^_ by Clifford D. Simak; 210pp (9/19/2013)</br>
+1. _The Girl Who Loved Tom Gordon@_ by Stephen King; 264pp (9/24/2013)</br>
+1. _Doctor Sleep@_ by Stephen King; 531pp (9/29/2013)</br>
+1. _The Hunt for Red October@^_ by Tom Clancy; 432pp (10/9/2013)</br>
+1. _Patriot Games@^_ by Tom Clancy; 503pp (10/17/2013)</br>
+1. _The Cardinal of the Kremlin@^_ by Tom Clancy; 547pp (10/25/2013)</br>
+1. **_On Writing@^_** by Stephen King; 320pp (10/31/2013)</br>
+1. **_The Wind Through the Keyhole@_** by Stephen King; 322pp (11/5/2013)</br>
+1. _Starhawk@_ by Jack McDevitt; 416pp (11/9/2013)</br>
+1. _Old Mars+_ edited by Gardner Dozois and George R. R. Martin; 486pp (11/10/2013)</br>
+1. _The Langoliers@_ by Stephen King; 192pp (11/15/2013)</br>
+1. _The Library Policeman@_ by Stephen King; 192pp (11/21/2013)</br>
+1. _The Sun Dog@_ by Stephen King; 192pp (11/27/2013)</br>
+1. _Nightmares & Dreamscapes, Volume 1@_ by Stephen King; 288pp (12/4/2013)</br>
+1. _Everything’s Eventual: 5 Dark Tales@_ by Stephen King; 583pp (12/26/2013)</br>
+1. _The Man in the Black Suit: 4 Dark Tales@_ by Stephen King; 200pp (12/27/2013)</br>
+1. _Christine@_ by Stephen King; 503pp (1/8/2014)</br>
+1. _Work Done for Hire@_ by Joe Haldeman; 278pp (1/16/2014)</br>
+1. **_The Shawshank Redemption@_** by Stephen King; 200pp (1/17/2014)</br>
+1. **_The Body@_** by Stephen King; 150pp (1/24/2014)</br>
+1. **_The Things They Carried@_** by Tim O'Brien; 246pp (2/2/2014)</br>
+1. **_John Adams^@_** by David McCullough; 751pp (2/20/2014)</br>
+1. **_Washington: A Life@_** by Ron Chernow; 927pp (3/13/2014)</br>
+1. _The Joy of Keeping Score+_ by Paul Dickson; 128pp (4/2/2014)</br>
+1. **_It@^_** by Stephen King; 1116pp (4/3/2014)</br>
+1. **_A Nice Little Place at the North Side@_** by George F. Will; 224pp (4/5/2014)</br>
+1. _The War of Art_ by Steven Pressfield; 168pp (4/12/2014)</br>
+1. **_From A Buick 8^@_** by Stephen King; 356pp (4/18/2014)</br>
+1. **_Stories I Only Tell My Friends@_** by Rob Lowe; 320pp (4/19/2014)</br>
+1. _Love Life@_ by Rob Lowe; 272pp (4/21/2014)</br>
+1. **_11/22/63@^_** by Stephen King; 849pp (6/1/2014)</br>
+1. _Mile 81@_ by Stephen King; 54pp (6/2/2014)</br>
+1. _Mr. Mercedes@_ by Stephen King; 436pp (6/6/2014)</br>
+1. _Joyland@^_ by Stephen King; 283pp (6/9/2014)</br>
+1. _The Old Man and the Sea@_ by Ernest Hemingway; 132pp (6/9/2014)</br>
+1. _2k to 10k: Writing Faster, Writing Better, and Write More of What You Love+_ by Rachel Aaron; 64pp (6/13/2014)</br>
+1. **_A Prayer for Owen Meany@_** by John Irving; 547pp (6/19/2014)</br>
+1. **_Blue Highways@_** by William Least-Heat Moon; 428pp (6/27/2014)</br>
+1. **_The Shawshank Redemption@^_** by Stephen King; 200pp (6/29/2014)</br>
+1. **_The Martian@_** by Andy Weir; 369pp (7/5/2014)</br>
+1. _Kiss and Make Up@_ by Gene Simmons; 288pp (7/11/2014)</br>
+1. **_The Last Lion: Winston Spencer Churchill, Volume 1: Visions of Glory 1874-1932@_** by William Manchester; 992pp (8/16/2014)</br>
+1. **_The Last Lion: Winston Spencer Churchill, Volume 2: Alone 1932-1940@_** by William Manchester; 800pp (9/1/2014)</br>
+1. **_The Last Lion: Winston Spencer Churchill, Volume 3: Defender of the Realm 1940-1965@_** by William Manchester and Paul Reid; 1232pp (9/17/2014)</br>
+1. **_Great Baseball Writing: Sports Illustrated 1954-2004@_** edited by Rob Fleder; 560pp (10/5/2014)</br>
+1. _Ball Four@_ by Jim Bouton; 504pp (10/17/2014)</br>
+1. **_The Innovators: How a Group of Inventors, Hackers, Geniuses, and Geeks Created the Digital Revolution@_** by Walter Isaacson; 528pp (10/25/2014)</br>
+1. _The Fellowship of the Ring@_ by J.R.R. Tolkien; 398pp (11/1/2014)</br>
+1. _American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer@_ by Kai Bird and Martin J. Sherwin; 725pp (11/10/2014)</br>
+1. _Revival@_ by Stephen King; 405pp (11/20/2014)</br>
+1. _Hope: Entertainer of the Century@_ by Richard Zoglin; 576pp (11/30/2014)</br>
+1. **_Fallen Leaves: Last Words on Life, Love, War, and God@_** by Will Durant; 208pp (12/12/2014)</br>
+1. **_Caesar and Christ@^_** by Will Durant; 752pp (12/27/2014)</br>
+1. _Fortunately, the Milk@_ by Neil Gaiman; 113pp (2/10/2015)</br>
+1. _Carrie^@_ by Stephen King; 253pp (2/22/2015)</br>
+1. _Salem's Lot@^_ by Stephen King; 483pp (3/1/2015)</br>
+1. _The Shining@^_ by Stephen King; 447pp (3/4/2015)</br>
+1. _Rage_ by Stephen King; 131pp (3/5/2015)</br>
+1. _Night Shift+^_ by Stephen King; 409pp (3/7/2015)</br>
+1. **_The Longest Road@_** by Philip Caputo; 320pp (3/12/2015)</br>
+1. _Into the Wild@_ by Jon Krakauer; 207pp (3/14/2015)</br>
+1. **_Where Nobody Knows Your Name: Life in the Minor Leagues of Baseball@_** by John Feinstein; 368pp (3/19/2015)</br>
+1. _The Stand: 1978 edition_ by Stephen King; 823pp (3/22/2015)</br>
+1. **_Coming Home@_** by Jack McDevitt; 386pp (4/17/2015)</br>
+1. **_11/22/63@^_** by Stephen King; 849pp (5/20/2015)</br>
+1. _The Fifth Heart@_ by Dan Simmons; 618pp (6/1/2015)</br>
+1. _Finders Keepers@_ by Stephen King; 431pp (6/6/2015)</br>
+1. **_The Rise of Theodore Roosevelt@^_** by Edmund Morris; 780pp (6/14/2015)</br>
+1. **_Theodore Rex@^_** by Edmund Morris; 772pp (6/25/2015)</br>
+1. **_Colonel Roosevelt@_** by Edmund Morris; 766pp (7/10/2015)</br>
+1. _Common Sense@_ by Thomas Paine; 104pp (7/10/2015)</br>
+1. _Tales of a Fourth Grade Nothing_ by Judy Blume; 144pp (7/30/2015)</br>
+1. **_The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism@_** by Doris Kearns Goodwin; 910pp (8/3/2015)</br>
+1. _Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Question for Transcendent Software@_ by Scott Rosenberg; 416pp (8/27/2015)</br>
+1. _Superfudge_ by Judy Blume; 192pp (9/9/2015)</br>
+1. **_The Name of the Wind@+_** by Patrick Rothfuss; 662pp (9/10/2015)</br>
+1. **_The Wise Man's Fear@+_** by Patrick Rothfuss; 994pp (9/20/2015)</br>
+1. _Killing Floor: Jack Reacher, Book 1@+_ by Lee Child; 525pp (9/22/2015)</br>
+1. _The World Is My Home@+_ by James A. Michener; 592pp (9/26/2015)</br>
+1. _David and the Phoenix+_ by Edward Ormondroyd; 173pp (10/19/2015)</br>
+1. **_A Man on the Moon@^_** by Andrew Chaikin; 688pp (10/28/2015)</br>
+1. **_On Writing@^_** by Stephen King; 320pp (11/5/2015)</br>
+1. **_The Dark Tower, Book 1: The Gunslinger^_** by Stephen King; 231pp (11/8/2015)</br>
+1. _The Dark Tower, Book 2: The Drawing of the Three^_ by Stephen King; 463pp (11/13/2015)</br>
+1. _Danse Macabre@^_ by Stephen King; 400pp (11/23/2015)</br>
+1. **_This Old Man@_** by Roger Angell; 320pp (11/25/2015)</br>
+1. _The Dark Tower, Book 3: The Waste Lands^_ by Stephen King; 422pp (11/29/2015)</br>
+1. _Sweet and Sour@_ by Andy Rooney; 475pp (12/11/2015)</br>
+1. _Harry Potter and the Socerer's Stone@^_ by J. K. Rowling; 320pp (12/24/2015)</br>
+1. _My Lucky Life In and Out of Show Business@_ by Dick Van Dyke; 287pp (12/28/2015)</br>
+1. **_Keep Moving, and Other Tips and Truths About Aging@_** by Dick Van Dyke; 264pp (12/31/2015)</br>
 1. **_I Remember Me@_** by Carl Reiner (1/1/2016)</br>
 1. _I Just Remembered@_ by Carl Reiner (1/1/2016)</br>
 1. **_This Time Together@_** by Carol Burnett (1/2/2016)</br>
