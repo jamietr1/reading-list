@@ -680,3 +680,4 @@
 1. _Rebel Code: Linux and the Open Source Revolution+_ by Glyn Moody; 344pp (6/8/2017)</br>
 1. **_Casey Stengel@_** by Marty Appel; 432pp (6/9/2017)</br>
 1. _The Firm@_ by John Grisham; 501pp (6/23/2017)</br>
+1. _Chesapeake+_ by James A. Michener; 1000pp (7/5/2017)</br>
