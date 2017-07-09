@@ -681,3 +681,4 @@
 1. **_Casey Stengel@_** by Marty Appel; 432pp (6/9/2017)</br>
 1. _The Firm@_ by John Grisham; 501pp (6/23/2017)</br>
 1. _Chesapeake+_ by James A. Michener; 1000pp (7/5/2017)</br>
+1. _Encyclopedia of an Ordinary Life+_ by Amy Krouse Rosenthal; 240pp (7/9/2017)</br>
