@@ -683,4 +683,4 @@
 1. _Chesapeake+_ by James A. Michener; 1000pp (7/5/2017)</br>
 1. _Encyclopedia of an Ordinary Life+_ by Amy Krouse Rosenthal; 240pp (7/9/2017)</br>
 1. **_Cosmos@_** by Carl Sagan; 365pp; (7/15/2017)</br>
-1. **_Astrophysics for People in a Hurry@_** by Neil DeGrasse Tyson; 208pp (7/20/2017)</br>
+1. **_Astrophysics for People in a Hurry@_** by Neil DeGrasse Tyson; 208pp (7/20/2017)</br> 
