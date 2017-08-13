@@ -682,8 +682,8 @@
 1. _The Firm@_ by John Grisham; 501pp (6/23/2017)</br>
 1. _Chesapeake+_ by James A. Michener; 1000pp (7/5/2017)</br>
 1. _Encyclopedia of an Ordinary Life+_ by Amy Krouse Rosenthal; 240pp (7/9/2017)</br>
-1. **_Cosmos@_** by Carl Sagan; 365pp; (7/15/2017)</br>
+1. **_Cosmos@_** by Carl Sagan; 365pp (7/15/2017)</br>
 1. **_Astrophysics for People in a Hurry@_** by Neil DeGrasse Tyson; 208pp (7/20/2017)</br>
-1. **_Word For Word_** by Andy Rooney, 306pp; (8/3/2017)</br>
+1. **_Word For Word_** by Andy Rooney; 306pp (8/3/2017)</br>
 1. _Pale Blue Dot^@_ by Carl Sagan; 384pp (8/4/2017)</br>
 1. **_Go, Flight: The Unsung Heroes of Mission Control, 1965-1992@_** by Rick Houston and Milt Heflin; 368pp (8/11/2017)</br>
