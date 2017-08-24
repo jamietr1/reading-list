@@ -687,3 +687,4 @@
 1. **_Word For Word_** by Andy Rooney; 306pp (8/3/2017)</br>
 1. _Pale Blue Dot^@_ by Carl Sagan; 384pp (8/4/2017)</br>
 1. **_Go, Flight: The Unsung Heroes of Mission Control, 1965-1992@_** by Rick Houston and Milt Heflin; 368pp (8/11/2017)</br>
+1. _Into That Silent Sea: Trailblazers of the Space Era, 1961-1965@_ by Francis French and Colin Burgess; 402pp (8/23/2017)</br>
