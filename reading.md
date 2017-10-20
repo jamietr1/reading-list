@@ -693,3 +693,4 @@
 1. _Bold They Rise: The Space Shuttle Early Years, 1972-1986@_ by David Hitt and Heather R. Smith; 352pp (9/20/2017)</br>
 1. _Wheels Stop: The Tragedies and Triumphs of the Space Shuttle Program, 1986-2011@_ by Rick Houston; 465pp (10/6/2017)</br>
 1. **_The Dead Zone^@_** by Stephen King; 402pp (10/15/2017)</br>
+1. **_The Professor and the Madman: A Tale of Murder, Insanity, and the Making of the Oxford English Dictionary@_** by Simon Winchester; 242pp (10/20/2017)</br>
