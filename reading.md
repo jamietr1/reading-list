@@ -697,3 +697,4 @@
 1. **_Leonardo da Vinci@_** by Walter Isaacson; 624pp (10/26/2017)</br>
 1. _The Man Who Loved China: The Fantastic Story of the Eccentric Scientist Who Unlocked the Mysteries of the Middle Kingdom@_ by Simon Winchester; 352pp (10/29/2017)</br>
 1. _Genghis Khan and the Making of the Modern World@_ by Jack Weatherford; 352pp (11/2/2017)</br>
+1. _Paper: Paging Through History@_ by Mark Kurlansky; 416pp; (11/6/2017)</br>
