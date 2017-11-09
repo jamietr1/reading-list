@@ -698,3 +698,4 @@
 1. _The Man Who Loved China: The Fantastic Story of the Eccentric Scientist Who Unlocked the Mysteries of the Middle Kingdom@_ by Simon Winchester; 352pp/9:11 (10/29/2017)</br>
 1. _Genghis Khan and the Making of the Modern World@_ by Jack Weatherford; 352pp/14:19 (11/2/2017)</br>
 1. _Paper: Paging Through History@_ by Mark Kurlansky; 416pp/13:41 (11/6/2017)</br>
+1. _The Map That Changed The World: William Smith and the Birth of Modern Geology@_ by Simon Winchester; 368pp/9:59 (11/9/2017)</br>
