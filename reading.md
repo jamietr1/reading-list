@@ -515,186 +515,186 @@
 1. _The Tommyknockers@_ by Stephen King; 747pp/27:46 (4/6/2013)</br>
 1. _Dreamcatcher@_ by Stephen King; 620pp/22:50 (4/13/2013)</br>
 1. _It@^_ by Stephen King; 1116p/44:57 (5/2/2013)</br>
-1. _The Human Division@_ by John Scalzi; 431pp (5/6/2013)</br>
+1. _The Human Division@_ by John Scalzi; 431pp/14:53 (5/6/2013)</br>
 1. _The Man from Mars_ by Fred Nadis; 304pp (5/7/2013)</br>
-1. _11/22/63@^_ by Stephen King; 849pp (5/16/2013)</br>
-1. _The Shining@^_ by Stephen King; 447pp (5/21/2013)</br>
-1. _Danse Macabre@_ by Stephen King; 400pp (5/27/2013)</br>
-1. _Carrie@^_ by Stephen King; 253pp (5/29/2013)</br>
-1. _Dracula@_ by Bram Stoker; 488pp (6/2/2013)</br>
-1. _On Writing@^_ by Stephen King; 320pp (6/4/2013)</br>
-1. **_Joyland@_** by Stephen King; 283pp (6/5/2013)</br>
-1. _The Dark Tower, Book 1: The Gunslinger@_ by Stephen King; 231pp (6/7/2013)</br>
-1. _The Dark Tower, Book 2: The Drawing of Three@_ by Stephen King; 463pp (6/12/2013)</br>
-1. _The Dark Tower, Book 3: The Wastelands@_ by Stephen King; 422pp (6/18/2013)</br>
-1. **_The Ocean at the End of the Lane@_** by Neil Gaiman; 181pp (6/20/2013)</br>
-1. **_The Shining Girls@_** by Lauren Beukes; 375pp (6/24/2013)</br>
+1. _11/22/63@^_ by Stephen King; 849pp/30:44 (5/16/2013)</br>
+1. _The Shining@^_ by Stephen King; 447pp/15:56 (5/21/2013)</br>
+1. _Danse Macabre@_ by Stephen King; 400pp/18:10 (5/27/2013)</br>
+1. _Carrie@^_ by Stephen King; 253pp/7:24 (5/29/2013)</br>
+1. _Dracula@_ by Bram Stoker; 488pp/15:28 (6/2/2013)</br>
+1. _On Writing@^_ by Stephen King; 320pp/8:05 (6/4/2013)</br>
+1. **_Joyland@_** by Stephen King; 283pp/7:33 (6/5/2013)</br>
+1. _The Dark Tower, Book 1: The Gunslinger@_ by Stephen King; 231pp/7:20 (6/7/2013)</br>
+1. _The Dark Tower, Book 2: The Drawing of Three@_ by Stephen King; 463pp/12:47 (6/12/2013)</br>
+1. _The Dark Tower, Book 3: The Wastelands@_ by Stephen King; 422pp/18:14 (6/18/2013)</br>
+1. **_The Ocean at the End of the Lane@_** by Neil Gaiman; 181pp/5:48 (6/20/2013)</br>
+1. **_The Shining Girls@_** by Lauren Beukes; 375pp/10:36 (6/24/2013)</br>
 1. _Hard Listening+_ by Stephen King, Scott Turow, Amy Tan, et. al.; 219pp (6/24/2013)</br>
-1. _Dolores Claiborne@_ by Stephen King; 384pp (6/27/2013)</br>
-1. **_The Dark Tower, Book 4: Wizard and Glass@_** by Stephen King; 845pp (7/10/2013)</br>
-1. _The Dark Tower, Book 5: Wolves of the Calla@_ by Stephen King; 931pp (7/26/2013)</br>
-1. _The Dark Tower, Book 6: Song of Susannah@_ by Stephen King; 544pp (7/30/2013)</br>
-1. _The Dark Tower, Book 7: The Dark Tower@_ by Stephen King; 1050pp (8/7/2013)</br>
-1. _The Iowa Baseball Confederacy@^_ by W. P. Kinsella; 310pp (8/24/2013)</br>
-1. _Salinger@_ by David Shields and Shane Salerno; 700pp (9/14/2013)</br>
-1. _Way Station@^_ by Clifford D. Simak; 210pp (9/19/2013)</br>
-1. _The Girl Who Loved Tom Gordon@_ by Stephen King; 264pp (9/24/2013)</br>
-1. _Doctor Sleep@_ by Stephen King; 531pp (9/29/2013)</br>
-1. _The Hunt for Red October@^_ by Tom Clancy; 432pp (10/9/2013)</br>
-1. _Patriot Games@^_ by Tom Clancy; 503pp (10/17/2013)</br>
-1. _The Cardinal of the Kremlin@^_ by Tom Clancy; 547pp (10/25/2013)</br>
-1. **_On Writing@^_** by Stephen King; 320pp (10/31/2013)</br>
-1. **_The Wind Through the Keyhole@_** by Stephen King; 322pp (11/5/2013)</br>
-1. _Starhawk@_ by Jack McDevitt; 416pp (11/9/2013)</br>
+1. _Dolores Claiborne@_ by Stephen King; 384pp/9:15 (6/27/2013)</br>
+1. **_The Dark Tower, Book 4: Wizard and Glass@_** by Stephen King; 845pp/27:45 (7/10/2013)</br>
+1. _The Dark Tower, Book 5: Wolves of the Calla@_ by Stephen King; 931pp/26:20 (7/26/2013)</br>
+1. _The Dark Tower, Book 6: Song of Susannah@_ by Stephen King; 544pp/14:10 (7/30/2013)</br>
+1. _The Dark Tower, Book 7: The Dark Tower@_ by Stephen King; 1050pp/28:10 (8/7/2013)</br>
+1. _The Iowa Baseball Confederacy@^_ by W. P. Kinsella; 310pp/8:24 (8/24/2013)</br>
+1. _Salinger@_ by David Shields and Shane Salerno; 700pp/19:33 (9/14/2013)</br>
+1. _Way Station@^_ by Clifford D. Simak; 210pp/7:05 (9/19/2013)</br>
+1. _The Girl Who Loved Tom Gordon@_ by Stephen King; 264pp/6:36 (9/24/2013)</br>
+1. _Doctor Sleep@_ by Stephen King; 531pp/18:35 (9/29/2013)</br>
+1. _The Hunt for Red October@^_ by Tom Clancy; 432pp/16:42 (10/9/2013)</br>
+1. _Patriot Games@^_ by Tom Clancy; 503pp/22:01 (10/17/2013)</br>
+1. _The Cardinal of the Kremlin@^_ by Tom Clancy; 547pp/25:21 (10/25/2013)</br>
+1. **_On Writing@^_** by Stephen King; 320pp/8:05 (10/31/2013)</br>
+1. **_The Wind Through the Keyhole@_** by Stephen King; 322pp/10:29 (11/5/2013)</br>
+1. _Starhawk@_ by Jack McDevitt; 416pp/11:57 (11/9/2013)</br>
 1. _Old Mars+_ edited by Gardner Dozois and George R. R. Martin; 486pp (11/10/2013)</br>
-1. _The Langoliers@_ by Stephen King; 192pp (11/15/2013)</br>
-1. _The Library Policeman@_ by Stephen King; 192pp (11/21/2013)</br>
-1. _The Sun Dog@_ by Stephen King; 192pp (11/27/2013)</br>
-1. _Nightmares & Dreamscapes, Volume 1@_ by Stephen King; 288pp (12/4/2013)</br>
-1. _Everything’s Eventual: 5 Dark Tales@_ by Stephen King; 583pp (12/26/2013)</br>
-1. _The Man in the Black Suit: 4 Dark Tales@_ by Stephen King; 200pp (12/27/2013)</br>
-1. _Christine@_ by Stephen King; 503pp (1/8/2014)</br>
-1. _Work Done for Hire@_ by Joe Haldeman; 278pp (1/16/2014)</br>
-1. **_The Shawshank Redemption@_** by Stephen King; 200pp (1/17/2014)</br>
-1. **_The Body@_** by Stephen King; 150pp (1/24/2014)</br>
-1. **_The Things They Carried@_** by Tim O'Brien; 246pp (2/2/2014)</br>
-1. **_John Adams^@_** by David McCullough; 751pp (2/20/2014)</br>
-1. **_Washington: A Life@_** by Ron Chernow; 927pp (3/13/2014)</br>
+1. _The Langoliers@_ by Stephen King; 192pp/8:54 (11/15/2013)</br>
+1. _The Library Policeman@_ by Stephen King; 192pp/8:55 (11/21/2013)</br>
+1. _The Sun Dog@_ by Stephen King; 192pp/6:12 (11/27/2013)</br>
+1. _Nightmares & Dreamscapes, Volume 1@_ by Stephen King; 288pp/9:35 (12/4/2013)</br>
+1. _Everything’s Eventual: 5 Dark Tales@_ by Stephen King; 583pp/7:18 (12/26/2013)</br>
+1. _The Man in the Black Suit: 4 Dark Tales@_ by Stephen King; 200pp/3:40 (12/27/2013)</br>
+1. _Christine@_ by Stephen King; 503pp/19:32 (1/8/2014)</br>
+1. _Work Done for Hire@_ by Joe Haldeman; 278pp/8:16 (1/16/2014)</br>
+1. **_The Shawshank Redemption@_** by Stephen King; 200pp/3:58 (1/17/2014)</br>
+1. **_The Body@_** by Stephen King; 150pp/5:50 (1/24/2014)</br>
+1. **_The Things They Carried@_** by Tim O'Brien; 246pp/7:47 (2/2/2014)</br>
+1. **_John Adams^@_** by David McCullough; 751pp/30:01 (2/20/2014)</br>
+1. **_Washington: A Life@_** by Ron Chernow; 927pp/41:57 (3/13/2014)</br>
 1. _The Joy of Keeping Score+_ by Paul Dickson; 128pp (4/2/2014)</br>
 1. **_It@^_** by Stephen King; 1116pp (4/3/2014)</br>
-1. **_A Nice Little Place at the North Side@_** by George F. Will; 224pp (4/5/2014)</br>
+1. **_A Nice Little Place at the North Side@_** by George F. Will; 224pp/5:09 (4/5/2014)</br>
 1. _The War of Art_ by Steven Pressfield; 168pp (4/12/2014)</br>
-1. **_From A Buick 8^@_** by Stephen King; 356pp (4/18/2014)</br>
-1. **_Stories I Only Tell My Friends@_** by Rob Lowe; 320pp (4/19/2014)</br>
-1. _Love Life@_ by Rob Lowe; 272pp (4/21/2014)</br>
-1. **_11/22/63@^_** by Stephen King; 849pp (6/1/2014)</br>
-1. _Mile 81@_ by Stephen King; 54pp (6/2/2014)</br>
-1. _Mr. Mercedes@_ by Stephen King; 436pp (6/6/2014)</br>
-1. _Joyland@^_ by Stephen King; 283pp (6/9/2014)</br>
-1. _The Old Man and the Sea@_ by Ernest Hemingway; 132pp (6/9/2014)</br>
+1. **_From A Buick 8^@_** by Stephen King; 356pp/13:21 (4/18/2014)</br>
+1. **_Stories I Only Tell My Friends@_** by Rob Lowe; 320pp/9:11 (4/19/2014)</br>
+1. _Love Life@_ by Rob Lowe; 272pp/7:33 (4/21/2014)</br>
+1. **_11/22/63@^_** by Stephen King; 849pp/30:44 (6/1/2014)</br>
+1. _Mile 81@_ by Stephen King; 54pp/2:32 (6/2/2014)</br>
+1. _Mr. Mercedes@_ by Stephen King; 436pp/14:22 (6/6/2014)</br>
+1. _Joyland@^_ by Stephen King; 283pp/7:33 (6/9/2014)</br>
+1. _The Old Man and the Sea@_ by Ernest Hemingway; 132pp/2:30 (6/9/2014)</br>
 1. _2k to 10k: Writing Faster, Writing Better, and Write More of What You Love+_ by Rachel Aaron; 64pp (6/13/2014)</br>
-1. **_A Prayer for Owen Meany@_** by John Irving; 547pp (6/19/2014)</br>
-1. **_Blue Highways@_** by William Least-Heat Moon; 428pp (6/27/2014)</br>
-1. **_The Shawshank Redemption@^_** by Stephen King; 200pp (6/29/2014)</br>
-1. **_The Martian@_** by Andy Weir; 369pp (7/5/2014)</br>
-1. _Kiss and Make Up@_ by Gene Simmons; 288pp (7/11/2014)</br>
-1. **_The Last Lion: Winston Spencer Churchill, Volume 1: Visions of Glory 1874-1932@_** by William Manchester; 992pp (8/16/2014)</br>
-1. **_The Last Lion: Winston Spencer Churchill, Volume 2: Alone 1932-1940@_** by William Manchester; 800pp (9/1/2014)</br>
-1. **_The Last Lion: Winston Spencer Churchill, Volume 3: Defender of the Realm 1940-1965@_** by William Manchester and Paul Reid; 1232pp (9/17/2014)</br>
-1. **_Great Baseball Writing: Sports Illustrated 1954-2004@_** edited by Rob Fleder; 560pp (10/5/2014)</br>
-1. _Ball Four@_ by Jim Bouton; 504pp (10/17/2014)</br>
-1. **_The Innovators: How a Group of Inventors, Hackers, Geniuses, and Geeks Created the Digital Revolution@_** by Walter Isaacson; 528pp (10/25/2014)</br>
-1. _The Fellowship of the Ring@_ by J.R.R. Tolkien; 398pp (11/1/2014)</br>
-1. _American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer@_ by Kai Bird and Martin J. Sherwin; 725pp (11/10/2014)</br>
-1. _Revival@_ by Stephen King; 405pp (11/20/2014)</br>
-1. _Hope: Entertainer of the Century@_ by Richard Zoglin; 576pp (11/30/2014)</br>
-1. **_Fallen Leaves: Last Words on Life, Love, War, and God@_** by Will Durant; 208pp (12/12/2014)</br>
-1. **_Caesar and Christ@^_** by Will Durant; 752pp (12/27/2014)</br>
-1. _Fortunately, the Milk@_ by Neil Gaiman; 113pp (2/10/2015)</br>
-1. _Carrie^@_ by Stephen King; 253pp (2/22/2015)</br>
-1. _Salem's Lot@^_ by Stephen King; 483pp (3/1/2015)</br>
-1. _The Shining@^_ by Stephen King; 447pp (3/4/2015)</br>
+1. **_A Prayer for Owen Meany@_** by John Irving; 547pp/26:53 (6/19/2014)</br>
+1. **_Blue Highways@_** by William Least-Heat Moon; 428pp/17:55 (6/27/2014)</br>
+1. **_The Shawshank Redemption@^_** by Stephen King; 200pp/3:58 (6/29/2014)</br>
+1. **_The Martian@_** by Andy Weir; 369pp/10:53 (7/5/2014)</br>
+1. _Kiss and Make Up@_ by Gene Simmons; 288pp/9:01 (7/11/2014)</br>
+1. **_The Last Lion: Winston Spencer Churchill, Volume 1: Visions of Glory 1874-1932@_** by William Manchester; 992pp/41:24 (8/16/2014)</br>
+1. **_The Last Lion: Winston Spencer Churchill, Volume 2: Alone 1932-1940@_** by William Manchester; 800pp/36:26 (9/1/2014)</br>
+1. **_The Last Lion: Winston Spencer Churchill, Volume 3: Defender of the Realm 1940-1965@_** by William Manchester and Paul Reid; 1232pp/53:27 (9/17/2014)</br>
+1. **_Great Baseball Writing: Sports Illustrated 1954-2004@_** edited by Rob Fleder; 560pp/27:01 (10/5/2014)</br>
+1. _Ball Four@_ by Jim Bouton; 504pp/18:32 (10/17/2014)</br>
+1. **_The Innovators: How a Group of Inventors, Hackers, Geniuses, and Geeks Created the Digital Revolution@_** by Walter Isaacson; 528pp/17:28 (10/25/2014)</br>
+1. _The Fellowship of the Ring@_ by J.R.R. Tolkien; 398pp/19:07 (11/1/2014)</br>
+1. _American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer@_ by Kai Bird and Martin J. Sherwin; 725pp/26:31 (11/10/2014)</br>
+1. _Revival@_ by Stephen King; 405pp/13:24 (11/20/2014)</br>
+1. _Hope: Entertainer of the Century@_ by Richard Zoglin; 576pp/17:47 (11/30/2014)</br>
+1. **_Fallen Leaves: Last Words on Life, Love, War, and God@_** by Will Durant; 208pp/5:18 (12/12/2014)</br>
+1. **_Caesar and Christ@^_** by Will Durant; 752pp/36:31 (12/27/2014)</br>
+1. _Fortunately, the Milk@_ by Neil Gaiman; 113pp/0:58 (2/10/2015)</br>
+1. _Carrie^@_ by Stephen King; 253pp/7:24 (2/22/2015)</br>
+1. _Salem's Lot@^_ by Stephen King; 483pp/17:35 (3/1/2015)</br>
+1. _The Shining@^_ by Stephen King; 447pp/15:56 (3/4/2015)</br>
 1. _Rage_ by Stephen King; 131pp (3/5/2015)</br>
 1. _Night Shift+^_ by Stephen King; 409pp (3/7/2015)</br>
-1. **_The Longest Road@_** by Philip Caputo; 320pp (3/12/2015)</br>
-1. _Into the Wild@_ by Jon Krakauer; 207pp (3/14/2015)</br>
-1. **_Where Nobody Knows Your Name: Life in the Minor Leagues of Baseball@_** by John Feinstein; 368pp (3/19/2015)</br>
+1. **_The Longest Road@_** by Philip Caputo; 320pp/11:49 (3/12/2015)</br>
+1. _Into the Wild@_ by Jon Krakauer; 207pp/7:09 (3/14/2015)</br>
+1. **_Where Nobody Knows Your Name: Life in the Minor Leagues of Baseball@_** by John Feinstein; 368pp/11:38 (3/19/2015)</br>
 1. _The Stand: 1978 edition_ by Stephen King; 823pp (3/22/2015)</br>
-1. **_Coming Home@_** by Jack McDevitt; 386pp (4/17/2015)</br>
-1. **_11/22/63@^_** by Stephen King; 849pp (5/20/2015)</br>
-1. _The Fifth Heart@_ by Dan Simmons; 618pp (6/1/2015)</br>
-1. _Finders Keepers@_ by Stephen King; 431pp (6/6/2015)</br>
-1. **_The Rise of Theodore Roosevelt@^_** by Edmund Morris; 780pp (6/14/2015)</br>
-1. **_Theodore Rex@^_** by Edmund Morris; 772pp (6/25/2015)</br>
-1. **_Colonel Roosevelt@_** by Edmund Morris; 766pp (7/10/2015)</br>
-1. _Common Sense@_ by Thomas Paine; 104pp (7/10/2015)</br>
+1. **_Coming Home@_** by Jack McDevitt; 386pp/11:49 (4/17/2015)</br>
+1. **_11/22/63@^_** by Stephen King; 849pp/30:44 (5/20/2015)</br>
+1. _The Fifth Heart@_ by Dan Simmons; 618pp/23:26 (6/1/2015)</br>
+1. _Finders Keepers@_ by Stephen King; 431pp/13:05 (6/6/2015)</br>
+1. **_The Rise of Theodore Roosevelt@^_** by Edmund Morris; 780pp/26:40 (6/14/2015)</br>
+1. **_Theodore Rex@^_** by Edmund Morris; 772pp/25:50 (6/25/2015)</br>
+1. **_Colonel Roosevelt@_** by Edmund Morris; 766pp/24:53 (7/10/2015)</br>
+1. _Common Sense@_ by Thomas Paine; 104pp/2:18 (7/10/2015)</br>
 1. _Tales of a Fourth Grade Nothing_ by Judy Blume; 144pp (7/30/2015)</br>
-1. **_The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism@_** by Doris Kearns Goodwin; 910pp (8/3/2015)</br>
-1. _Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Question for Transcendent Software@_ by Scott Rosenberg; 416pp (8/27/2015)</br>
+1. **_The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism@_** by Doris Kearns Goodwin; 910pp/36:42 (8/3/2015)</br>
+1. _Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Question for Transcendent Software@_ by Scott Rosenberg; 416pp/12:02 (8/27/2015)</br>
 1. _Superfudge_ by Judy Blume; 192pp (9/9/2015)</br>
-1. **_The Name of the Wind@+_** by Patrick Rothfuss; 662pp (9/10/2015)</br>
-1. **_The Wise Man's Fear@+_** by Patrick Rothfuss; 994pp (9/20/2015)</br>
-1. _Killing Floor: Jack Reacher, Book 1@+_ by Lee Child; 525pp (9/22/2015)</br>
-1. _The World Is My Home@+_ by James A. Michener; 592pp (9/26/2015)</br>
+1. **_The Name of the Wind@+_** by Patrick Rothfuss; 662pp/27:56 (9/10/2015)</br>
+1. **_The Wise Man's Fear@+_** by Patrick Rothfuss; 994pp/42:59 (9/20/2015)</br>
+1. _Killing Floor: Jack Reacher, Book 1@+_ by Lee Child; 525pp/15:23 (9/22/2015)</br>
+1. _The World Is My Home@+_ by James A. Michener; 592pp/21:06 (9/26/2015)</br>
 1. _David and the Phoenix+_ by Edward Ormondroyd; 173pp (10/19/2015)</br>
-1. **_A Man on the Moon@^_** by Andrew Chaikin; 688pp (10/28/2015)</br>
-1. **_On Writing@^_** by Stephen King; 320pp (11/5/2015)</br>
+1. **_A Man on the Moon@^_** by Andrew Chaikin; 688pp/22:59 (10/28/2015)</br>
+1. **_On Writing@^_** by Stephen King; 320pp/8:05 (11/5/2015)</br>
 1. **_The Dark Tower, Book 1: The Gunslinger^_** by Stephen King; 231pp (11/8/2015)</br>
 1. _The Dark Tower, Book 2: The Drawing of the Three^_ by Stephen King; 463pp (11/13/2015)</br>
-1. _Danse Macabre@^_ by Stephen King; 400pp (11/23/2015)</br>
-1. **_This Old Man@_** by Roger Angell; 320pp (11/25/2015)</br>
+1. _Danse Macabre@^_ by Stephen King; 400pp/18:10 (11/23/2015)</br>
+1. **_This Old Man@_** by Roger Angell; 320pp/10:30 (11/25/2015)</br>
 1. _The Dark Tower, Book 3: The Waste Lands^_ by Stephen King; 422pp (11/29/2015)</br>
-1. _Sweet and Sour@_ by Andy Rooney; 475pp (12/11/2015)</br>
-1. _Harry Potter and the Socerer's Stone@^_ by J. K. Rowling; 320pp (12/24/2015)</br>
-1. _My Lucky Life In and Out of Show Business@_ by Dick Van Dyke; 287pp (12/28/2015)</br>
-1. **_Keep Moving, and Other Tips and Truths About Aging@_** by Dick Van Dyke; 264pp (12/31/2015)</br>
-1. **_I Remember Me@_** by Carl Reiner; 303pp (1/1/2016)</br>
-1. _I Just Remembered@_ by Carl Reiner; 334pp (1/1/2016)</br>
-1. **_This Time Together@_** by Carol Burnett; 226pp (1/2/2016)</br>
-1. **_Even This I Get to Experience@_** by Norman Lear; 464pp (1/10/2016)</br>
-1. _My Happy Days in Hollywood@_ by Garry Marshall; 288pp (1/17/2016)</br>
-1. _What's So Funny?@_ by Tim Conway; 272pp (2/3/2016)</br>
-1. **_The Making of the Atomic Bomb@^_** by Richard Rhodes; 886pp (3/3/2016)</br>
-1. **_No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II@_** by Doris Kearns Goodwin; 759pp (3/14/2016)</br>
-1. **_Abraham Lincoln: The Prairie Years and the War Years@_** by Carl Sandburg; 762pp (4/8/2016)</br>
-1. _Jefferson and His Time, Vol 1: The Virginian@_ by Dumas Malone; 484pp (4/15/2016)</br>
-1. _Jefferson and His Time, Vol 2: Jefferson and the Rights of Man@_ by Dumas Malone; 523pp (5/5/2016)</br>
-1. **_11/22/63@^_** by Stephen King; 849pp (5/28/2016)</br>
-1. **_Dreamcatcher@^_** by Stephen King; 688pp (6/5/2016)</br>
-1. _Hackers: Heroes of the Computer Revolution@_ by Steven Levy; 464pp (7/13/2016)</br>
+1. _Sweet and Sour@_ by Andy Rooney; 475pp/2:52 (12/11/2015)</br>
+1. _Harry Potter and the Socerer's Stone@^_ by J. K. Rowling; 320pp/8:34 (12/24/2015)</br>
+1. _My Lucky Life In and Out of Show Business@_ by Dick Van Dyke; 287pp/7:46 (12/28/2015)</br>
+1. **_Keep Moving, and Other Tips and Truths About Aging@_** by Dick Van Dyke; 264pp/5:20 (12/31/2015)</br>
+1. **_I Remember Me@_** by Carl Reiner; 303pp/8:42 (1/1/2016)</br>
+1. _I Just Remembered@_ by Carl Reiner; 334pp/4:52 (1/1/2016)</br>
+1. **_This Time Together@_** by Carol Burnett; 226pp/5:43 (1/2/2016)</br>
+1. **_Even This I Get to Experience@_** by Norman Lear; 464pp/19:00 (1/10/2016)</br>
+1. _My Happy Days in Hollywood@_ by Garry Marshall; 288pp/11:06 (1/17/2016)</br>
+1. _What's So Funny?@_ by Tim Conway; 272pp/8:39 (2/3/2016)</br>
+1. **_The Making of the Atomic Bomb@^_** by Richard Rhodes; 886pp/37:23 (3/3/2016)</br>
+1. **_No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II@_** by Doris Kearns Goodwin; 759pp/39:18 (3/14/2016)</br>
+1. **_Abraham Lincoln: The Prairie Years and the War Years@_** by Carl Sandburg; 762pp/44:17 (4/8/2016)</br>
+1. _Jefferson and His Time, Vol 1: The Virginian@_ by Dumas Malone; 484pp/16:17 (4/15/2016)</br>
+1. _Jefferson and His Time, Vol 2: Jefferson and the Rights of Man@_ by Dumas Malone; 523pp/18:55 (5/5/2016)</br>
+1. **_11/22/63@^_** by Stephen King; 849pp/30:44 (5/28/2016)</br>
+1. **_Dreamcatcher@^_** by Stephen King; 688pp/22:50 (6/5/2016)</br>
+1. _Hackers: Heroes of the Computer Revolution@_ by Steven Levy; 464pp/20:29 (7/13/2016)</br>
 1. **_Cannibal Queen+_** by Steven Coonts; 352pp (7/17/2016)</br>
-1. _Steve Jobs@_ by Walter Isaacson; 656pp (8/10/2016)</br>
-1. **_The View from the Cheap Seats@_** by Neil Gaiman; 522pp (8/18/2016)</br>
-1. **_As You Wish@_** by Cary Elwes; 259pp (8/20/2016)</br>
-1. _Leonard: My Fifty-Year Relationship with a Remarkable Man@_ by William Shatner; 278pp (8/25/2016)</br>
-1. _Up Till Now@_ by William Shatner; 358pp (9/20/2016)</br>
-1. **_The Name of the Wind@^_** by Patrick Rothfuss; 662pp (10/3/2016)</br>
+1. _Steve Jobs@_ by Walter Isaacson; 656pp/25:19 (8/10/2016)</br>
+1. **_The View from the Cheap Seats@_** by Neil Gaiman; 522pp/15:29 (8/18/2016)</br>
+1. **_As You Wish@_** by Cary Elwes; 259pp/7:01 (8/20/2016)</br>
+1. _Leonard: My Fifty-Year Relationship with a Remarkable Man@_ by William Shatner; 278pp/6:47 (8/25/2016)</br>
+1. _Up Till Now@_ by William Shatner; 358pp/10:45 (9/20/2016)</br>
+1. **_The Name of the Wind@^_** by Patrick Rothfuss; 662pp/27:56 (10/3/2016)</br>
 1. Astounding Science Fiction, November 1942 edited by John W. Campbell; 160pp (10/18/2016)</br>
-1. **_The Wise Man's Fear@^_** by Patrick Rothfuss; 994pp (10/26/2016)</br>
-1. **_The Pigeon Tunnel: Stories From My Life@_** by John Le Carré; 310pp (11/17/2016)</br>
-1. _Die Trying: Jack Reacher, Book 2@_ by Lee Child; 552pp (11/20/2016)</br>
-1. **_Andy Rooney: 60 Years of Wit and Wisdom@_** by Andy Rooney; 320pp (12/1/2016)</br>
+1. **_The Wise Man's Fear@^_** by Patrick Rothfuss; 994pp/42:59 (10/26/2016)</br>
+1. **_The Pigeon Tunnel: Stories From My Life@_** by John Le Carré; 310pp/11:36 (11/17/2016)</br>
+1. _Die Trying: Jack Reacher, Book 2@_ by Lee Child; 552pp/14:47 (11/20/2016)</br>
+1. **_Andy Rooney: 60 Years of Wit and Wisdom@_** by Andy Rooney; 320pp/10:06 (12/1/2016)</br>
 1. _Not That You Asked...+_ by Andy Rooney; 292pp (12/8/2016)</br>
-1. _The Magnolia Story@_ by Joanna Gaines and Chip Gaines; 208pp (12/16/2016)</br>
-1. **_Eisenhower in War and Peace@_** by Jean Edward Smith; 976pp (12/23/2016)</br>
-1. **_Born to Run@_** by Bruce Springsteen; 528pp (12/29/2016)</br>
-1. _The Princess Diarist@_ by Carrie Fisher; 257pp (1/2/2017)</br>
-1. **_Born to Run@^_** by Bruce Springsteen; 528pp (1/13/2017)</br>
-1. _Explore/Create: My Life in Pursuit of New Frontiers, Hidden Worlds, and the Creative Spark@_ by Richard Garriott; 272pp (1/15/2017)</br>
-1. **_Atlantic: Great Sea Battles, Heroic Discoveries, Titanic Storms, and a Vast Ocean of a Million Stories@_** by Simon Winchester; 495pp (1/28/2017)</br>
-1. _Pacific: Silicon Chips and Surfboards, Coral Reefs and Atom Bombs, Brutal Dictators, Fading Empires, and the Coming Collision of the World's Superpowers@_ by Simon Winchester; 512pp (2/7/2017)</br>
-1. **_The Men Who United the States: America's Explorers, Inventors, Eccentrics, and Mavericks, and the Creation of One Nation Indivisible@_** by Simon Winchester; 496pp (2/15/2017)</br>
-1. _Outposts: Journeys to the Surviving Relics of the British Empire@_ by Simon Winchester; 400pp (2/24/2017)</br>
-1. _Krakatoa: The Day the World Exploded: August 27, 1883@_ by Simon Winchester; 416pp (3/21/2017)</br>
+1. _The Magnolia Story@_ by Joanna Gaines and Chip Gaines; 208pp/5:00 (12/16/2016)</br>
+1. **_Eisenhower in War and Peace@_** by Jean Edward Smith; 976pp/28:25 (12/23/2016)</br>
+1. **_Born to Run@_** by Bruce Springsteen; 528pp/18:16 (12/29/2016)</br>
+1. _The Princess Diarist@_ by Carrie Fisher; 257pp/5:10 (1/2/2017)</br>
+1. **_Born to Run@^_** by Bruce Springsteen; 528pp/18:16 (1/13/2017)</br>
+1. _Explore/Create: My Life in Pursuit of New Frontiers, Hidden Worlds, and the Creative Spark@_ by Richard Garriott; 272pp/9:21 (1/15/2017)</br>
+1. **_Atlantic: Great Sea Battles, Heroic Discoveries, Titanic Storms, and a Vast Ocean of a Million Stories@_** by Simon Winchester; 495pp/14:30 (1/28/2017)</br>
+1. _Pacific: Silicon Chips and Surfboards, Coral Reefs and Atom Bombs, Brutal Dictators, Fading Empires, and the Coming Collision of the World's Superpowers@_ by Simon Winchester; 512pp/14:02 (2/7/2017)</br>
+1. **_The Men Who United the States: America's Explorers, Inventors, Eccentrics, and Mavericks, and the Creation of One Nation Indivisible@_** by Simon Winchester; 496pp/13:33 (2/15/2017)</br>
+1. _Outposts: Journeys to the Surviving Relics of the British Empire@_ by Simon Winchester; 400pp/6:46 (2/24/2017)</br>
+1. _Krakatoa: The Day the World Exploded: August 27, 1883@_ by Simon Winchester; 416pp/11:58 (3/21/2017)</br>
 1. _Years of Minutes^_ by Andy Rooney; 523pp (3/21/2017)</br>
-1. **_Assignment to Hell: The War Against Nazi Germany with Correspondents Walter Cronkite, Andy Rooney, A.J. Liebling, Homer Bigart, and Hal Boyle@_** by Timothy M. Gay; 528pp (4/14/2017)</br>
+1. **_Assignment to Hell: The War Against Nazi Germany with Correspondents Walter Cronkite, Andy Rooney, A.J. Liebling, Homer Bigart, and Hal Boyle@_** by Timothy M. Gay; 528pp/16:48 (4/14/2017)</br>
 1. _Reflections: Columns from the L.A. Times_ by Al Martinez; 238pp (4/17/2017)</br>
-1. **_The Cubs Way: The Zen of Building the Best Team In Baseball and Breaking the Curse@_** by Tom Verducci; 375pp (4/21/2017)</br>
+1. **_The Cubs Way: The Zen of Building the Best Team In Baseball and Breaking the Curse@_** by Tom Verducci; 375pp/12:52 (4/21/2017)</br>
 1. _Watching Baseball Smarter_ by Zack Hample; 195pp (4/21/2017)</br>
-1. **_The Game: Inside the Secret World of Major League Baseball's Power Brokers@_** by Jon Pessah; 656pp (4/28/2017)</br>
-1. **_The Baseball Codes: Beanballs, Sign Stealing, & Beach-Clearing Brawls: The Unwritten Rules of American's Pastime@_** by Jason Turbow; 394pp (5/2/2017)</br>
+1. **_The Game: Inside the Secret World of Major League Baseball's Power Brokers@_** by Jon Pessah; 656pp/20:20 (4/28/2017)</br>
+1. **_The Baseball Codes: Beanballs, Sign Stealing, & Beach-Clearing Brawls: The Unwritten Rules of American's Pastime@_** by Jason Turbow; 394pp/10:04 (5/2/2017)</br>
 1. **_Triumph and Tragedy in Mudville: A Lifelong Passion in Baseball_** by Stephen Jay Gould; 360pp (5/10/2017)</br>
 1. **_Shoeless Joe^_** by W. P. Kinsella; 272pp (5/11/2017)</br>
-1. _The Yankee Years@_ by Joe Torre and Tom Verducci; 502pp (5/16/2017)</br>
+1. _The Yankee Years@_ by Joe Torre and Tom Verducci; 502pp/16:49 (5/16/2017)</br>
 1. **_Red: The Life & Times of a Great American Writer_** by Ira Berkow; 302pp (5/22/2017)</br>
 1. _Rebel Code: Linux and the Open Source Revolution+_ by Glyn Moody; 344pp (6/8/2017)</br>
-1. **_Casey Stengel@_** by Marty Appel; 432pp (6/9/2017)</br>
-1. _The Firm@_ by John Grisham; 501pp (6/23/2017)</br>
+1. **_Casey Stengel@_** by Marty Appel; 432pp/15:19 (6/9/2017)</br>
+1. _The Firm@_ by John Grisham; 501pp/17:15 (6/23/2017)</br>
 1. _Chesapeake+_ by James A. Michener; 1000pp (7/5/2017)</br>
 1. _Encyclopedia of an Ordinary Life+_ by Amy Krouse Rosenthal; 240pp (7/9/2017)</br>
-1. **_Cosmos@_** by Carl Sagan; 365pp (7/15/2017)</br>
-1. **_Astrophysics for People in a Hurry@_** by Neil DeGrasse Tyson; 208pp (7/20/2017)</br>
+1. **_Cosmos@_** by Carl Sagan; 365pp/14:31 (7/15/2017)</br>
+1. **_Astrophysics for People in a Hurry@_** by Neil DeGrasse Tyson; 208pp/3:41 (7/20/2017)</br>
 1. **_Word For Word_** by Andy Rooney; 306pp (8/3/2017)</br>
-1. _Pale Blue Dot^@_ by Carl Sagan; 384pp (8/4/2017)</br>
-1. **_Go, Flight: The Unsung Heroes of Mission Control, 1965-1992@_** by Rick Houston and Milt Heflin; 368pp (8/11/2017)</br>
-1. _Into That Silent Sea: Trailblazers of the Space Era, 1961-1965@_ by Francis French and Colin Burgess; 402pp (8/23/2017)</br>
-1. **_In the Shadow of the Moon: A Challenging Journey to Tranquility, 1965-1969@_** by Francis French and Colin Burgess; 464pp (9/4/2017)</br>
-1. _Footprints in the Dust: The Epic Voyages of Apollo, 1969-1975@_ edited by Colin Burgess; 520pp (9/11/2017)</br>
-1. _Bold They Rise: The Space Shuttle Early Years, 1972-1986@_ by David Hitt and Heather R. Smith; 352pp (9/20/2017)</br>
-1. _Wheels Stop: The Tragedies and Triumphs of the Space Shuttle Program, 1986-2011@_ by Rick Houston; 465pp (10/6/2017)</br>
-1. **_The Dead Zone^@_** by Stephen King; 402pp (10/15/2017)</br>
-1. **_The Professor and the Madman: A Tale of Murder, Insanity, and the Making of the Oxford English Dictionary@_** by Simon Winchester; 242pp (10/20/2017)</br>
-1. **_Leonardo da Vinci@_** by Walter Isaacson; 624pp (10/26/2017)</br>
-1. _The Man Who Loved China: The Fantastic Story of the Eccentric Scientist Who Unlocked the Mysteries of the Middle Kingdom@_ by Simon Winchester; 352pp (10/29/2017)</br>
-1. _Genghis Khan and the Making of the Modern World@_ by Jack Weatherford; 352pp (11/2/2017)</br>
-1. _Paper: Paging Through History@_ by Mark Kurlansky; 416pp (11/6/2017)</br>
+1. _Pale Blue Dot^@_ by Carl Sagan; 384pp/13:18 (8/4/2017)</br>
+1. **_Go, Flight: The Unsung Heroes of Mission Control, 1965-1992@_** by Rick Houston and Milt Heflin; 368pp/14:09 (8/11/2017)</br>
+1. _Into That Silent Sea: Trailblazers of the Space Era, 1961-1965@_ by Francis French and Colin Burgess; 402pp/18:01 (8/23/2017)</br>
+1. **_In the Shadow of the Moon: A Challenging Journey to Tranquility, 1965-1969@_** by Francis French and Colin Burgess; 464pp/18:16 (9/4/2017)</br>
+1. _Footprints in the Dust: The Epic Voyages of Apollo, 1969-1975@_ edited by Colin Burgess; 520pp/17:56 (9/11/2017)</br>
+1. _Bold They Rise: The Space Shuttle Early Years, 1972-1986@_ by David Hitt and Heather R. Smith; 352pp/13:15 (9/20/2017)</br>
+1. _Wheels Stop: The Tragedies and Triumphs of the Space Shuttle Program, 1986-2011@_ by Rick Houston; 465pp/17:51 (10/6/2017)</br>
+1. **_The Dead Zone^@_** by Stephen King; 402pp/16:11 (10/15/2017)</br>
+1. **_The Professor and the Madman: A Tale of Murder, Insanity, and the Making of the Oxford English Dictionary@_** by Simon Winchester; 242pp/7:21 (10/20/2017)</br>
+1. **_Leonardo da Vinci@_** by Walter Isaacson; 624pp/17:01 (10/26/2017)</br>
+1. _The Man Who Loved China: The Fantastic Story of the Eccentric Scientist Who Unlocked the Mysteries of the Middle Kingdom@_ by Simon Winchester; 352pp/9:11 (10/29/2017)</br>
+1. _Genghis Khan and the Making of the Modern World@_ by Jack Weatherford; 352pp/14:19 (11/2/2017)</br>
+1. _Paper: Paging Through History@_ by Mark Kurlansky; 416pp/13:41 (11/6/2017)</br>
