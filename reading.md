@@ -700,3 +700,4 @@
 1. _Paper: Paging Through History@_ by Mark Kurlansky; 416pp/13:41 (11/6/2017)</br>
 1. _The Map That Changed The World: William Smith and the Birth of Modern Geology@_ by Simon Winchester; 368pp/9:59 (11/9/2017)</br>
 1. **_The Stranger in the Woods: The Extraordinary Story of the Last True Hermit@_** by Michael Finkel; 224pp/6:19 (11/10/2017)</br>
+1. _The Lost City of Z: A Tale of Deadly Obsession in the Amazon@_ by David Grimm; 352pp/10:06 (11/12/2017)</br>
