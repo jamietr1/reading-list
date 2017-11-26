@@ -704,3 +704,4 @@
 1. **_Walden on Wheels: On the Open Road from Debt to Freedom@_** by Ken Ilgunas; 319pp/9:44 (11/15/2017)</br>
 1. _1491: New Revelations of the Americas Before Columbus@_ by Charles C. Mann; 541pp/16:17 (11/19/2017)</br>
 1. **_Coming into the Country@_** by John McPhee; 449pp/16:22 (11/23/2017)</br>
+1. **_Draft No. 4: On the Writing Process@_** by John McPhee; 208pp/6:51 (11/26/2017)</br>
