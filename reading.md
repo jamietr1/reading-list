@@ -710,3 +710,4 @@
 1. **_Uncommon Carriers@_** by John McPhee; 256pp/9:32 (12/4/2017)</br>
 1. _Fall From Grace: The Truth and Tragedy of Shoeless Joe Jackson@_ by Tim Hornbaker; 296pp/10:00 (12/5/2017)</br>
 1. **_Unbroken: A World War II Story of Survival, Resilience, and Redemption@_** by Laura Hillenbrand; 473pp/14:00 (12/8/2017)</br>
+1. **_Endurance: Shackleton's Incredible Voyage@_** by Alfred Lansing; 357pp/10:23 (12/12/2017)
