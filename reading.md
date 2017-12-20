@@ -713,3 +713,4 @@
 1. **_Endurance: Shackleton's Incredible Voyage@_** by Alfred Lansing; 357pp/10:23 (12/12/2017)</br>
 1. **_A Christmas Carol@_** by Charles Dickens; 88pp/3:33 (12/15/2017)</br>
 1. **_Jacob T. Marley@_** by R. William Bennett; 192pp/4:13 (12/16/2017)</br>
+1. _The Worst Journey in the World@_ by Apsley Cherry-Garrard; 640pp/20:00 (12/20/2017)</br>
