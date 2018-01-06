@@ -715,4 +715,5 @@
 1. **_Jacob T. Marley@_** by R. William Bennett; 192pp/4:13 (12/16/2017)</br>
 1. _The Worst Journey in the World@_ by Apsley Cherry-Garrard; 640pp/20:00 (12/20/2017)</br>
 1. **_A Good Life: Newspapering and Other Adventures@_** by Ben Bradlee; 544pp/20:00 (12/23/2017)</br>
-1. _The Long Haul: A Truckers Tales of Life on the Road_ by Finn Murphy; 256pp/8:00 (12/26/2017)</br>
+1. _The Long Haul: A Truckers Tales of Life on the Road@_ by Finn Murphy; 256pp/8:00 (12/26/2017)</br>
+1. **_11/22/63@^_** by Stephen King; 849pp/30:44 (1/6/2018)</br>
