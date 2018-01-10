@@ -717,3 +717,4 @@
 1. **_A Good Life: Newspapering and Other Adventures@_** by Ben Bradlee; 544pp/20:00 (12/23/2017)</br>
 1. _The Long Haul: A Truckers Tales of Life on the Road@_ by Finn Murphy; 256pp/8:00 (12/26/2017)</br>
 1. **_11/22/63@^_** by Stephen King; 849pp/30:44 (1/6/2018)</br>
+1. **_Essays of E. B. White@_** by E. B. White; 364pp/12:17 (1/10/2018)</br>
