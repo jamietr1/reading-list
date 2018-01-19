@@ -719,3 +719,4 @@
 1. **_11/22/63@^_** by Stephen King; 849pp/30:44 (1/6/2018)</br>
 1. **_Essays of E. B. White@_** by E. B. White; 364pp/12:17 (1/10/2018)</br>
 1. **_One Man's Meat@_** by E. B. White; 279pp/11:48 (1/13/2018)</br>
+1. _Pilgrim at Tinker Creek@_ by Annie Dillard; 306pp/10:08 (1/19/2018)</br>
