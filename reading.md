@@ -720,3 +720,5 @@
 1. **_Essays of E. B. White@_** by E. B. White; 364pp/12:17 (1/10/2018)</br>
 1. **_One Man's Meat@_** by E. B. White; 279pp/11:48 (1/13/2018)</br>
 1. _Pilgrim at Tinker Creek@_ by Annie Dillard; 306pp/10:08 (1/19/2018)</br>
+1. **_Grant@_** by Ron Chernow; 1104pp/48:01 (1/29/2018)</br>
+1. **_The Autobiography of Mark Twain, Vol. 1@_** by Mark Twain; 736pp/24:50 (2/3/2018)</br>
