@@ -724,3 +724,4 @@
 1. **_The Autobiography of Mark Twain, Vol. 1@_** by Mark Twain; 736pp/24:50 (2/3/2018)</br>
 1. **_The Autobiography of Mark Twain, Vol. 2@_** by Mark Twain; 776pp/26:22 (2/7/2018)</br>
 1. **_The Autobiography of Mark Twain, Vol. 3@_** by Mark Twain; 792pp/25:56 (2/10/2018)</br>
+1. _Tripwire: Jack Reacher, Book 3@_ by Lee Child; 416pp/14:52 (2/12/2018)</br>
