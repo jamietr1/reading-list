@@ -726,3 +726,4 @@
 1. **_The Autobiography of Mark Twain, Vol. 3@_** by Mark Twain; 792pp/25:56 (2/10/2018)</br>
 1. _Tripwire: Jack Reacher, Book 3@_ by Lee Child; 416pp/14:52 (2/12/2018)</br>
 1. _Running Blind: Jack Reacher, Book 4@_ by Lee Child; 496pp/13:15 (2/14/2018)</br>
+1. _Echo Burning: Jack Reacher, Book 5@_ by Lee Child; 592pp/17:34 (2/17/2018)</br>
