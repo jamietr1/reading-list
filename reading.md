@@ -729,3 +729,4 @@
 1. _Echo Burning: Jack Reacher, Book 5@_ by Lee Child; 592pp/17:34 (2/17/2018)</br>
 1. _Without Fail: Jack Reacher, Book 6@_ by Lee Child; 608pp/16:34 (2/19/2018)</br>
 1. **_Persuader: Jack Reacher, Book 7@_** by Lee Child; 544pp/14:17 (2/23/2018)</br>
+1. **_The Enemy: Jack Reacher, Book 8@_** by Lee Child; 496pp/14:09 (2/25/2018)</br>
