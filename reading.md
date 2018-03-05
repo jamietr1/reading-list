@@ -732,3 +732,4 @@
 1. **_The Enemy: Jack Reacher, Book 8@_** by Lee Child; 496pp/14:09 (2/25/2018)</br>
 1. **_One Shot: Jack Reacher, Book 9@_** by Lee Child; 485pp/14:37 (2/27/2018)</br>
 1. _The Hard Way: Jack Reacher, Book 10@_ by Lee Child; 512pp/14:14 (3/2/2018)</br>
+1. _Bad Luck and Trouble: Jack Reacher, Book 11@_ by Lee Child; 512pp/13:16 (3/5/2018)</br>
