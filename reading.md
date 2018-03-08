@@ -733,3 +733,4 @@
 1. **_One Shot: Jack Reacher, Book 9@_** by Lee Child; 485pp/14:37 (2/27/2018)</br>
 1. _The Hard Way: Jack Reacher, Book 10@_ by Lee Child; 512pp/14:14 (3/2/2018)</br>
 1. _Bad Luck and Trouble: Jack Reacher, Book 11@_ by Lee Child; 512pp/13:16 (3/5/2018)</br>
+1. **_Nothing to Lose: Jack Reacher, Book 12@_** by Lee Child; 560pp/14:52 (3/7/2018)</br>
