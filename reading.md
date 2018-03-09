@@ -651,7 +651,7 @@
 1. **_The Name of the Wind@^_** by Patrick Rothfuss; 662pp/27:56 (10/3/2016)</br>
 1. Astounding Science Fiction, November 1942 edited by John W. Campbell; 160pp (10/18/2016)</br>
 1. **_The Wise Man's Fear@^_** by Patrick Rothfuss; 994pp/42:59 (10/26/2016)</br>
-1. **_The Pigeon Tunnel: Stories From My Life@_** by John Le Carré; 310pp/11:36 (11/17/2016)</br>
+1. **_The Pigeon Tunnel: Stories From My Life@_** by John Le Carre; 310pp/11:36 (11/17/2016)</br>
 1. _Die Trying: Jack Reacher, Book 2@_ by Lee Child; 552pp/14:47 (11/20/2016)</br>
 1. **_Andy Rooney: 60 Years of Wit and Wisdom@_** by Andy Rooney; 320pp/10:06 (12/1/2016)</br>
 1. _Not That You Asked...+_ by Andy Rooney; 292pp (12/8/2016)</br>
@@ -734,3 +734,4 @@
 1. _The Hard Way: Jack Reacher, Book 10@_ by Lee Child; 512pp/14:14 (3/2/2018)</br>
 1. _Bad Luck and Trouble: Jack Reacher, Book 11@_ by Lee Child; 512pp/13:16 (3/5/2018)</br>
 1. **_Nothing to Lose: Jack Reacher, Book 12@_** by Lee Child; 560pp/14:52 (3/7/2018)</br>
+1. **_Gone Tomorrow: Jack Reacher, Book 13@_** by Lee Child; 576pp/14:52 (3/9/2018)</br>
