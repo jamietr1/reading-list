@@ -738,3 +738,4 @@
 1. **_Red Smith: On Baseball_** by Red Smith; 347pp (3/10/2018)</br>
 1. _61 Hours: Jack Reacher, Book 14@_ by Lee Child; 494pp/13:32 (3/11/2018)</br>
 1. _Worth Dying For: Jack Reacher, Book 15@_ by Lee Child; 544pp/13:45 (3/12/2018)</br>
+1. **_The Affair: Jack Reacher, Book 16@_** by Lee Child; 608pp/16:03 (3/16/2018)</br>
