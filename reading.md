@@ -742,3 +742,4 @@
 1. _A Wanted Man: Jack Reacher, Book 17@_ by Lee Child; 640pp/14:11 (3/19/2018)</br>
 1. **_Never Go Back, Jack Reacher, Book 18@_** by Lee Child; 624pp/13:43 (3/22/2018)</br>
 1. _Personal: Jack Reacher, Book 19@_ by Lee Child; 544pp/12:55 (3/24/2018)</br>
+1. _Make Me: Jack Reacher, Book 20@_ by Lee Child; 576pp/14:03 (3/28/2018)</br>
