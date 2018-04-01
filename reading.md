@@ -743,3 +743,4 @@
 1. **_Never Go Back, Jack Reacher, Book 18@_** by Lee Child; 624pp/13:43 (3/22/2018)</br>
 1. _Personal: Jack Reacher, Book 19@_ by Lee Child; 544pp/12:55 (3/24/2018)</br>
 1. _Make Me: Jack Reacher, Book 20@_ by Lee Child; 576pp/14:03 (3/28/2018)</br>
+1. _Night School: Jack Reacher, Book 21@_ by Lee Child; 496pp/13:07 (4/1/2018)</br>
