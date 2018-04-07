@@ -148,7 +148,7 @@
 1. _The Spread_ by Barry N. Malzberg; 157pp (12/19/1999)</br>
 1. _The Life of Greece_ by Will Durant; 754pp (1/16/2000)</br>
 1. _The Forever Machine_ by Mark Clifton and Frank Riley; 158pp (1/23/2000)</br>
-1. _The Skylark of Space_ by E. E. “Doc” Smith; 212pp (1/30/2000)</br>
+1. _The Skylark of Space_ by E. E. "Doc" Smith; 212pp (1/30/2000)</br>
 1. _Marvels of Science_ by Isaac Asimov; 196pp (2/17/2000)</br>
 1. _Is Anyone There?_ by Isaac Asimov; 320pp (3/18/2000)</br>
 1. _2010: Odyssey Two_ by Arthur C. Clarke; 320pp (3/19/2000)</br>
@@ -260,7 +260,7 @@
 1. _The Lovely Bones_ by Alice Sebold; 328pp (8/5/2003)</br>
 1. _The Natural_ by Bernard Malamud; 231pp (8/7/2003)</br>
 1. _Blue Latitudes: Boldly Going Where Captain Hook Has Gone Before_ by Tony Horwitz; 480pp (8/20/2003)</br>
-1. _Body for Life_ by Michael D’Orso; 201pp (8/23/2003)</br>
+1. _Body for Life_ by Michael D'Orso; 201pp (8/23/2003)</br>
 1. _Nixon: The Education of a Politician 1919-1962_ by Stephen Ambrose; 848pp (9/3/2003)</br>
 1. _Foundation^_ by Isaac Asimov; 244pp (10/19/2003)</br>
 1. _Foundation and Empire^_ by Isaac Asimov; 256pp (10/22/2003)</br>
@@ -744,3 +744,4 @@
 1. _Personal: Jack Reacher, Book 19@_ by Lee Child; 544pp/12:55 (3/24/2018)</br>
 1. _Make Me: Jack Reacher, Book 20@_ by Lee Child; 576pp/14:03 (3/28/2018)</br>
 1. _Night School: Jack Reacher, Book 21@_ by Lee Child; 496pp/13:07 (4/1/2018)</br>
+1. **_John Quincy Adams: American Visionary@_** by Fred Kaplan; 672pp/27:44 (4/7/2018)</br>
