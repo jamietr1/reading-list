@@ -746,3 +746,4 @@
 1. _Night School: Jack Reacher, Book 21@_ by Lee Child; 496pp/13:07 (4/1/2018)</br>
 1. **_John Quincy Adams: American Visionary@_** by Fred Kaplan; 672pp/27:44 (4/7/2018)</br>
 1. _The Education of Henry Adams@_ by Henry Adams; 560pp/19:30 (4/10/2018)</br>
+1. _Jefferson and the Ordeal of Liberty@_ by Dumas Malone; 509pp/19:44 (4/15/2018)</br>
