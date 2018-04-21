@@ -747,3 +747,4 @@
 1. **_John Quincy Adams: American Visionary@_** by Fred Kaplan; 672pp/27:44 (4/7/2018)</br>
 1. _The Education of Henry Adams@_ by Henry Adams; 560pp/19:30 (4/10/2018)</br>
 1. _Jefferson and the Ordeal of Liberty@_ by Dumas Malone; 509pp/19:44 (4/15/2018)</br>
+1. **_The Meaning of Everything: The Making of the Oxford English Dictionary@_** by Simon Winchester; 288pp/7:08 (4/21/2018)
