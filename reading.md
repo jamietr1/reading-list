@@ -748,3 +748,4 @@
 1. _The Education of Henry Adams@_ by Henry Adams; 560pp/19:30 (4/10/2018)</br>
 1. _Jefferson and the Ordeal of Liberty@_ by Dumas Malone; 509pp/19:44 (4/15/2018)</br>
 1. **_The Meaning of Everything: The Making of the Oxford English Dictionary@_** by Simon Winchester; 288pp/7:08 (4/21/2018)
+1. **_The Know-It-All: One Man's Humble Quest to Become the Smartest Person in the World@_** by A. J. Jacobs; 400pp/15:24 (4/23/2018)</br>
