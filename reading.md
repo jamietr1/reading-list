@@ -750,3 +750,4 @@
 1. **_The Meaning of Everything: The Making of the Oxford English Dictionary@_** by Simon Winchester; 288pp/7:08 (4/21/2018)</br>
 1. **_The Know-It-All: One Man's Humble Quest to Become the Smartest Person in the World@_** by A. J. Jacobs; 400pp/15:24 (4/23/2018)</br>
 1. _Classic Krakauer@_ by Jon Krakauer; 177pp/5:28 (4/24/2018)</br>
+1. **_Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man's First Journey to the Moon@_** by Robert Kurson; 384pp/12:18 (4/26/2018)</br>
