@@ -753,3 +753,4 @@
 1. **_Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man's First Journey to the Moon@_** by Robert Kurson; 384pp/12:18 (4/26/2018)</br>
 1. _The Interstellar Age: Inside the Forty-Year Voyage Mission@_ by Jim Bell; 336pp/7:44 (4/27/2018)</br>
 1. **_The Right Stuff@_** by Tom Wolfe; 352pp/15:46 (5/1/2018)</br>
+1. **_In the Plex: How Google Thinks, Works, and Shapes Our Lives@_** by Steven Levy; 432pp/19:52 (5/4/2018)</br>
