@@ -755,3 +755,4 @@
 1. **_The Right Stuff@_** by Tom Wolfe; 352pp/15:46 (5/1/2018)</br>
 1. **_In the Plex: How Google Thinks, Works, and Shapes Our Lives@_** by Steven Levy; 432pp/19:52 (5/4/2018)</br>
 1. **_Letters to a Young Scientist@_** by Edward O. Wilson; 256pp/4:57 (5/6/2018)</br>
+1. _Brave Companions: Portraits in History@_ by David McCullough; 240pp/11:19 (5/8/2018)</br>
