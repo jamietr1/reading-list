@@ -758,3 +758,4 @@
 1. _Brave Companions: Portraits in History@_ by David McCullough; 240pp/11:19 (5/8/2018)</br>
 1. **_The Perfectionists: How Precision Engineers Created the Modern World@_** by Simon Winchester; 416pp/11:46 (5/9/2018)</br>
 1. _The Rise and Fall of the Dinosaurs: A New History of the Lost World@_ by Steve Brusatte; 416pp/10:06 (5/12/2018)</br>
+1. _Factfulness: Ten Reasons We're Wrong About the World--And Why Things Are Better Than You Think@_ by Hans Rosling; 352pp/8:51 (5/14/2018)</br>
