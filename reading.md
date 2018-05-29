@@ -763,3 +763,4 @@
 1. **_The Sweet Science@_** by A. J. Liebling; 288pp/8:45 (5/21/2018)</br>
 1. **_The Outsider@_** by Stephen King; 576pp/18:39 (5/24/2018)</br>
 1. _Irons in the Fire@_ by John McPhee; 215pp/7:42 (5/25/2018)</br>
+1. _Pet Sematary@_ by Stephen King; 416pp/15:40 (5/28/2018)</br>
