@@ -765,3 +765,4 @@
 1. _Irons in the Fire@_ by John McPhee; 215pp/7:42 (5/25/2018)</br>
 1. _Pet Sematary@_ by Stephen King; 416pp/15:40 (5/28/2018)</br>
 1. **_The Exorcist@_** by William Peter Blatty; 400pp/12:51 (5/30/2018)</br>
+1. _The Spooky Art: Thoughts on Writing@_ by Norman Mailer; 352pp/11:57 (5/31/2018)</br>
