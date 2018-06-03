@@ -767,3 +767,4 @@
 1. **_The Exorcist@_** by William Peter Blatty; 400pp/12:51 (5/30/2018)</br>
 1. _The Spooky Art: Thoughts on Writing@_ by Norman Mailer; 352pp/11:57 (5/31/2018)</br>
 1. _Call for the Dead@_ by John Le Carre; 199pp/4:44 (6/2/2018)</br>
+1. **_The Dark Tower, Book 1: The Gunslinger@^_** by Stephen King; 231pp/7:20 (6/3/2018)</br>
