@@ -771,3 +771,4 @@
 1. **_The Dark Tower, Book 2: The Drawing of the Three@^_** by Stephen King; 528pp/12:42 (6/4/2018)</br>
 1. **_The Dark Tower, Book 3: The Wastelands@^_** by Stephen King; 607pp/18:40 (6/7/2018)</br>
 1. **_The Dark Tower, Book 4: Wizard and Glass@^_** by Stephen King; 928pp/28:06 (6/10/2018)</br>
+1. **_Charles Kuralt's America@_** by Charles Kuralt; 279pp;4:38 (6/13/2018)</br>
