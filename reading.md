@@ -773,3 +773,4 @@
 1. **_The Dark Tower, Book 4: Wizard and Glass@^_** by Stephen King; 928pp/28:06 (6/10/2018)</br>
 1. **_Charles Kuralt's America@_** by Charles Kuralt; 279pp/4:38 (6/13/2018)</br>
 1. _See You On the Radio@_ by Charles Osgood; 249pp/3:45 (6/14/2018)</br>
+1. **_Travels with Charley@^_** by John Steinbeck; 214pp/7:58 (6/15/2018)</br>
