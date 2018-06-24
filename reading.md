@@ -775,3 +775,4 @@
 1. _See You On the Radio@_ by Charles Osgood; 249pp/3:45 (6/14/2018)</br>
 1. **_Travels with Charley@^_** by John Steinbeck; 214pp/7:58 (6/15/2018)</br>
 1. **_The Age of Faith: The Story of Civilization, Vol. 4@_** by Will Durant; 1086pp/61:21 (6/22/2018)</br>
+1. **_Fallen Leaves: Last Words on Life, Love, War, and God@^_** by Will Durant; 208pp/5:18 (6/23/2018)</br>
