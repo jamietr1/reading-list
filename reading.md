@@ -778,3 +778,4 @@
 1. **_Fallen Leaves: Last Words on Life, Love, War, and God@^_** by Will Durant; 208pp/5:18 (6/23/2018)</br>
 1. _A Life on the Road_ by Charles Kuralt; 338pp (6/24/2018)</br>
 1. _Sailing Alone Around the World@_ by Joshua Slocum; 166pp/7:29 (6/25/2018)</br>
+1. **_The Sum of All Fears@^_** by Tom Clancy; 928pp/38:03 (7/2/2018)</br>
