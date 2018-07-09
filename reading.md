@@ -779,4 +779,9 @@
 1. _A Life on the Road_ by Charles Kuralt; 338pp (6/24/2018)</br>
 1. _Sailing Alone Around the World@_ by Joshua Slocum; 166pp/7:29 (6/25/2018)</br>
 1. **_The Sum of All Fears@^_** by Tom Clancy; 928pp/38:03 (7/2/2018)</br>
+<<<<<<< HEAD
 1. **_The Longest Road@^_** by Philip Caputo; 320pp/11:49 (7/7/2018)</br>
+=======
+1. **_The Longest Road@^_** by Philip Caputo; 320pp/11:49 (7/7/2015)</br>
+1. **_A Rumor of War_** by Philip Caputo; 384pp/13:15 (7/9/2018)</br>
+>>>>>>> 28604973a85f3ed02e6586bc79b871bd8ea424be
