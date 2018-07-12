@@ -781,3 +781,4 @@
 1. **_The Sum of All Fears@^_** by Tom Clancy; 928pp/38:03 (7/2/2018)</br>
 1. **_The Longest Road@^_** by Philip Caputo; 320pp/11:49 (7/7/2015)</br>
 1. **_A Rumor of War_** by Philip Caputo; 384pp/13:15 (7/9/2018)</br>
+1. _Undaunted Courage: Meriwether Lewis, Thomas Jefferson, and the Opening of the American West@_ by Stephen E. Ambrose; 521pp/21:40 (7/12/2018)</br>
