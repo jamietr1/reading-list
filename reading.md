@@ -783,3 +783,4 @@
 1. **_A Rumor of War@_** by Philip Caputo; 384pp/13:15 (7/9/2018)</br>
 1. _Undaunted Courage: Meriwether Lewis, Thomas Jefferson, and the Opening of the American West@_ by Stephen E. Ambrose; 521pp/21:40 (7/12/2018)</br>
 1. _Dodge City: Wyatt Earp, Bat Masterson and the Wickedest Town in the American West@_ by Tom Clavin; 480pp/13:12 (7/13/2018)</br>
+1. **_Braving It: A Father, A Daughter, and an Unforgettable Journey into the Alaskan Wild@_** by James Campbell; 384pp/9:57 (7/15/2018)
