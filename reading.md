@@ -785,3 +785,4 @@
 1. _Dodge City: Wyatt Earp, Bat Masterson and the Wickedest Town in the American West@_ by Tom Clavin; 480pp/13:12 (7/13/2018)</br>
 1. **_Braving It: A Father, A Daughter, and an Unforgettable Journey into the Alaskan Wild@_** by James Campbell; 384pp/9:57 (7/15/2018)</br>
 1. **_The Final Frontiersman: Heimo Korth and His Family Alone in Alaska's Arctic Wilderness@_** by James Campbell; 320pp/12:25 (7/17/2018)</br>
+1. **_The Soul of America: The Battle for Our Better Angels@_** by Jon Meacham; 416pp/10:54 (7/18/2018)</br>
