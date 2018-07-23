@@ -787,3 +787,4 @@
 1. **_The Final Frontiersman: Heimo Korth and His Family Alone in Alaska's Arctic Wilderness@_** by James Campbell; 320pp/12:25 (7/17/2018)</br>
 1. **_The Soul of America: The Battle for Our Better Angels@_** by Jon Meacham; 416pp/10:54 (7/18/2018)</br>
 1. **_The Testament of Mary@_** by Colm Toibin; 96pp/3:07 (7/18/2018)</br>
+1. _The Age of Eisenhower: American and the World in the 1950s@_ by William I. Hitchcock; 672pp/25:38 (7/23/2018)</br>
