@@ -788,3 +788,4 @@
 1. **_The Soul of America: The Battle for Our Better Angels@_** by Jon Meacham; 416pp/10:54 (7/18/2018)</br>
 1. **_The Testament of Mary@_** by Colm Toibin; 96pp/3:07 (7/18/2018)</br>
 1. _The Age of Eisenhower: American and the World in the 1950s@_ by William I. Hitchcock; 672pp/25:38 (7/23/2018)</br>
+1. _The Midnight Line: Jack Reacher, Book 22@_ by Lee Child; 416pp/13:06 (7/26/2018)</br> 
