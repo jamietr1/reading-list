@@ -790,3 +790,4 @@
 1. _The Age of Eisenhower: American and the World in the 1950s@_ by William I. Hitchcock; 672pp/25:38 (7/23/2018)</br>
 1. _The Midnight Line: Jack Reacher, Book 22@_ by Lee Child; 416pp/13:06 (7/26/2018)</br>
 1. _Sixty: A Diary of My Sixty-First Year@_ by Ian Brown; 320pp/8:22 (7/30/2018)</br>
+1. **_White House Diary@_** by Jimmy Carter; 592pp/23:14 (8/3/2018)</br>
