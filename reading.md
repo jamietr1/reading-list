@@ -792,3 +792,4 @@
 1. _Sixty: A Diary of My Sixty-First Year@_ by Ian Brown; 320pp/8:22 (7/30/2018)</br>
 1. **_White House Diary@_** by Jimmy Carter; 592pp/23:14 (8/3/2018)</br>
 1. _Reagan: The Life@_ by H. W. Brands; 832pp/31:41 (8/10/2018)</br>
+1. **_A Full Life: Reflections at Ninety@_** by Jimmy Carter; 272pp/7:45 (8/11/2018)</br>
