@@ -793,3 +793,4 @@
 1. **_White House Diary@_** by Jimmy Carter; 592pp/23:14 (8/3/2018)</br>
 1. _Reagan: The Life@_ by H. W. Brands; 832pp/31:41 (8/10/2018)</br>
 1. **_A Full Life: Reflections at Ninety@_** by Jimmy Carter; 272pp/7:45 (8/11/2018)</br>
+1. **_My Life with Bob: Flawed Heroine Keeps Book of Books, Plot Ensues@_** by Pamela Paul; 256pp/6:55 (8/19/2018)</br>
