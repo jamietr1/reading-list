@@ -795,3 +795,4 @@
 1. **_A Full Life: Reflections at Ninety@_** by Jimmy Carter; 272pp/7:45 (8/11/2018)</br>
 1. **_My Life with Bob: Flawed Heroine Keeps Book of Books, Plot Ensues@_** by Pamela Paul; 256pp/6:55 (8/19/2018)</br>
 1. _My Life@_ by Bill Clinton; 1008pp/50:40 (8/23/2018)</br>
+1. _Jefferson the President, First Term 1801-1805@_ by Dumas Malone; 539pp/18:45 (8/24/2018)</br>
