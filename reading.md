@@ -798,3 +798,4 @@
 1. _Jefferson the President, First Term 1801-1805@_ by Dumas Malone; 539pp/18:45 (8/24/2018)</br>
 1. _Jefferson the President, Second Term 1805-1809@_ by Dumas Malone; 600pp/24:18 (8/27/2018)</br>
 1. **_The Sage of Monticello@_** by Dumas Malone; 516pp/18:26 (8/30/2018)</br>
+1. **_Long Journey with Mr. Jefferson: The Life of Dumas Malone+_** by William C. Hyland, Jr.; 325pp (9/4/2018)</br>
