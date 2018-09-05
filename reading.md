@@ -799,3 +799,4 @@
 1. _Jefferson the President, Second Term 1805-1809@_ by Dumas Malone; 600pp/24:18 (8/27/2018)</br>
 1. **_The Sage of Monticello@_** by Dumas Malone; 516pp/18:26 (8/30/2018)</br>
 1. **_Long Journey with Mr. Jefferson: The Life of Dumas Malone+_** by William C. Hyland, Jr.; 325pp (9/4/2018)</br>
+1. _Friends Divided: John Adams and Thomas Jefferson@_ by Gordon S. Wood; 511pp/17:50 (9/5/2018)</br>
