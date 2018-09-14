@@ -800,3 +800,4 @@
 1. **_The Sage of Monticello@_** by Dumas Malone; 516pp/18:26 (8/30/2018)</br>
 1. **_Long Journey with Mr. Jefferson: The Life of Dumas Malone+_** by William C. Hyland, Jr.; 325pp (9/4/2018)</br>
 1. _Friends Divided: John Adams and Thomas Jefferson@_ by Gordon S. Wood; 511pp/17:50 (9/5/2018)</br>
+1. _Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs@_ by Ken Kocienda; 304pp/7:28 (9/14/2018)</br>
