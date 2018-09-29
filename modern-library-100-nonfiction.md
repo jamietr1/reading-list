@@ -4,7 +4,7 @@
 1. _A Room of One's Own_ by Virginia Woolf
 1. _Silent Spring_ by Rachel Carson
 1. _Selected Essays, 1917-1932_ by T. S. Eliot
-1. _The Double Helix_ by James D. Watson
+1. **_The Double Helix_** by James D. Watson
 1. _Speak, Memory_ by Vladimir Nabokov
 1. _The American Language_ by H. L. Mencken
 1. _The General Theory of Employment, Interest, and Money_ by John Maynard Keynes

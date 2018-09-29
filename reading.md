@@ -803,3 +803,4 @@
 1. _Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs@_ by Ken Kocienda; 304pp/7:28 (9/14/2018)</br>
 1. _Insanely Great: The Life and Times of Macintosh, the Computer That Changed Everything@_ by Steven Levy; 336pp/8:00 (9/16/2018)</br>
 1. _The Double Helix: A Personal Account of the Discovery of the Structure of DNA@_ by James D. Watson; 256pp/4:11 (9/23/2018)</br>
+1. **_Team of Rivals: The Political Genius of Ambraham Lincoln@_** by Doris Kearns Goodwin; 757pp/41:32 (9/29/2018)</br>
