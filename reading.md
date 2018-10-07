@@ -805,4 +805,5 @@
 1. _The Double Helix: A Personal Account of the Discovery of the Structure of DNA@_ by James D. Watson; 256pp/4:11 (9/23/2018)</br>
 1. **_Team of Rivals: The Political Genius of Ambraham Lincoln@_** by Doris Kearns Goodwin; 757pp/41:32 (9/29/2018)</br>
 1. _Basin and Range (Annals of the Former World)@_ by John McPhee; 224pp/6:56 (10/4/2018)</br>
-1. **_Leadership in Turbulent Times@_** by Doris Kearns Goodwin; 473/18:05 (10/6/2018)</br>
+1. **_Leadership in Turbulent Times@_** by Doris Kearns Goodwin; 473pp/18:05 (10/6/2018)</br>
+1. **_The Power of Habit: Why We Do What We Do in Life and Business@_** by Charles Duhigg; 416pp/10:53 (10/7/2018)</br>
