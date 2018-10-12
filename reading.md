@@ -807,3 +807,4 @@
 1. _Basin and Range (Annals of the Former World)@_ by John McPhee; 224pp/6:56 (10/4/2018)</br>
 1. **_Leadership in Turbulent Times@_** by Doris Kearns Goodwin; 473pp/18:05 (10/6/2018)</br>
 1. **_The Power of Habit: Why We Do What We Do in Life and Business@_** by Charles Duhigg; 416pp/10:53 (10/7/2018)</br>
+1. **_The Fifties@_** by David Halberstam; 816pp/34:44 (10/12/2018)</br>
