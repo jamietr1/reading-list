@@ -89,7 +89,7 @@
 1. **_Pilgrim at Tinker Creek_** by Annie Dillard
 1. _The Golden Bough_ by James George Frazer
 1. _Shadow and Act_ by Ralph Ellison
-1. _The Power Broker_ by Robert A. Caro
+1. **_The Power Broker_** by Robert A. Caro
 1. _The American Political Tradition_ by Richard Hofstadter
 1. _The Contours of American History_ by William Appleman Williams
 1. _The Promise of American Life_ by Herbert Croly
