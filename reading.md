@@ -809,3 +809,5 @@
 1. **_The Power of Habit: Why We Do What We Do in Life and Business@_** by Charles Duhigg; 416pp/10:53 (10/7/2018)</br>
 1. **_The Fifties@_** by David Halberstam; 816pp/34:44 (10/12/2018)</br>
 1. _The Power Broker: Robert Moses and the Fall of New York@_ by Robert A. Caro; 1344pp/66:09 (10/13/2018)</br>
+1. _Turn Right at Machu Picchu: Rediscovering the Lost City One Step at a Time@_ by Mark Adams; 333pp/10:09 (10/14/2018)</br>
+1. _The Man in the Grey Flannel Suit@_ by Sloan Wilson; 288pp/12:02 (10/15/2018)</br>
