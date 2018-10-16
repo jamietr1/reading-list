@@ -811,3 +811,4 @@
 1. _The Power Broker: Robert Moses and the Fall of New York@_ by Robert A. Caro; 1344pp/66:09 (10/13/2018)</br>
 1. _Turn Right at Machu Picchu: Rediscovering the Lost City One Step at a Time@_ by Mark Adams; 333pp/10:09 (10/14/2018)</br>
 1. _The Man in the Grey Flannel Suit@_ by Sloan Wilson; 288pp/12:02 (10/15/2018)</br>
+1. **_The Colorado Kid@_** by Stephen King; 184pp/3:40 (10/16/2018)</br>
