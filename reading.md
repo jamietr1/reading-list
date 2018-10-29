@@ -815,3 +815,4 @@
 1. **_The Library Book@_** by Susan Orlean; 336pp/12:09 (10/17/2018)</br>
 1. _The World Without Us@_ by Alan Weisman; 432pp/12:08 (10/18/2018)</br>
 1. _Tip of the Iceberg: My 3,000-Mile Journey Around Wild Alaska, the Last Great American Frontier@_ by Mark Adams; 336pp/9:13 (10/19/2018)</br>
+1. **_It@^_** by Stephen King; 1116pp/44:57 (10/26/2018)</br>
