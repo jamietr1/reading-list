@@ -818,3 +818,4 @@
 1. **_It@^_** by Stephen King; 1116pp/44:57 (10/26/2018)</br>
 1. **_Rush: Revolution, Madness, and the Visionary Doctor Who Became a Founding Father@_** by Stephen Fried; 608pp/22:18 (10/29/2018)</br>
 1. **_Elevation@_** by Stephen King; 140pp/3:35 (10/30/2018)</br>
+1. _Atlas of a Lost World: Travels in Ice Age America@_ by Craig Childs; 288pp/9:10 (10/31/2018)</br>
