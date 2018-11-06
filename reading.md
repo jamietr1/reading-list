@@ -820,3 +820,4 @@
 1. **_Elevation@_** by Stephen King; 140pp/3:35 (10/30/2018)</br>
 1. _Atlas of a Lost World: Travels in Ice Age America@_ by Craig Childs; 288pp/9:10 (10/31/2018)</br>
 1. _Origin Story: A Big History of Everything@_ by David Christian; 325pp/12:30 (11/3/2018)</br>
+1. **_Past Tense: Jack Reacher, Book 23@_** by Lee Child; 382pp/12:51 (11/5/2018)</br>
