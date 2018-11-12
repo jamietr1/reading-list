@@ -823,3 +823,4 @@
 1. **_Past Tense: Jack Reacher, Book 23@_** by Lee Child; 382pp/12:51 (11/5/2018)</br>
 1. **_Calico Joe@_** by John Grisham; 198pp/4:35 (11/6/2018)</br>
 1. **_No Country for Old Men@_** by Cormac McCarthy; 320pp/7:29 (11/10/2018)</br>
+1. **_All Quiet on the Western Front@_** by Erich Maria Remarque; 296pp/6:55 (11/11/2018)</br>
