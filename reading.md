@@ -824,3 +824,5 @@
 1. **_Calico Joe@_** by John Grisham; 198pp/4:35 (11/6/2018)</br>
 1. **_No Country for Old Men@_** by Cormac McCarthy; 320pp/7:29 (11/10/2018)</br>
 1. **_All Quiet on the Western Front@_** by Erich Maria Remarque; 296pp/6:55 (11/11/2018)</br>
+1. _Magic Time@^_ by W. P. Kinsella; 240pp/6:31 (11/13/2018)</br>
+1. **_The Patch@_** by John McPhee; 256pp/8:15 (11/14/2018)</br>
