@@ -827,3 +827,4 @@
 1. _Magic Time@^_ by W. P. Kinsella; 240pp/6:31 (11/13/2018)</br>
 1. **_The Patch@_** by John McPhee; 256pp/8:15 (11/14/2018)</br>
 1. _Franklin and Winston: An Intimate Portrait of an Epic Friendship@_ by Jon Meacham; 512pp/13:13 (11/17/2018)</br>
+1. **_Bazaar of Bad Dreams@_** by Stephen King; 705pp/20:11 (11/20/2018)</br>
