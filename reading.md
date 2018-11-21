@@ -828,3 +828,4 @@
 1. **_The Patch@_** by John McPhee; 256pp/8:15 (11/14/2018)</br>
 1. _Franklin and Winston: An Intimate Portrait of an Epic Friendship@_ by Jon Meacham; 512pp/13:13 (11/17/2018)</br>
 1. **_Bazaar of Bad Dreams@_** by Stephen King; 705pp/20:11 (11/20/2018)</br>
+1. **_Sailor and Fiddler: Reflections of a 100-Year-Old Author@_** by Herman Wouk; 160pp/3:21 (11/20/2018)</br>
