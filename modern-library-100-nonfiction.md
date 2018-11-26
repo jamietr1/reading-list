@@ -72,7 +72,7 @@
 1. _The Ghnostic Gospels_ by Elaine Pagels
 1. _James Joyce_ by Richard Ellmann
 1. _Florence Nightingale_ by Cecil Woodham-Smith
-1. _The Great War and Modern Memory_ by Paul Fussell
+1. **_The Great War and Modern Memory_** by Paul Fussell
 1. _The City in History_ by Lewis Mumford
 1. _Battle Cry of Freedom_ by James M. McPherson
 1. _Why We Can't Wait_ by Martin Luther King, Jr.

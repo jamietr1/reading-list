@@ -829,3 +829,5 @@
 1. _Franklin and Winston: An Intimate Portrait of an Epic Friendship@_ by Jon Meacham; 512pp/13:13 (11/17/2018)</br>
 1. **_Bazaar of Bad Dreams@_** by Stephen King; 705pp/20:11 (11/20/2018)</br>
 1. **_Sailor and Fiddler: Reflections of a 100-Year-Old Author@_** by Herman Wouk; 160pp/3:21 (11/20/2018)</br>
+1. _The Great War and Modern Memory@_ by Paul Fussell; 432pp/15:44 (11/24/2018)</br>
+1. _The Hobbit@_ by J. R. R. Tolkien; 235pp/11:05 (11/25/2018)</br>
