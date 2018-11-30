@@ -831,3 +831,6 @@
 1. **_Sailor and Fiddler: Reflections of a 100-Year-Old Author@_** by Herman Wouk; 160pp/3:21 (11/20/2018)</br>
 1. _The Great War and Modern Memory@_ by Paul Fussell; 432pp/15:44 (11/24/2018)</br>
 1. _The Hobbit@_ by J. R. R. Tolkien; 235pp/11:05 (11/25/2018)</br>
+1. **_Everything's Eventual@_** by Stephen King; 605pp/17:22 (11/26/2018)</br>
+1. _Just After Sunset@_ by Stephen King; 388pp/14:48 (11/27/2018)</br>
+1. _Nightmares and Dreamscapes@_ by Stephen King; 897pp/27:00 (11/29/2018)</br>
