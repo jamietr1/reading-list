@@ -834,3 +834,6 @@
 1. **_Everything's Eventual@_** by Stephen King; 605pp/17:22 (11/26/2018)</br>
 1. _Just After Sunset@_ by Stephen King; 388pp/14:48 (11/27/2018)</br>
 1. _Nightmares and Dreamscapes@_ by Stephen King; 897pp/27:00 (11/29/2018)</br>
+1. _Skeleton Crew@_ by Stephen King; 760pp/22:29 (12/1/2018)</br>
+1. **_Different Seasons@^_** by Stephen King; 672pp/19:49 (12/3/2018)</br>
+1. **_Four Past Midnight@_** by Stephen King; 930pp/29:39 (12/6/2018)</br>
