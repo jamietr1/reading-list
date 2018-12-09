@@ -837,3 +837,5 @@
 1. _Skeleton Crew@_ by Stephen King; 760pp/22:29 (12/1/2018)</br>
 1. **_Different Seasons@^_** by Stephen King; 672pp/19:49 (12/3/2018)</br>
 1. **_Four Past Midnight@_** by Stephen King; 930pp/29:39 (12/6/2018)</br>
+1. _Hearts in Atlantis@^_ by Stephen King; 640pp/20:09 (12/9/2018)</br>
+1. **_The Bullet Journal Method@_** by Ryder Carroll; 310pp/5:43 (12/9/2018)</br>
