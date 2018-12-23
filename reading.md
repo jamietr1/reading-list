@@ -839,3 +839,6 @@
 1. **_Four Past Midnight@_** by Stephen King; 930pp/29:39 (12/6/2018)</br>
 1. _Hearts in Atlantis@^_ by Stephen King; 640pp/20:09 (12/9/2018)</br>
 1. **_The Bullet Journal Method@_** by Ryder Carroll; 310pp/5:43 (12/9/2018)</br>
+1. **_Destiny and Power: The American Odyssey of George Herbert Walker Bush@_** by Jon Meacham; 794pp/25:10 (12/15/2018)</br>
+1. **_One Man's Meat@^_** by E. B. White; 279pp/11:48 (12/20/2018)</br>
+1. **_E. B. White On Dogs@_** by E. B. White; 208pp/5:36 (12/23/2018)</br>
