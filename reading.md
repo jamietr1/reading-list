@@ -842,3 +842,5 @@
 1. **_Destiny and Power: The American Odyssey of George Herbert Walker Bush@_** by Jon Meacham; 794pp/25:10 (12/15/2018)</br>
 1. **_One Man's Meat@^_** by E. B. White; 279pp/11:48 (12/20/2018)</br>
 1. **_E. B. White On Dogs@_** by E. B. White; 208pp/5:36 (12/23/2018)</br>
+1. _Searching for Stars on an Island in Maine@_ by Alan Lightman; 240pp/5:15 (12/23/2018)</br>
+1. **_Bing Crosby: Swinging on a Star: The War Years, 1940-1946_** by Gary Giddins; 724pp (12/24/2018)</br>
