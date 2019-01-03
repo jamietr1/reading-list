@@ -844,4 +844,5 @@
 1. **_E. B. White On Dogs@_** by E. B. White; 208pp/5:36 (12/23/2018)</br>
 1. _Searching for Stars on an Island in Maine@_ by Alan Lightman; 240pp/5:15 (12/23/2018)</br>
 1. **_Bing Crosby: Swinging on a Star: The War Years, 1940-1946_** by Gary Giddins; 724pp (12/24/2018)</br>
+1. _Einstein's Dreams@_ by Alan Lightman; 144pp/2:32 (12/26/2018)</br>
 1. **_Will and Ariel Durant: A Dual Autobiography_** by Will Durant and Ariel Durant; 420pp (12/31/2018)</br>
