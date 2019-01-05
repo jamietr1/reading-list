@@ -846,3 +846,5 @@
 1. **_Bing Crosby: Swinging on a Star: The War Years, 1940-1946_** by Gary Giddins; 724pp (12/24/2018)</br>
 1. _Einstein's Dreams@_ by Alan Lightman; 144pp/2:32 (12/26/2018)</br>
 1. **_Will and Ariel Durant: A Dual Autobiography_** by Will Durant and Ariel Durant; 420pp (12/31/2018)</br>
+1. _The Renaissance@_ by Will Durant; 776pp/37:09 (1/4/2019)</br>
+1. **_Blood, Sweat, and Pixels: The Triumphant, Turbulant Stories Behind How Video Games Are Made@_** by Jason Schreier; 304pp/7:58 (1/5/2019)</br>
