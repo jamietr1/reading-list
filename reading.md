@@ -848,3 +848,4 @@
 1. **_Will and Ariel Durant: A Dual Autobiography_** by Will Durant and Ariel Durant; 420pp (12/31/2018)</br>
 1. _The Renaissance@_ by Will Durant; 776pp/37:09 (1/4/2019)</br>
 1. **_Blood, Sweat, and Pixels: The Triumphant, Turbulant Stories Behind How Video Games Are Made@_** by Jason Schreier; 304pp/7:58 (1/5/2019)</br>
+1. _Sapiens: A Brief History of Humankind@_ by Yuval Noah Harari; 444pp/15:17 (1/12/2019)</br>
