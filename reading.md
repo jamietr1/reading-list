@@ -849,3 +849,4 @@
 1. _The Renaissance@_ by Will Durant; 776pp/37:09 (1/4/2019)</br>
 1. **_Blood, Sweat, and Pixels: The Triumphant, Turbulant Stories Behind How Video Games Are Made@_** by Jason Schreier; 304pp/7:58 (1/5/2019)</br>
 1. _Sapiens: A Brief History of Humankind@_ by Yuval Noah Harari; 444pp/15:17 (1/12/2019)</br>
+1. _Soul of an Octopus: A Surprising Exploration into the Wonder of Consciousness@_ by Sy Montgomery; 261pp/9:10 (1/21/2019)</br>
