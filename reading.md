@@ -852,3 +852,5 @@
 1. _Soul of an Octopus: A Surprising Exploration into the Wonder of Consciousness@_ by Sy Montgomery; 261pp/9:10 (1/21/2019)</br>
 1. **_Essays of E. B. White@^_** by E. B. White; 364pp/12:17 (1/25/2019)</br>
 1. **_The Spy and the Traitor: The Greatest Espionage Story of the Cold War@_** by Ben Macintyre; 384pp/13:20 (1/28/2019)</br>
+1. _Henry David Thoreau: A Life@_ by Laura Dassow Walls; 640pp/22:21 (2/3/2019)</br>
+1. _Walking@_ by Henry David Thoreau; 60pp/1:28 (2/4/2019)</br>
