@@ -856,3 +856,4 @@
 1. _Walking@_ by Henry David Thoreau; 60pp/1:28 (2/4/2019)</br>
 1. **_Code Talker: The First and Only Memoir By One of the Original Navajo Code Talkers of WWII@_** by Chester Nez; 320pp/9:37 (2/4/2019)</br>
 1. **_Wild Bill: The True Story of the American Frontier's First Gunfighter@_** by Tom Clavin; 336pp/8:51 (2/6/2019)</br>
+1. **_Into Thin Air: A Personal Account of the Mount Everest Disaster@_** by Jon Krakauer; 368pp/9:08 (2/7/2019)</br>
