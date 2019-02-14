@@ -859,3 +859,4 @@
 1. **_Into Thin Air: A Personal Account of the Mount Everest Disaster@_** by Jon Krakauer; 368pp/9:08 (2/7/2019)</br>
 1. **_Growing Up@_** by Russell Baker; 352pp/8:19 (2/8/2019)</br>
 1. **_The Good Neighbor: The Life and Work of Fred Rogers@_** by Maxwell King; 416pp/14:07 (2/11/2019)</br>
+1. **_The Stephen King Companion: Four Decades of Fear from the Master of Horror@_** by George Beahm; 624pp/24:21 (2/14/2019)</br>
