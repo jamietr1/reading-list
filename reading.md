@@ -860,3 +860,10 @@
 1. **_Growing Up@_** by Russell Baker; 352pp/8:19 (2/8/2019)</br>
 1. **_The Good Neighbor: The Life and Work of Fred Rogers@_** by Maxwell King; 416pp/14:07 (2/11/2019)</br>
 1. **_The Stephen King Companion: Four Decades of Fear from the Master of Horror@_** by George Beahm; 624pp/24:21 (2/14/2019)</br>
+1. _Insomnia@_ by Stephen King; 672pp/25:39 (2/17/2019)</br>
+1. _Lisey's Story@_ by Stephen King; 513pp/18:52 (2/19/2019)</br>
+1. **_Duma Key@_** by Stephen King; 611pp/21:00 (2/21/2019)</br>
+1. **_The Green Mile@^_** by Stephen King; 592pp/15:11 (2/22/2019)</br>
+1. **_Doctor Sleep@^_** by Stephen King; 531pp/18:35 (2/24/2019)</br>
+1. _Revival@_ by Stephen King; 405pp/13:24 (2/27/2019)</br>
+1. _The Dark Man_ by Stephen King; 88pp (3/3/2019)</br>
