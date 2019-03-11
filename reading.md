@@ -867,3 +867,5 @@
 1. **_Doctor Sleep@^_** by Stephen King; 531pp/18:35 (2/24/2019)</br>
 1. _Revival@_ by Stephen King; 405pp/13:24 (2/27/2019)</br>
 1. _The Dark Man_ by Stephen King; 88pp (3/3/2019)</br>
+1. _Consilience: The Unity of Knowledge@_ by Edward O. Wilson; 382pp/17:35 (3/5/2019)</br>
+1. _Teacher Man@_ by Frank McCourt; 272pp/8:55 (3/11/2019)</br>
