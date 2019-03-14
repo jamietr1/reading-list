@@ -869,3 +869,4 @@
 1. _The Dark Man_ by Stephen King; 88pp (3/3/2019)</br>
 1. _Consilience: The Unity of Knowledge@_ by Edward O. Wilson; 382pp/17:35 (3/5/2019)</br>
 1. _Teacher Man@_ by Frank McCourt; 272pp/8:55 (3/11/2019)</br>
+1. **1776@** by David McCullough; 386pp/11:33 (3/14/2019)</br>
