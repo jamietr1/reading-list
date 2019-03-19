@@ -870,3 +870,5 @@
 1. _Consilience: The Unity of Knowledge@_ by Edward O. Wilson; 382pp/17:35 (3/5/2019)</br>
 1. _Teacher Man@_ by Frank McCourt; 272pp/8:55 (3/11/2019)</br>
 1. **1776@** by David McCullough; 386pp/11:33 (3/14/2019)</br>
+1. _Digital Minimalism: Choosing a Focused Life in a Noisy World@_ by Cal Newport; 302pp/6:59 (3/15/2019)</br>
+1. _The Greater Journey: Americans in Paris@_ by David McCullough; 558pp/16:50 (3/18/2019)</br>
