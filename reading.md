@@ -873,3 +873,6 @@
 1. _Digital Minimalism: Choosing a Focused Life in a Noisy World@_ by Cal Newport; 302pp/6:59 (3/15/2019)</br>
 1. _The Greater Journey: Americans in Paris@_ by David McCullough; 558pp/16:50 (3/18/2019)</br>
 1. **_John Adams@^_** by David McCullough; 751pp/30:01 (3/28/2019)</br>
+1. **_Coders: The Making of a New Tribe and the Remaking of the World@_** by Clive Thompson; 448pp/13:22 (4/1/2019)</br>
+1. _Fire in the Valley: The Birth and Death of the Personal Computer@_ by Michael Swaine and Paul Freiberger; 463pp/15:24 (4/7/2019)</br>
+1. **_American Moonshot: John F. Kennedy and the Great Space Race@_** by Douglas Brinkley; 576pp/17:14 (4/9/2019)</br>
