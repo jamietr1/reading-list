@@ -12,6 +12,8 @@
 * [Modern Library 100 Best Novels](https://github.com/jamietr1/reading-list/blob/master/modern-library-100-novels.md)
 * [Sports Illustrated Top 100 Sports Books of All Time](https://github.com/jamietr1/reading-list/blob/master/sports-illustrated-top-100.md)
 
+Within each of these lists, I highlight in bold any of the books I have read. I often use these lists as go-tos when I am struggling to find what to read next.
+
 ## Origin Story
 
 I can't be certain, but I believe I started my list because I discovered [a list by Eric W. Leuliette](http://www.whatihaveread.net/) online sometime in late 1995. His list goes back to 1974 and that impressed me. Given that I read a lot, it seemed to me I should keep a list, too, and I began my list in January 1996 while visiting my grandfather in New York.
