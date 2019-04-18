@@ -1,27 +1,34 @@
-# reading-list
+# What I have read since 1996
 
-[My reading list since January 1996](https://github.com/jamietr1/reading-list/blob/master/reading.md). Commits include comments on what I read beginning in June 2015. This list is a simple text file. Here is what you need to know to interpret the list:
+* **[My reading list since 1996](https://github.com/jamietr1/reading-list/blob/master/reading.md)**
 
-* There is one book per line.
-* Each line is in the format TITLE by AUTHOR; length (COMPLETION DATE)
-* **Bold** titles are recommended reads
-* The following symbols may follow the TITLE:
-  * \+ = E-book
-  * @ = Audiobook
-  * ^ = Re-read
+## How to interpret the list
 
-## Comments on the books I've read
+![Legend](images/reading_list_legend.jpg)
 
-Beginning in late June 2015, I will add brief comments on the books that I've read. I will do this in the commit comment when I check-in the file. To see my comments on a book, view the [master commit log](https://github.com/jamietr1/reading-list/commits/master).
+## Other lists I maintain
 
-## History and background
+* [Modern Library 100 Best Nonfiction Books](https://github.com/jamietr1/reading-list/blob/master/modern-library-100-nonfiction.md)
+* [Modern Library 100 Best Novels](https://github.com/jamietr1/reading-list/blob/master/modern-library-100-novels.md)
+* [Sports Illustrated Top 100 Sports Books of All Time](https://github.com/jamietr1/reading-list/blob/master/sports-illustrated-top-100.md)
 
-I began keeping the list of books I've read back in January 1996. The list has had a variety of forms over the years, but had pretty much been available online the entire time. It has seen form as HTML, and as part of MySQL database. Over time, I've found that the easiest way to maintain the list is as a plain text file.
+## Origin Story
 
-## Update: July 2017
+I can't be certain, but I believe I started my list because I discovered [a list by Eric W. Leuliette](http://www.whatihaveread.net/) online sometime in late 1995. His list goes back to 1974 and that impressed me. Given that I read a lot, it seemed to me I should keep a list, too, and I began my list in January 1996 while visiting my grandfather in New York.
 
-I reformatted my reading list as a Markdown (.md) file so that it shows up a little nicer here in Github. While doing this, I also added a new element to the list, page counts and listening lengths.
+Over the years, the list has taken many forms. It stared as a spreadsheet, and then morphed into an HTML file I maintained manually so that it was accessible online. Over time it moved into a SQL database served up by perl and php scripts. Eventually it evolved into the simple plain text file it is today, the easiest of all forms for me to maintain. I keep the file on Github and use git's commit capabilities to manage changes to the list.
 
-The page counts are approximate, based on the edition I think I read. They are not intended to be perfect, but give a good order of magnitude estimate of how long the book is relative to other books.
+## Rules of the Road
 
-If the book is an audiobook, I include the page count as well as a listening time in hours:minutes.
+1. Only books I finish go on the list. I don't track books I don't finish. Too much work.
+2. Each finished book gets a number.
+3. If I re-read a book, and finish it again, it goes on the list again with another number, but I also indicate it is a re-read with a ^ after the title.
+4. Paper, e-books, and audiobooks all count, so long as I finish them.
+
+## By the Numbers
+
+I used to be obsessed with reading stats, to the point where my older lists from the mid-late-1990s had estimated word counts. Today, I am satisfied by some simple stats that I derive from my plain text list using a Python scripts I wrote (aptly called "reading").
+
+In its simplest form, I can get a total count of books and pages read. More often, however, I like to look at breakdowns by year using simple charts, like this one showing everything I've read since 1996:
+
+![What I Have Read](images/reading_list_all.jpg)
