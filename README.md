@@ -34,3 +34,12 @@ I used to be obsessed with reading stats, to the point where my older lists from
 In its simplest form, I can get a total count of books and pages read. More often, however, I like to look at breakdowns by year using simple charts, like this one showing everything I've read since 1996:
 
 ![What I Have Read](images/reading_list_all.jpg)
+
+I can also identify all of the times I read a specific author, for instance, "Stephen King":
+
+![When I read Stephen King](images/reading_list_author.jpg)
+
+## How I choose what I read
+
+Serendipity--or what I like to call [the butterfly effect of reading](https://www.jamierubin.net/2018/10/09/the-butterfly-effect-of-reading/) is the most powerful influence on what I happen to be reading at any given moment. Whenever I jot down a list of books I want to read next, I find I rarely follow that list. Something in whatever it is I am reading will pique my curiosity, and off I go in some unexpected direction.
+
