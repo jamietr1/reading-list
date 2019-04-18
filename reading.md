@@ -877,3 +877,4 @@
 1. _Fire in the Valley: The Birth and Death of the Personal Computer@_ by Michael Swaine and Paul Freiberger; 463pp/15:24 (4/7/2019)</br>
 1. **_American Moonshot: John F. Kennedy and the Great Space Race@_** by Douglas Brinkley; 576pp/17:14 (4/10/2019)</br>
 1. **_Working: Researching Interviewing, Writing@_** by Robert A. Caro; 240pp/7:55 (4/11/2019)</br>
+1. _The Path to Power@_ by Robert A. Caro; 882pp/40:33 (4/17/2019)</br>
