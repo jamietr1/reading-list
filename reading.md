@@ -879,3 +879,4 @@
 1. **_Working: Researching Interviewing, Writing@_** by Robert A. Caro; 240pp/7:55 (4/11/2019)</br>
 1. _The Path to Power@_ by Robert A. Caro; 882pp/40:33 (4/17/2019)</br>
 1. _The Idea Factory: Bell Labs and the Great Age of American Innovation@_ by Jon Gertner; 432pp/17:28 (4/20/2019)</br>
+1. _The Origin of Consciousness in the Breakdown of the Bicameral Mind@_ by Julian Jaynes; 491pp/16:01 (4/27/2019)</br>
