@@ -881,3 +881,4 @@
 1. _The Idea Factory: Bell Labs and the Great Age of American Innovation@_ by Jon Gertner; 432pp/17:28 (4/20/2019)</br>
 1. _The Origin of Consciousness in the Breakdown of the Bicameral Mind@_ by Julian Jaynes; 491pp/16:01 (4/27/2019)</br>
 1. _The Dragons of Eden: Speculations on Human Intelligence@^_ by Carl Sagan; 271pp/6:41 (4/29/2019)</br>
+1. **_White@_** by Bret Easton Ellis; 271pp/6:47 (4/30/2019)</br> 
