@@ -883,3 +883,4 @@
 1. _The Dragons of Eden: Speculations on Human Intelligence@^_ by Carl Sagan; 271pp/6:41 (4/29/2019)</br>
 1. **_White@_** by Bret Easton Ellis; 271pp/6:47 (4/30/2019)</br> 
 1. **_Horizon@_** by Barry Lopez; 592pp/22:53 (5/6/2019)</br>
+1. **_Arctic Dreams@_** by Barry Lopez; 496pp/17:33 (5/8/2019)</br>
