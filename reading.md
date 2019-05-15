@@ -886,3 +886,5 @@
 1. **_Arctic Dreams@_** by Barry Lopez; 496pp/17:33 (5/8/2019)</br>
 1. _The Pioneers@_ by David McCullough; 352pp/10:23 (5/10/2019)</br>
 1. **_The American Spirit: Who We Are and What We Stand For@_** by David McCullough; 176pp/4:13 (5/11/2019)</br>
+1. _This Noble Land: My Vision for America@_ by James A. Michener; 256pp/7:40 (5/13/2019)</br>
+1. **_A Few Minutes with Andy Rooney_** by Andy Rooney; 245p (5/15/2019)</br>
