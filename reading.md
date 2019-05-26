@@ -889,3 +889,5 @@
 1. _This Noble Land: My Vision for America@_ by James A. Michener; 256pp/7:40 (5/13/2019)</br>
 1. **_A Few Minutes with Andy Rooney_** by Andy Rooney; 245pp (5/15/2019)</br>
 1. **_And More with Andy Rooney_** by Andy Rooney; 242pp (5/17/2019)</br>
+1. **_Pieces of My Mind_** by Andy Rooney; 255pp (5/22/2019)</br>
+1. _Killing Floor@^_ by Lee Child; 424pp (5/25/2019)</br>
