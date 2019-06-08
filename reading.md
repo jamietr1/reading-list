@@ -892,3 +892,5 @@
 1. **_Pieces of My Mind_** by Andy Rooney; 255pp (5/22/2019)</br>
 1. _Killing Floor@^_ by Lee Child; 424pp (5/25/2019)</br>
 1. _Shadows of Forgotten Ancestors@_ by Carl Sagan and Ann Druyan; 528pp/15:44 (5/27/2019)</br>
+1. _Means of Ascent: The Years of Lyndon Johnson, Vol. 2_ by Robert A. Caro; 592pp/22:08 (6/7/2019)</br>
+1. _Deep Work: Rules for Focused Success in a Digital World_ by Cal Newport; 296pp/7:44 (6/8/2019)</br>
