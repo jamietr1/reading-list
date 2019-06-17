@@ -881,7 +881,7 @@
 1. _The Idea Factory: Bell Labs and the Great Age of American Innovation@_ by Jon Gertner; 432pp/17:28 (4/20/2019)</br>
 1. _The Origin of Consciousness in the Breakdown of the Bicameral Mind@_ by Julian Jaynes; 491pp/16:01 (4/27/2019)</br>
 1. _The Dragons of Eden: Speculations on Human Intelligence@^_ by Carl Sagan; 271pp/6:41 (4/29/2019)</br>
-1. **_White@_** by Bret Easton Ellis; 271pp/6:47 (4/30/2019)</br> 
+1. **_White@_** by Bret Easton Ellis; 271pp/6:47 (4/30/2019)</br>
 1. **_Horizon@_** by Barry Lopez; 592pp/22:53 (5/6/2019)</br>
 1. **_Arctic Dreams@_** by Barry Lopez; 496pp/17:33 (5/8/2019)</br>
 1. _The Pioneers@_ by David McCullough; 352pp/10:23 (5/10/2019)</br>
@@ -892,5 +892,6 @@
 1. **_Pieces of My Mind_** by Andy Rooney; 255pp (5/22/2019)</br>
 1. _Killing Floor@^_ by Lee Child; 424pp (5/25/2019)</br>
 1. _Shadows of Forgotten Ancestors@_ by Carl Sagan and Ann Druyan; 528pp/15:44 (5/27/2019)</br>
-1. _Means of Ascent: The Years of Lyndon Johnson, Vol. 2_ by Robert A. Caro; 592pp/22:08 (6/7/2019)</br>
-1. _Deep Work: Rules for Focused Success in a Digital World_ by Cal Newport; 296pp/7:44 (6/8/2019)</br>
+1. _Means of Ascent: The Years of Lyndon Johnson, Vol. 2@_ by Robert A. Caro; 592pp/22:08 (6/7/2019)</br>
+1. _Deep Work: Rules for Focused Success in a Digital World@_ by Cal Newport; 296pp/7:44 (6/8/2019)</br>
+1. **_On Democracy@_** by E. B. White; 240pp/5:12 (6/17/2019)</br>
