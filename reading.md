@@ -898,3 +898,6 @@
 1. **_One Giant Leap: The Impossible Mission That Flew Us to the Moon@_** by Charles Fishman; 480pp/15:05 (6/24/2019)</br>
 1. **_Range: Why Generalists Triumph in a Specialized World@_** by David Epstein; 352pp/10:17 (6/27/2019)</br>
 1. _The Map of Knowledge: How Classical Ideas Were Lost and Found: A History in Seven Cities@_ by Violet Moller; 304pp/8:46 (6/27/2019)</br>
+1. **_No Cheering in the Press Box_** by Jerome Holtzman; 363pp (6/29/2019)</br>
+1. _Talking as Fast as I Can: From Gilmore Girls to Gilmore Girls@_ by Lauren Graham; 224pp/4:35 (6/30/2019)</br>
+1. **_Safely to the Earth: The Men and Women Who Brought the Astronauts Home@_** by Jack Clemons; 280pp/8:48 (7/1/2019)</br>
