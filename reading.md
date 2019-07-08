@@ -902,3 +902,5 @@
 1. **_No Cheering in the Press Box_** by Jerome Holtzman; 363pp (6/29/2019)</br>
 1. _Talking as Fast as I Can: From Gilmore Girls to Gilmore Girls@_ by Lauren Graham; 224pp/4:35 (6/30/2019)</br>
 1. **_Safely to the Earth: The Men and Women Who Brought the Astronauts Home@_** by Jack Clemons; 280pp/8:48 (7/1/2019)</br>
+1. **_The Gatekeepers: How the White House Chiefs of Staff Define Every Presidency@_** by Chris Whipple; 384pp/12:14 (7/2/2019)</br>
+1. _Decision Points@_ by George W. Bush; 497pp/20:06 (7/6/2019)</br>
