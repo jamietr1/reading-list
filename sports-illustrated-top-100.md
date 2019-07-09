@@ -90,7 +90,7 @@
 90. _Road Swing_ by Steve Rushin (1998)
 91. _Golf in the Kingdom_ by Michael Murphy (1972)
 92. _Game Misconduct_ by Russ Conway (1995)
-93. _No Cheers in the Press Box_ by Jerome Holtzman (1973)
+93. **_No Cheering in the Press Box_** by Jerome Holtzman (1973)
 94. _Beer and Circus_ by Murray Spurber (2000)
 95. _The Harder They Fall_ by Budd Schulberg (1947)
 96. _The Tumalt and the Shouting_ by Grantland Rice (1954)
