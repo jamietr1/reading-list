@@ -905,4 +905,5 @@
 1. **_The Gatekeepers: How the White House Chiefs of Staff Define Every Presidency@_** by Chris Whipple; 384pp/12:14 (7/2/2019)</br>
 1. _Decision Points@_ by George W. Bush; 497pp/20:06 (7/6/2019)</br>
 1. **_Red Rabbit@_** by Tom Clancy; 640pp/26:21 (7/9/2019)</br>
-1. **_For the Good of the Game: The Inside Story of the Surprising and Dramatic Transformation of Major League Baseball@_** by Bud Selig; 336pp/10:32 (7/12/2019)</br> 
+1. **_For the Good of the Game: The Inside Story of the Surprising and Dramatic Transformation of Major League Baseball@_** by Bud Selig; 336pp/10:32 (7/12/2019)</br>
+1. **_The Making of a Justice: Reflections on My First 94 Years@_** by John Paul Stevens; 560pp/18:31 (7/18/2019)</br>
