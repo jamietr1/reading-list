@@ -908,3 +908,5 @@
 1. **_For the Good of the Game: The Inside Story of the Surprising and Dramatic Transformation of Major League Baseball@_** by Bud Selig; 336pp/10:32 (7/12/2019)</br>
 1. **_Skunk Works: A Personal Memoir of My Years at Lockheed@_** by Ben Rich; 382pp/12:08 (7/14/2019)</br>
 1. **_The Making of a Justice: Reflections on My First 94 Years@_** by John Paul Stevens; 560pp/18:31 (7/18/2019)</br>
+1. **_The Dark Tower, Book 5: Wolves of the Calla@_** by Stephen King; 931pp/26:20 (8/7/2019)</br>
+1. _The Destiny Thief: Essays on Writing, Writers and Life@_ by Richard Russo; 224pp/7:35 (8/9/2019)</br>
