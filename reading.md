@@ -910,3 +910,4 @@
 1. **_The Making of a Justice: Reflections on My First 94 Years@_** by John Paul Stevens; 560pp/18:31 (7/18/2019)</br>
 1. **_The Dark Tower, Book 5: Wolves of the Calla@_** by Stephen King; 931pp/26:20 (8/7/2019)</br>
 1. _The Destiny Thief: Essays on Writing, Writers and Life@_ by Richard Russo; 224pp/7:35 (8/9/2019)</br>
+1. **_Empire Falls@_** by Richard Russo; 496pp/20:26 (8/15/2019)</br>
