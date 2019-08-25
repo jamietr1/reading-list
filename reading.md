@@ -911,3 +911,5 @@
 1. **_The Dark Tower, Book 5: Wolves of the Calla@_** by Stephen King; 931pp/26:20 (8/7/2019)</br>
 1. _The Destiny Thief: Essays on Writing, Writers and Life@_ by Richard Russo; 224pp/7:35 (8/9/2019)</br>
 1. **_Empire Falls@_** by Richard Russo; 496pp/20:26 (8/15/2019)</br>
+1. **_84 Charing Cross Road@_** by Helene Hanff; 97pp/1:55 (8/24/2019)</br>
+1. _Ongoingness: The End of a Diary+_ by Sarah Manguso; 104pp (8/25/2019)</br>
