@@ -913,3 +913,4 @@
 1. **_Empire Falls@_** by Richard Russo; 496pp/20:26 (8/15/2019)</br>
 1. **_84 Charing Cross Road@_** by Helene Hanff; 97pp/1:55 (8/24/2019)</br>
 1. _Ongoingness: The End of a Diary+_ by Sarah Manguso; 104pp (8/25/2019)</br>
+1. **_Spying on the South: An Odyssey Across the American Divide@_** by Tony Horwitz; 436pp/17:11 (9/1/2019)</br>
