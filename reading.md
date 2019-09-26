@@ -915,3 +915,9 @@
 1. _Ongoingness: The End of a Diary+_ by Sarah Manguso; 104pp (8/25/2019)</br>
 1. **_Spying on the South: An Odyssey Across the American Divide@_** by Tony Horwitz; 436pp/17:11 (9/1/2019)</br>
 1. _The Log from the Sea of Cortez@_ by John Steinbeck; 288pp/11:46 (9/10/2019)</br>
+1. **_The Institute@_** by Stephen King; 561pp/18:59 (9/13/2019)</br>
+1. _The Greatest Minds and Ideas of All Time@_ by Will Durant; 144pp/3:12 (9/13/2019)</br>
+1. **_Heroes of History@_** by Will Durant; 352pp/12:15 (9/15/2019)</br>
+1. _The Lessons of History@_ by Will Durant; 119pp/5:35 (9/15/2019)</br>
+1. **_The Mosquito: A Human History of Our Deadliest Predator@_** by Timothy C. Winegard; 496pp/19:07 (9/21/2019)</br>
+1. **_On Writing@^_** by Stephen King; 320pp/8:05 (9/23/2019)</br>
