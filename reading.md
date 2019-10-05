@@ -921,3 +921,5 @@
 1. _The Lessons of History@_ by Will Durant; 119pp/5:35 (9/15/2019)</br>
 1. **_The Mosquito: A Human History of Our Deadliest Predator@_** by Timothy C. Winegard; 496pp/19:07 (9/21/2019)</br>
 1. **_On Writing@^_** by Stephen King; 320pp/8:05 (9/23/2019)</br>
+1. **_The Calculating Stars@_** by Mary Robinette Kowal; 431pp/11:38 (9/28/2019)</br>
+1. _The Spy Who Came in from the Cold@_ by John le Carre; 224pp/7:00 (10/2/2019)</br>
