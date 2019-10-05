@@ -923,3 +923,4 @@
 1. **_On Writing@^_** by Stephen King; 320pp/8:05 (9/23/2019)</br>
 1. **_The Calculating Stars@_** by Mary Robinette Kowal; 431pp/11:38 (9/28/2019)</br>
 1. _The Spy Who Came in from the Cold@_ by John le Carre; 224pp/7:00 (10/2/2019)</br>
+1. **_The Cold Dish: Walt Longmire, Book 1@_** by Craig Johnson; 354pp/13:17 (10/5/2019)</br>
