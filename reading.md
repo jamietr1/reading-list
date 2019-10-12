@@ -924,3 +924,7 @@
 1. **_The Calculating Stars@_** by Mary Robinette Kowal; 431pp/11:38 (9/28/2019)</br>
 1. _The Spy Who Came in from the Cold@_ by John le Carre; 224pp/7:00 (10/2/2019)</br>
 1. **_The Cold Dish: Walt Longmire, Book 1@_** by Craig Johnson; 354pp/13:17 (10/5/2019)</br>
+1. **_Death Without Company: Walt Longmire, Book2@_** by Craig Johnson; 271pp/9:48 (10/7/2019)</br>
+1. **_Kindness Goes Unpunished: Walt Longmire, Book 3@_** by Craig Johnson; 288pp/8:42 (10/7/2019)</br>
+1. _Letters from an Astrophysicist@_ by Neil deGrasse Tyson; 272pp; 5:35 (10/8/2019)</br>
+1. _Another Man's Mocassins@_ by Craig Johnson; 304pp/8:43 (10/10/2019)</br>
