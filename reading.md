@@ -927,4 +927,6 @@
 1. **_Death Without Company: Walt Longmire, Book2@_** by Craig Johnson; 271pp/9:48 (10/7/2019)</br>
 1. **_Kindness Goes Unpunished: Walt Longmire, Book 3@_** by Craig Johnson; 288pp/8:42 (10/7/2019)</br>
 1. _Letters from an Astrophysicist@_ by Neil deGrasse Tyson; 272pp/5:35 (10/8/2019)</br>
-1. _Another Man's Moccasins@_ by Craig Johnson; 304pp/8:43 (10/10/2019)</br>
+1. _Another Man's Moccasins: Walt Longmire, Book 4@_ by Craig Johnson; 304pp/8:43 (10/10/2019)</br>
+1. _The Dark Horse: Walt Longmire, Book 5@_ by Craig Johnson; 318pp/9:32 (10/13/2019)</br>
+1. _Junkyard Dogs: Walt Longmire, Book 6@_ by Craig Johnson; 306pp/7:33 (10/15/2019)</br>
