@@ -930,3 +930,5 @@
 1. _Another Man's Moccasins: Walt Longmire, Book 4@_ by Craig Johnson; 304pp/8:43 (10/10/2019)</br>
 1. _The Dark Horse: Walt Longmire, Book 5@_ by Craig Johnson; 318pp/9:32 (10/13/2019)</br>
 1. _Junkyard Dogs: Walt Longmire, Book 6@_ by Craig Johnson; 306pp/7:33 (10/15/2019)</br>
+1. **_Hell Is Empty: Walt Longmire, Book 7@_** by Craig Johnson; 309pp/8:28 (10/17/2019)</br>
+1. _As the Crow Flies: Walt Longmire, Book 8@_ by Craig Johnson; 308pp/9:25 (10/20/2019)</br>
