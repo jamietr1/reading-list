@@ -933,3 +933,4 @@
 1. **_Hell Is Empty: Walt Longmire, Book 7@_** by Craig Johnson; 309pp/8:28 (10/17/2019)</br>
 1. _As the Crow Flies: Walt Longmire, Book 8@_ by Craig Johnson; 308pp/9:25 (10/20/2019)</br>
 1. _A Serpent's Tooth: Walt Longmire, Book 9@_ by Craig Johnson; 335pp/9:26 (10/23/2019)</br>
+1. _Edison@_ by Edmund Morris; 800pp/25:05 (10/29/2019)</br>
