@@ -934,3 +934,6 @@
 1. _As the Crow Flies: Walt Longmire, Book 8@_ by Craig Johnson; 308pp/9:25 (10/20/2019)</br>
 1. _A Serpent's Tooth: Walt Longmire, Book 9@_ by Craig Johnson; 335pp/9:26 (10/23/2019)</br>
 1. _Edison@_ by Edmund Morris; 800pp/25:05 (10/29/2019)</br>
+1. _Blue Moon, Jack Reacher book 24@_ by Lee Child; 356pp/11:21 (10/30/2019)</br>
+1. **_Any Other Name: Walt Longmire, Book 10@_** by Craig Johnson; 317pp/8:30 (11/3/2019)</br>
+1. **_Wait for Signs: Walt Longmire, Book 10.5@_** by Craig Johnson; 183pp/5:08 (11/4/2019)</br>
