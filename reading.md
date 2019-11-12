@@ -937,4 +937,6 @@
 1. _Blue Moon, Jack Reacher book 24@_ by Lee Child; 356pp/11:21 (10/30/2019)</br>
 1. **_Any Other Name: Walt Longmire, Book 10@_** by Craig Johnson; 317pp/8:30 (11/3/2019)</br>
 1. **_Wait for Signs: Walt Longmire, Book 10.5@_** by Craig Johnson; 183pp/5:08 (11/4/2019)</br>
-2. _Dry Bones: Walt Longmire, Book 11@_ by Craig Johnson; 306pp/8:16 (11/7/2019)</br>
+1. _Dry Bones: Walt Longmire, Book 11@_ by Craig Johnson; 306pp/8:16 (11/7/2019)</br>
+1. _Tolkien and the Great War: The Threshold to Middle-Earth@_ by John Garth; 398pp/11:25 (11/9/2019)</br>
+1. _The Fellowship of the Ring@_ by J.R.R. Tolkien; 398pp/19:07 (11/12/2019)</br>
