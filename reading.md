@@ -941,3 +941,5 @@
 1. _Tolkien and the Great War: The Threshold to Middle-Earth@_ by John Garth; 398pp/11:25 (11/9/2019)</br>
 1. _The Fellowship of the Ring@_ by J.R.R. Tolkien; 398pp/19:07 (11/12/2019)</br>
 1. _The Founding Fish@_ by John McPhee; 368pp/14:11 (11/13/2019)</br>
+1. _The Highwayman: Walt Longmire, Book 11.5@_ by Craig Johnson; 190pp/3:43 (11/15/2019)</br>
+1. **_An Obvious Fact: Walt Longmire, Book 12@_** by Craig Johnson; 317pp/7:50 (11/17/2019)</br>
