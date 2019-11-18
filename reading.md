@@ -943,3 +943,4 @@
 1. _The Founding Fish@_ by John McPhee; 368pp/14:11 (11/13/2019)</br>
 1. _The Highwayman: Walt Longmire, Book 11.5@_ by Craig Johnson; 190pp/3:43 (11/15/2019)</br>
 1. **_An Obvious Fact: Walt Longmire, Book 12@_** by Craig Johnson; 317pp/7:50 (11/17/2019)</br>
+1. _Silk Parachute@_ by John McPhee; 227pp/6:42 (11/18/2019)</br>
