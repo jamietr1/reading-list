@@ -947,4 +947,4 @@
 1. **_The Western Star: Walt Longmire, Book 13@_** by Craig Johnson; 303pp/7:39 (11/19/2019)</br>
 1. **_Depth of Winter: Walt Longmire, Book 14@_** by Craig Johnson; 304pp/7:55 (11/20/2019)</br>
 1. **_Land of Wolves: Walt Longmire, Book 15@_** by Craig Johnson; 336pp/8:10 (11/21/2019)</br>
-1. **Becoming Dr. Seuss: Theodor Geisel and the Making of an American Imagination@_** by Brian Jay Jones; 495pp/18:00 (11/24/2019)</br>
+1. **_Becoming Dr. Seuss: Theodor Geisel and the Making of an American Imagination@_** by Brian Jay Jones; 495pp/18:00 (11/24/2019)</br>
