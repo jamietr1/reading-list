@@ -948,3 +948,7 @@
 1. **_Depth of Winter: Walt Longmire, Book 14@_** by Craig Johnson; 304pp/7:55 (11/20/2019)</br>
 1. **_Land of Wolves: Walt Longmire, Book 15@_** by Craig Johnson; 336pp/8:10 (11/21/2019)</br>
 1. **_Becoming Dr. Seuss: Theodor Geisel and the Making of an American Imagination@_** by Brian Jay Jones; 495pp/18:00 (11/24/2019)</br>
+1. **_The Spirit of Steamboat: Walt Longmire, Book 9.5@_** by Craig Johnson; 146pp/3:39 (11/25/2019)</br>
+1. **_Common Nonsense^_** by Andy Rooney; 366pp (11/25/2019)</br>
+1. **_Sincerely, Andy Rooney^_** by Andy Rooney; 325pp (11/28/2019)</br>
+1. **_One Man's Meat@^_** by E. B. White; 296pp/11:48 (11/30/2019)</br>
