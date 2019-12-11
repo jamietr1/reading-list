@@ -952,3 +952,5 @@
 1. **_Common Nonsense^_** by Andy Rooney; 366pp (11/25/2019)</br>
 1. **_Sincerely, Andy Rooney^_** by Andy Rooney; 325pp (11/28/2019)</br>
 1. **_One Man's Meat@^_** by E. B. White; 296pp/11:48 (11/30/2019)</br>
+1. **_Out of My Mind^_** by Andy Rooney; 368pp (12/6/2019)</br>
+1. **_An Army at Dawn: The War in North Africa, 1942-1943@_** by Rick Atkinson; 704pp/26:05 (12/10/2019)</br>
