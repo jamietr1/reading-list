@@ -954,3 +954,9 @@
 1. **_One Man's Meat@^_** by E. B. White; 296pp/11:48 (11/30/2019)</br>
 1. **_Out of My Mind^_** by Andy Rooney; 368pp (12/6/2019)</br>
 1. **_An Army at Dawn: The War in North Africa, 1942-1943@_** by Rick Atkinson; 704pp/26:05 (12/10/2019)</br>
+1. **_Essays of E. B. White@_** by E. B. White; 364pp/12:17 (12/11/2019)</br>
+1. _Disney's Land: Walt Disney and the Invention of the Amusment Park that Changes the World@_ by Richard Snow; 432pp/12:01 (12/14/2019)</br>
+1. _The Day of Battle: The War in Sicily and Italy, 1943-1944@_ by Rick Atkinson; 793pp/32:41 (12/20/2019)</br>
+1. **_The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company@_** by Robert Iger; 272pp/8:45 (12/26/2019)</br>
+1. **_George Lucas: A Life@_** by Brian Jay Jones; 550pp/18:18 (12/29/2019)</br>
+1. _Anything You Can Imagine: Peter Jackson and the Making of Middle-Earth@_ by Ian Nathan; 592pp/22:03 (12/31/2019)</br>
