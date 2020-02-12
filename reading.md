@@ -959,4 +959,14 @@
 1. _The Day of Battle: The War in Sicily and Italy, 1943-1944@_ by Rick Atkinson; 793pp/32:41 (12/20/2019)</br>
 1. **_The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company@_** by Robert Iger; 272pp/8:45 (12/26/2019)</br>
 1. **_George Lucas: A Life@_** by Brian Jay Jones; 550pp/18:18 (12/29/2019)</br>
-1. _Anything You Can Imagine: Peter Jackson and the Making of Middle-Earth@_ by Ian Nathan; 592pp/22:03 (12/31/2019)</br>
+1. _Anything You Can Imagine: Peter Jackson and the Making of Middle-Earth@_ by Ian Nathan; 592pp/22:03 (1/1/2020)</br>
+1. **_Outliers: The Story of Success@_** by Malcolm Gladwell; 309pp/7:18 (1/3/2020)</br>
+1. **_Exhilation: Stories@_** by Ted Chaing; 352pp/11:22 (1/10/2020)</br>
+1. _Consider This: The Moments in My Writing Life After Which Everything Was Different@_ by Chuck Palahniuk; 256pp/5:52 (1/10/2020)</br>
+1. **_Draft No. 4: On the Writing Process@_** by John McPhee; 208pp/6:49 (1/10/2020)</br>
+1. _The Second John McPhee Reader, Book One@_ by John McPhee; 208pp/7:34 (1/12/2020)</br>
+1. _The Second John McPhee Reader, Book Two@_ by John McPhee; 208pp/9:11 (1/14/2020)</br>
+1. _You're Not Listening: What You're Missing and Why It Matters@_ by Kate Murphy; 288pp/6:31 (1/17/2020)</br>
+1. **_The Pine Barrens_** by John McPhee; 157pp (1/18/2020)</br>
+1. **_The Survival of the Bark Canoe_** by John McPhee; 160p (1/20/2020)</br>
+1. **_Table of Contents_** by John McPhee; 304pp (2/5/2020)</br>
