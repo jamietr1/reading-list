@@ -971,3 +971,4 @@
 1. **_The Survival of the Bark Canoe_** by John McPhee; 160p (1/20/2020)</br>
 1. **_Table of Contents_** by John McPhee; 304pp (2/5/2020)</br>
 1. **_Our Towns: A 100,000-Mile Journey Into the Heart of America@_** by James Fallows and Deborah Fallows; 413pp/15:43 (2/17/2020)</br>
+1. **_The American Story: Conversations with Master Historians@_** by David M. Rubenstein; 416pp/9:52 (2/18/2020)</br>
