@@ -972,3 +972,4 @@
 1. **_Table of Contents_** by John McPhee; 304pp (2/5/2020)</br>
 1. **_Our Towns: A 100,000-Mile Journey Into the Heart of America@_** by James Fallows and Deborah Fallows; 413pp/15:43 (2/17/2020)</br>
 1. **_The American Story: Conversations with Master Historians@_** by David M. Rubenstein; 416pp/9:52 (2/18/2020)</br>
+1. **_Author In Chief: The Untold Story of Our Presidents and the Books They Wrote@_** by Craig Fehrman; 448pp/15:38 (2/20/2020)</br>
