@@ -973,3 +973,13 @@
 1. **_Our Towns: A 100,000-Mile Journey Into the Heart of America@_** by James Fallows and Deborah Fallows; 413pp/15:43 (2/17/2020)</br>
 1. **_The American Story: Conversations with Master Historians@_** by David M. Rubenstein; 416pp/9:52 (2/18/2020)</br>
 1. **_Author In Chief: The Untold Story of Our Presidents and the Books They Wrote@_** by Craig Fehrman; 448pp/15:38 (2/20/2020)</br>
+1. **_Citizen Reporter: S.S. McLure, Ida Tarbell, and the Magazine That Rewrote America@_** by Stephanie Gorton; 384pp/11:37 (2/22/2020)</br>
+1. **_747: Creating the World's First Jumbo Jet and Other Adventures in Aviation@_** by Joe Sutter; 288pp/10:34 (2/24/2020)</br>
+1. _Facebook: The Inside Story@_ by Steven Levy; 592pp/18:57 (3/5/2020)</br>
+1. **_Alexander Hamilton@_** by Ron Chernow; 811pp/35:58 (3/15/2020)</br>
+1. _John Adams Under Fire: The Founding Father's Fight for Justice in the Boston Massacre Murder Trial@_ by Dan Abrams and Roger Wayne; 278pp/9:53 (3/19/2020)</br>
+1. **_The Decadent Society: How We Became Victims of Our Own Success@_** by Ross Douthat; 272pp/8:13 (3/23/2020)</br>
+1. **_If It Bleeds@_** by Stephen King; 675pp/15:12 (4/26/2020)</br>
+1. _End of Watch@_ by Stephen King; 432pp/12:52 (4/30/2020)</br>
+1. _Camino Island@_ by John Grisham; 290pp/8:45 (5/1/2020)</br>
+1. **_The Black Echo, Harry Bosch #1@_** by Michael Connelly; 432pp/14:54 (5/2/2020)</br>
