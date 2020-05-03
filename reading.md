@@ -983,3 +983,4 @@
 1. _End of Watch@_ by Stephen King; 432pp/12:52 (4/30/2020)</br>
 1. _Camino Island@_ by John Grisham; 290pp/8:45 (5/1/2020)</br>
 1. **_The Black Echo, Harry Bosch #1@_** by Michael Connelly; 432pp/14:54 (5/2/2020)</br>
+1. _The Black Ice@_ by Michael Connelly; 464pp/11:38 (5/3/2020)</br>
