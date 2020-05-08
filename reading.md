@@ -985,3 +985,6 @@
 1. **_The Black Echo, Harry Bosch #1@_** by Michael Connelly; 432pp/14:54 (5/2/2020)</br>
 1. _The Black Ice@_ by Michael Connelly; 464pp/11:38 (5/3/2020)</br>
 1. **Skyfaring: A Journey with a Pilot@_** by Mark Vanhoenacker; 370pp/12:47 (5/4/2020)</br>
+1. **_Over Time: My Life as a Sportswriter@_** by Frank Deford; 354pp/12:26 (5/5/2020)</br>
+1. **_The Concrete Blonde@_** by Michael Connelly; 484pp/14:26 (5/6/2020)</br>
+1. _The Last Coyote@_ by Michael Connelly; 400pp/13:26 (5/8/2020)</br>
