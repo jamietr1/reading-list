@@ -992,3 +992,9 @@
 1. **_The Thrill of the Grass@_** by W.P. Kinsella; 208pp/6:08 (5/10/2020)</br>
 1. _The Dixon Cornbelt League and Other Baseball Stories@_ by W.P. Kinsella; 180pp/3:42 (5/10/2020)</br>
 1. **_The Old Ball Game: How John McGraw, Christy Matthewson and the New York Giants Created Modern Baseball@_** by Frank Deford; 241pp/7:20 (5/11/2020)</br>
+1. **_Yogi: A Life Behind the Mask@_** by Jon Pessah; 576pp/21:10 (5/12/2020)</br>
+1. **_The Colorado Kid@^_** by Stephen King; 178pp/3:38 (5/13/2020)</br>
+1. _The Natural@^_ by Bernard Malamud; 240pp/7:05 (5/14/2020)</br>
+1. **_The Dark Tower, Book 6: Song of Susannah@^_** by Stephen King; 544pp/14:10 (5/15/2020)</br>
+1. **_The Dark Tower, Book 7: The Dark Tower@^_** by Stephen King; 1050pp/28:10 (5/18/2020)</br>
+1. _The Reformation@_ by Will Durant; 1025pp/50:08 (5/23/2020)</br>
