@@ -998,3 +998,34 @@
 1. **_The Dark Tower, Book 6: Song of Susannah@^_** by Stephen King; 544pp/14:10 (5/15/2020)</br>
 1. **_The Dark Tower, Book 7: The Dark Tower@^_** by Stephen King; 1050pp/28:10 (5/18/2020)</br>
 1. _The Reformation@_ by Will Durant; 1025pp/50:08 (5/23/2020)</br>
+1. **_Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe@_** by Brian Greene; 384pp (5/26/2020)</br>
+1. _The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos@_ by Brian Greene; 384pp (5/30/2020)</br>
+1. **_Naturalist@_** by Edward O. Wilson; 416pp (6/5/2020)</br>
+1. _Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons and World-Class Performers@_ by Tim Ferriss; 707pp (6/8/2020)</br>
+1. _On the Shortness of Life@_ by Seneca; 106pp (6/8/2020)</br>
+1. **_John Quincy Adams: Militant Spirit@_** by James Traub; 640pp (6/13/2020)</br>
+1. **_Daily Rituals: How Artists Work@_** by Mason Currey; 304pp (6/14/2020)</br>
+1. _The Old Man@_ by Thomas Perry; 352pp (6/16/2020)</br>
+1. **_Tribe of Mentors: Short Life Advice from the Best in the World@_** by Tim Ferriss; 561pp (6/23/2020)</br>
+1. _Man's Search for Meaning@_ by Viktor E. Frankl; 165pp (6/24/2020)</br>
+1. **_My Anecdotal Life: A Memoir@_** by Carl Reiner; 256pp (7/6/2020)</br>
+1. **_I Remember Me@_** by Carl Reiner; 303pp (7/8/2020)</br>
+1. _I Just Remembered@_ by Carl Reiner; 250pp (7/10/2020)</br>
+1. **_How the Mind Works@_** by Steven Pinker; 660pp (7/14/2020)</br>
+1. **_The Cold Dish: Walt Longmire, Book 1@_** by Craig Johnson; 354pp/13:17 (7/22/2020)</br>
+1. **_Death Without Company: Walt Longmire, Book2@_** by Craig Johnson; 271pp/9:48 (7/25/2020)</br>
+1. **_Kindness Goes Unpunished: Walt Longmire, Book 3@_** by Craig Johnson; 288pp/8:42 (7/25/2020)</br>
+1. **_Another Man's Moccasins: Walt Longmire, Book 4@_** by Craig Johnson; 304pp/8:43 (7/27/2020)</br>
+1. _The Dark Horse: Walt Longmire, Book 5@_ by Craig Johnson; 318pp/9:32 (7/29/2020)</br>
+1. _Junkyard Dogs: Walt Longmire, Book 6@_ by Craig Johnson; 306pp/7:33 (8/1/2020)</br>
+1. **_Hell Is Empty: Walt Longmire, Book 7@_** by Craig Johnson; 309pp/8:28 (8/2/2020)</br>
+1. _As the Crow Flies: Walt Longmire, Book 8@_ by Craig Johnson; 308pp/9:25 (8/3/2020)</br>
+1. **_A Serpent's Tooth: Walt Longmire, Book 9@_** by Craig Johnson; 335pp/9:26 (8/6/2020)</br>
+1. **_Any Other Name: Walt Longmire, Book 10@_** by Craig Johnson; 317pp/8:30 (8/7/2020)</br>
+1. **_Wait for Signs: Walt Longmire, Book 10.5@_** by Craig Johnson; 183pp/5:08 (8/9/2020)</br>
+1. _Dry Bones: Walt Longmire, Book 11@_ by Craig Johnson; 306pp/8:16 (8/12/2020)</br>
+1. **_An Obvious Fact: Walt Longmire, Book 12@_** by Craig Johnson; 317pp/7:50 (8/15/2020)</br>
+1. _The Hardest Job in the World: The American Presidency@_ by John Dickerson; 224pp (8/27/2020)</br>
+1. **_Tales from the Ant World@_** by Edward O. Wilson; 288pp (8/29/2020)</br>
+1. **_The Great Influenza: The Story of the Deadliest Pandemic in History@_** by John M. Barry; 546pp (9/12/2020)</br>
+1. _The Alice Behind Wonderland@_ by Simon Winchester; 110pp (9/16/2020)</br>
