@@ -1029,3 +1029,9 @@
 1. **_Tales from the Ant World@_** by Edward O. Wilson; 288pp (8/29/2020)</br>
 1. **_The Great Influenza: The Story of the Deadliest Pandemic in History@_** by John M. Barry; 546pp (9/12/2020)</br>
 1. _The Alice Behind Wonderland@_ by Simon Winchester; 110pp (9/16/2020)</br>
+1. **_The Great Bridge: The Epic Story of the Building of the Brooklyn Bridge@_** by David McCullough; 608pp (9/21/2020)</br>
+1. _Next to Last Stand, Longmire Book 16@_ by Craig Johnson; 336pp (9/24/2020)</br>
+1. **_The Wright Brothers@_** by David McCullough; 320pp (9/26/2020)</br>
+1. **_The Age of Reason Begins: The Story of Civilization, Vol 7@_** by Will Durant and Ariel Durant; 729pp (10/3/2020)</br>
+1. **_One Man's Meat@_** by E. B. White; 279pp/11:48 (10/6/2020)</br>
+1. _Is This Anything?@_ by Jerry Seinfeld; 480pp (10/8/2020)</br>
