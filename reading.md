@@ -1035,3 +1035,13 @@
 1. **_The Age of Reason Begins: The Story of Civilization, Vol 7@_** by Will Durant and Ariel Durant; 729pp (10/3/2020)</br>
 1. **_One Man's Meat@_** by E. B. White; 279pp/11:48 (10/6/2020)</br>
 1. _Is This Anything?@_ by Jerry Seinfeld; 480pp (10/8/2020)</br>
+1. _The Polymath: A Cultural History from Leonardo da Vinci to Susan Sontag@_ by Peter Burke; 352pp (10/9/2020)</br>
+1. **_The Man Who Love China: The Fantastic Story of the Eccentric Scientist Who Unlocked the Mysteries of the Middle Kingdom@_** by Simon Winchester; 352pp/9:11 (10/11/2020)</br>
+1. _Cubed: The Puzzle of All of Us@_ by Erno Rubik; 208pp/6:18 (10/14/2020)</br>
+1. **_Truman@_** by David McCullough; 1120pp/54:11 (10/21/2020)</br>
+1. **_The Ultimate Engineer: The Remarkable Life of NASA's Visionary Leader George M. Low@_** by Richard Jurek; 344pp/10:49 (10/25/2020)</br>
+1. **_Chariots for Apollo: The NASA History of Manned Lunar Spacecraft to 1969@_** by Courtney G. Brooks and James M. Grimwood and Loyd S. Swenson Jr.; 576pp (11/1/2020)</br>
+1. **_Essays of E. B. White@_** by E. B. White; 364pp/12:17 (11/12/2020)</br>
+1. **_Master of the Senate@_** by Robert A. Caro; 1167pp/56:48 (11/14/2020)</br>
+1. **_Into the Black: The Extraordinary Untold Story of the First Flight of the Space Shuttle Columbia and the Astronauts Who Flew Her@_** by Rowland White; 480pp/15:51 (11/15/2020)</br>
+1. **_The Way of Kings@_** by Brandon Sanderson; 1007pp/45:30 (11/22/2020)</br>
