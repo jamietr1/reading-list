@@ -1045,3 +1045,5 @@
 1. **_Master of the Senate@_** by Robert A. Caro; 1167pp/56:48 (11/14/2020)</br>
 1. **_Into the Black: The Extraordinary Untold Story of the First Flight of the Space Shuttle Columbia and the Astronauts Who Flew Her@_** by Rowland White; 480pp/15:51 (11/15/2020)</br>
 1. **_The Way of Kings@_** by Brandon Sanderson; 1007pp/45:30 (11/22/2020)</br>
+1. **_Words of Radiance@_** by Brandon Sanderson; 1088pp/48:13 (11/30/2020)</br>
+1. _Edgedancer@_ by Brandon Sanderson; 272pp/6:23 (12/1/2020)</br>
