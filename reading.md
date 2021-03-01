@@ -1047,3 +1047,17 @@
 1. **_The Way of Kings@_** by Brandon Sanderson; 1007pp/45:30 (11/22/2020)</br>
 1. **_Words of Radiance@_** by Brandon Sanderson; 1088pp/48:13 (11/30/2020)</br>
 1. _Edgedancer@_ by Brandon Sanderson; 272pp/6:23 (12/1/2020)</br>
+1. _Oathbringer@_ by Brandon Sanderson; 1,220pp/55:05 (1/2/2021)</br>
+1._The Sentinel@_ by Lee Child and Andrew Child; 368pp/10:39 (1/3/2021)</br>
+1. _**Land@_** by Simon Winchester; 463pp/13:46 (1/23/2021)</br>
+1. **_Creativity, Inc.: Overcoming the Unseen Forces that Stand in the Way of True Inspiration_**@ by Ed Catmull and Amy Wallace; 368pp/12:52 (1/25/2021)</br>
+1. _Walt Disney: Triumph of the American Imagination_ by Neal Gabler; 880pp/33:20 (2/13/2021)</br>
+1. **_Probable Impossibilities: Musings on Beginnings and Endings@_** by Alan Lightman; 144pp/5:45 (2/13/2021)</br>
+1. _In Praise of Wasting Time@_ by Alan Lightman; 102pp/2:39 (2/14/2021)</br>
+1. **_When Einstein Walked with Godel: Exursions to the Edge of Thought@_** by Jim Holt; 386pp/15:19 (2/16/2021)</br>
+1. **_Moonwalking with Einstein: The Art and Science of Remembering Everything@_** by Joshuah Foer; 320pp/9:31 (2/17/2021)</br>
+1. _Ticking Clock: Behing the Scenes at 60 Minutes@_ by Ira Rosen; 336pp/11:09 (2/19/2021)</br>
+1. **_The Great Railway Bazaar@_** by Paul Theroux; 338pp/10:53 (2/21/2021)</br>
+1. _Figures in a Landscape: People and Places@_ by Paul Theroux; 414pp/16:45 (2/24/2021)</br>
+1. _Sunrise with Seamonsters@_ by Paul Theroux; 384pp/17:03 (3/28/2021)</br>
+1062.  _[[Sunrise with Seamonsters]]@_ by [[Theroux, Paul]]; 384pp/17:03 (3/28/2021)
