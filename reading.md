@@ -1061,3 +1061,18 @@
 1. _Figures in a Landscape: People and Places@_ by Paul Theroux; 414pp/16:45 (2/24/2021)</br>
 1. _Sunrise with Seamonsters@_ by Paul Theroux; 384pp/17:03 (3/28/2021)</br>
 1. _From Earth to Heaven_ by Isaac Asimov; 256pp (3/1/2021)</br>
+1. **_Later@_** by Stephen King; 248pp (3/2/2021)</br>
+1. _Fresh Air Fiend: Travel Writings@_ by Paul Theroux; 480pp (3/6/2021)</br>
+1. **_The Old Patagonian Express: By Train Through the Americas@_** by Paul Theroux; 404pp (3/11/2021)</br>
+1. **_The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race@_** by Walter Isaacson; (3/15/2021)</br>
+1. **_The Accidental Universe: The World You Thought You Knew@_** by Alan Lightman; 157pp (3/15/2021)</br>
+1. **_A Sense of the Mysterious: Science and the Human Spirit@_** by Alan Lightman; 211pp (3/16/2021)</br>
+1. **_The Information: A History, A Theory, A Flood@_** by James Gleick; 527pp (3/20/2021)</br>
+1. _Hackers: Heroes of the Computer Revolution@^_ by Steven Levy; 464pp (3/26/2021)</br>
+1. _Working in Public: The Making and Maintenance of Open Source Software@_ by Nadia Eghbal; 256pp (3/27/2021)</br>
+1. **_The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution@^_** by Walter Isaacson; 542pp (3/28/2021)</br>
+1. **_UNIX: A History and a Memoir+_** by Brian W. Kernighan; (3/31/2021)</br>
+1. **_A Mind at Play: How Claude Shannon Invented the Information Age@_** by Jimmi Soni; 384pp (4/3/2021)</br>
+1. _A World Without Email: Reimagining Work in an Age of Communication Overload@_ by Cal Newport; 320pp (4/5/2021)</br>
+1. **_Turing's Cathedral: The Origins of the Digital Universe@_** by George Dyson; 505pp (4/5/2021)</br>
+1. _Alan Turing: The Enigma@_ by Andrew Hodges; 608pp (4/19/2021)</br>
