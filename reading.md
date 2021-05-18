@@ -1076,3 +1076,7 @@
 1. _A World Without Email: Reimagining Work in an Age of Communication Overload@_ by Cal Newport; 320pp (4/5/2021)</br>
 1. **_Turing's Cathedral: The Origins of the Digital Universe@_** by George Dyson; 505pp (4/5/2021)</br>
 1. _Alan Turing: The Enigma@_ by Andrew Hodges; 608pp (4/19/2021)</br>
+1. **_Where the Wizards Stay Up Late: The Origins of the Internet@_** by Katie Hafner; 304pp (4/23/2021)</br>
+1. **_The Soul of a New Machine@_** by Tracy Kidder; 293pp (4/27/2021)<br>
+1. **_The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal@_** by Waldrop M. Mictchell; 512pp (5/10/2021)</br>
+1. **_Project Hail Mary@_** by Andy Weir; 476pp (5/14/2021)</br>
