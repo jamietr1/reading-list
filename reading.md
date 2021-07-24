@@ -1080,3 +1080,16 @@
 1. **_The Soul of a New Machine@_** by Tracy Kidder; 293pp (4/27/2021)<br>
 1. **_The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal@_** by Waldrop M. Mictchell; 512pp (5/10/2021)</br>
 1. **_Project Hail Mary@_** by Andy Weir; 476pp (5/14/2021)</br>
+1. _Press Reset: Ruin and Recovery in the Video Game Industry@_ by Jason Schreier; 300pp (5/19/2021)</br>
+1. **_Bag of Bones@_** by Stephen King; 736pp (5/26/2021)</br>
+1. _Trunk Music: Harry Bosch #5@_ by Michael Connelly; 448pp (5/29/2021)</br>
+1. **_Blood Word@_** by Michael Connelly; 480pp (5/30/2021)</br>
+1. **_Doctor Sleep@_** by Stephen King; 551pp (5/31/2021)</br>
+1. **_Angel's Flight@_** by Michael Connelly; 454pp (6/1/2021)</br>
+1. **_The Cold Dish: Walt Longmire, Book 1@_** by Craig Johnson; 354pp/13:17 (6/5/2021)</br>
+1. **_Death Without Company: Walt Longmire, Book2@_** by Craig Johnson; 271pp/9:48 (6/7/2021)</br>
+1. **_Kindness Goes Unpunished: Walt Longmire, Book 3@_** by Craig Johnson; 288pp/8:42 (6/9/2021)</br>
+1. **_Another Man's Moccasins: Walt Longmire, Book 4@_** by Craig Johnson; 304pp/8:43 (6/12/2021)</br>
+1. _The Dark Horse: Walt Longmire, Book 5@_ by Craig Johnson; 318pp/9:32 (6/17/2021)</br>
+1. **_What I Talk About When I Talk About Running@_** by Haruki Murakami; 188pp (7/7/2021)</br>
+1. _The Art of Learning: A Journey in the Pursuit of Excellence@_ by Josh Waitzkin; 265pp (7/11/2021)</br>
